@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T23:35:00",
+  "last_updated": "2026-08-01T23:35:42",
   "html": {
     "https://web.archive.org/web/20260303164507if_/https://twitter.com/Miiharukawa/status/2028874319363998169": {
       "status": "done",
@@ -26777,18 +26777,18 @@
       "referenced_by": [
         "20260407011714_twitter_com_Miiharukawa_status_2041324388461785163.json"
       ],
-      "last_updated": "2026-08-01T23:07:38",
+      "last_updated": "2026-08-01T23:35:26",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260407011714/https://video.twimg.com/tweet_video/HFQIXxMbMAAA_Wt.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2041368684321812480/vid/avc1/700x1280/KTVlTJHhpqmxqaz7.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260407044418_twitter_com_Miiharukawa_status_2041376499102871769.json"
       ],
-      "last_updated": "2026-08-01T22:39:24",
+      "last_updated": "2026-08-01T23:35:29",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260407044418/https://video.twimg.com/amplify_video/2041368684321812480/vid/avc1/700x1280/KTVlTJHhpqmxqaz7.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2041437011681419264/vid/avc1/720x1280/C6LqdXCMeCmAJADi.mp4": {
       "status": "done",
@@ -26852,9 +26852,9 @@
       "referenced_by": [
         "20260427142550_twitter_com_Miiharukawa_status_2048770602253910438.json"
       ],
-      "last_updated": "2026-08-01T22:39:24",
+      "last_updated": "2026-08-01T23:35:33",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260427142550/https://video.twimg.com/tweet_video/HG6RBOnacAApdZi.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HHAIp8VbUAAVPCa.mp4": {
       "status": "done",
@@ -26868,9 +26868,9 @@
       "referenced_by": [
         "20260428194106_twitter_com_Miiharukawa_status_2049212331410993531.json"
       ],
-      "last_updated": "2026-08-01T23:07:36",
+      "last_updated": "2026-08-01T23:35:35",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260428194106/https://video.twimg.com/amplify_video/2049206896046022656/vid/avc1/720x1280/wmd6Tn45Fnl6rWRS.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HHEXcHQaQAEFTDH.mp4": {
       "status": "done",
@@ -26884,9 +26884,9 @@
       "referenced_by": [
         "20260430002845_twitter_com_Miiharukawa_status_2049647108689641869.json"
       ],
-      "last_updated": "2026-08-01T22:39:24",
+      "last_updated": "2026-08-01T23:35:36",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260430002845/https://video.twimg.com/amplify_video/2049593936122134528/vid/avc1/720x1280/yGSD4WZu6J2Sw_Ly.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2049560922038169600/vid/avc1/716x734/bkrEBQUs6cELY-lE.mp4": {
       "status": "done",
@@ -26984,9 +26984,9 @@
       "referenced_by": [
         "20260601082805_twitter_com_Miiharukawa_status_2061364148592857266.json"
       ],
-      "last_updated": "2026-08-01T23:07:35",
+      "last_updated": "2026-08-01T23:35:37",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260601082805/https://video.twimg.com/ext_tw_video/2061344164391088128/pu/vid/avc1/720x1280/ReSRZK17w8uq8hDt.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HJx6Y1WbgAEYhV2.mp4": {
       "status": "done",
@@ -27052,13 +27052,13 @@
       "last_updated": "2026-08-01T22:39:23"
     },
     "https://video.twimg.com/tweet_video/HMmxOA6b0AAdM-4.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260707064415_twitter_com_Miiharukawa_status_2074383978677817461.json"
       ],
-      "last_updated": "2026-08-01T23:07:37",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260707064415/https://video.twimg.com/tweet_video/HMmxOA6b0AAdM-4.mp4",
-      "miss_count": 2
+      "last_updated": "2026-08-01T23:35:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260707064415im_/https://video.twimg.com/tweet_video/HMmxOA6b0AAdM-4.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f084bf404d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2075101962530623488/vid/avc1/720x1280/hYSiaPBdgZcapPHJ.mp4": {
       "status": "done",
@@ -88975,7 +88975,7 @@
       "last_updated": "2026-08-01T22:40:39"
     },
     "20260707064415_twitter_com_Miiharukawa_status_2074383978677817461.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -88985,7 +88985,7 @@
           "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T23:07:37",
+      "last_updated": "2026-08-01T23:35:42",
       "miss_count": 1
     },
     "20260707065557_twitter_com_Miiharukawa_status_2074386924836683790.json": {
