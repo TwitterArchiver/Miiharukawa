@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2061890184996962511",
+    "created_at": "2026-06-02T19:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061890184996962511"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061890184996962511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你的文字内容排版拥挤字数堆砌严重通篇密密麻麻挤在一起没有合理分段和留白读起来压抑又费劲密密麻麻的文字扑面而来视觉上毫无呼吸感密密麻麻的段落堆砌在一起字句紧凑杂乱一眼望去全是密集的文字块阅读时视线很难聚焦需要费力分辨内容长时间看下来眼部酸胀身心烦躁整体阅读体验极差全程让人觉得窒息又压抑紧凑拥挤的排版搭配大段无停顿的文字逻辑层次模糊重点完全被繁杂的文字掩盖不仅降低阅读效率还会让人瞬间失去阅读耐心原本简单易懂的内容被冗长密集的文字包裹看得人头昏脑涨完全没有舒适顺畅的阅读感受整体观感压抑沉闷严重影响信息接收的体验"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你的文字内容排版拥挤字数堆砌严重通篇密密麻麻挤在一起没有合理分段和留白读起来压抑又费劲密密麻麻的文字扑面而来视觉上毫无呼吸感密密麻麻的段落堆砌在一起字句紧凑杂乱一眼望去全是密集的文字块阅读时视线很难聚焦需要费力分辨内容长时间看下来眼部酸胀身心烦躁整体阅读体验极差全程让人觉得窒息又"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2061890184996962511",
+        "created_at": "2026-06-02T19:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061890184996962511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061890184996962511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你的文字内容排版拥挤字数堆砌严重通篇密密麻麻挤在一起没有合理分段和留白读起来压抑又费劲密密麻麻的文字扑面而来视觉上毫无呼吸感密密麻麻的段落堆砌在一起字句紧凑杂乱一眼望去全是密集的文字块阅读时视线很难聚焦需要费力分辨内容长时间看下来眼部酸胀身心烦躁整体阅读体验极差全程让人觉得窒息又压抑紧凑拥挤的排版搭配大段无停顿的文字逻辑层次模糊重点完全被繁杂的文字掩盖不仅降低阅读效率还会让人瞬间失去阅读耐心原本简单易懂的内容被冗长密集的文字包裹看得人头昏脑涨完全没有舒适顺畅的阅读感受整体观感压抑沉闷严重影响信息接收的体验"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的文字内容排版拥挤字数堆砌严重通篇密密麻麻挤在一起没有合理分段和留白读起来压抑又费劲密密麻麻的文字扑面而来视觉上毫无呼吸感密密麻麻的段落堆砌在一起字句紧凑杂乱一眼望去全是密集的文字块阅读时视线很难聚焦需要费力分辨内容长时间看下来眼部酸胀身心烦躁整体阅读体验极差全程让人觉得窒息又"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 234,
+          "like_count": 8824,
+          "listed_count": 6,
+          "media_count": 358,
+          "tweet_count": 3327
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

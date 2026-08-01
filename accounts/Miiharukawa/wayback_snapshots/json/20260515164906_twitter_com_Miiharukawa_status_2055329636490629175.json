@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2055329636490629175",
+    "created_at": "2026-05-15T16:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055329636490629175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxxxx62778/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/xxxxx62778/status/2028869794737557829",
+          "start": 9,
+          "url": "https://t.co/phvSSC75KX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055329636490629175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028869794737557829",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "姐妹你花钱好省。 https://t.co/phvSSC75KX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028869629704327168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCf-LcYa0AAuhM1.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028869657613205504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCf-NEWagAAvt0B.jpg",
+        "width": 917
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2028869739611848704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCf-R10agAAKSnf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2028869768003096576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCf-TflakAAcbCU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2055329636490629175",
+        "created_at": "2026-05-15T16:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055329636490629175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxxxx62778/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/xxxxx62778/status/2028869794737557829",
+              "start": 9,
+              "url": "https://t.co/phvSSC75KX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055329636490629175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028869794737557829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "姐妹你花钱好省。 https://t.co/phvSSC75KX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028869629704327168",
+            "3_2028869657613205504",
+            "3_2028869739611848704",
+            "3_2028869768003096576"
+          ]
+        },
+        "author_id": "1799331977205796864",
+        "conversation_id": "2028869794737557829",
+        "created_at": "2026-03-03T16:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028869794737557829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g6AJNfu99R",
+              "end": 28,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2028869794737557829/photo/1",
+              "media_key": "3_2028869629704327168",
+              "start": 5,
+              "url": "https://t.co/g6AJNfu99R"
+            },
+            {
+              "display_url": "pic.x.com/g6AJNfu99R",
+              "end": 28,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2028869794737557829/photo/1",
+              "media_key": "3_2028869657613205504",
+              "start": 5,
+              "url": "https://t.co/g6AJNfu99R"
+            },
+            {
+              "display_url": "pic.x.com/g6AJNfu99R",
+              "end": 28,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2028869794737557829/photo/1",
+              "media_key": "3_2028869739611848704",
+              "start": 5,
+              "url": "https://t.co/g6AJNfu99R"
+            },
+            {
+              "display_url": "pic.x.com/g6AJNfu99R",
+              "end": 28,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2028869794737557829/photo/1",
+              "media_key": "3_2028869768003096576",
+              "start": 5,
+              "url": "https://t.co/g6AJNfu99R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028869794737557829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1116,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日花销 https://t.co/g6AJNfu99R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 215,
+          "like_count": 7397,
+          "listed_count": 6,
+          "media_count": 300,
+          "tweet_count": 2880
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T06:45:56.000Z",
+        "description": "°. ⑅♡⑅ °. +. °. ⑅♡⑅ °. +. °.\n希望你因为拥有小咪的陪伴而幸福",
+        "id": "1799331977205796864",
+        "location": "⌯^⑅˶º ᵕ º˶^",
+        "name": "/•᷅‎‎•᷄\\୭⋆°✩ ๋࣭",
+        "pinned_tweet_id": "2050411327420850687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002547322463600640/hm5xe4nX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3343,
+          "following_count": 39,
+          "like_count": 44464,
+          "listed_count": 6,
+          "media_count": 4756,
+          "tweet_count": 18485
+        },
+        "username": "Xxxxx62778",
+        "verified": false
+      }
+    ]
+  }
+}

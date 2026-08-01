@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2062861796952899743",
+    "created_at": "2026-06-06T04:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063113588336939505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2033872094493347843",
+          "start": 0,
+          "username": "Chiqyuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063113588336939505",
+    "in_reply_to_user_id": "2033872094493347843",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062861796952899743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiqyuna 不理他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2062861796952899743",
+        "created_at": "2026-06-06T04:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063113588336939505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2033872094493347843",
+              "start": 0,
+              "username": "Chiqyuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063113588336939505",
+        "in_reply_to_user_id": "2033872094493347843",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062861796952899743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiqyuna 不理他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033872094493347843",
+        "conversation_id": "2062861796952899743",
+        "created_at": "2026-06-05T11:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062861796952899743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062861796952899743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实在的，如果觉得有人有、没边界感了，我的性格又不好直说，该怎么提醒他。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 235,
+          "like_count": 8933,
+          "listed_count": 6,
+          "media_count": 376,
+          "tweet_count": 3405
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T11:44:39.000Z",
+        "description": "如果被我冒犯到那就达成了我的目的，哈哈。二号机，好像储存着不为人知的过往。Love&Peace-@Qyunachii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Qyunachii"
+              }
+            ]
+          }
+        },
+        "id": "2033872094493347843",
+        "location": "八十稻羽",
+        "name": "…？",
+        "pinned_tweet_id": "2060587537987764394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061730013272240128/iecLhPEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 31,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 44
+        },
+        "username": "Chiqyuna",
+        "verified": false
+      }
+    ]
+  }
+}

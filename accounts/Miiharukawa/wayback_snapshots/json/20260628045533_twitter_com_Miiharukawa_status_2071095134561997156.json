@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2070750618143318387",
+    "created_at": "2026-06-28T04:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071095134561997156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1988883631818043392",
+          "start": 0,
+          "username": "ouofT_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071095134561997156",
+    "in_reply_to_user_id": "1988883631818043392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071070039219007490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouofT_T 我有流感……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2070750618143318387",
+        "created_at": "2026-06-28T04:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071095134561997156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1988883631818043392",
+              "start": 0,
+              "username": "ouofT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071095134561997156",
+        "in_reply_to_user_id": "1988883631818043392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071070039219007490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouofT_T 我有流感……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988883631818043392",
+        "conversation_id": "2070750618143318387",
+        "created_at": "2026-06-28T03:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T04:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071070039219007490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071070039219007490",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070750618143318387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 我有流感..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一遥 遥一遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 246,
+          "like_count": 9959,
+          "listed_count": 10,
+          "media_count": 452,
+          "tweet_count": 3783
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T08:16:35.000Z",
+        "description": "",
+        "id": "1988883631818043392",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034712710810566656/7aJkZRL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 29,
+          "like_count": 4446,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2139
+        },
+        "url": "",
+        "username": "ouofT_T",
+        "verified": false
+      }
+    ]
+  }
+}

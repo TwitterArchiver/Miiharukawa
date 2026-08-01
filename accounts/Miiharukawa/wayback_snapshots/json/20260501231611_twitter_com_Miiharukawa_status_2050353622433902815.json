@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2050228184667615414",
+    "created_at": "2026-05-01T23:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T00:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050353622433902815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1510243706347028482",
+          "start": 0,
+          "username": "Chiqyuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050353622433902815",
+    "in_reply_to_user_id": "1510243706347028482",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050348033943253394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiqyuna 那也要艾草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2050228184667615414",
+        "created_at": "2026-05-01T23:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T00:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050353622433902815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1510243706347028482",
+              "start": 0,
+              "username": "Chiqyuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050353622433902815",
+        "in_reply_to_user_id": "1510243706347028482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050348033943253394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiqyuna 那也要艾草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510243706347028482",
+        "conversation_id": "2050228184667615414",
+        "created_at": "2026-05-01T22:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T23:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050348033943253394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050348033943253394",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050343972384670043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 老大我错啦😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "重度百合豚  专发碎碎念\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 211,
+          "like_count": 6415,
+          "listed_count": 5,
+          "media_count": 251,
+          "tweet_count": 2442
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T13:12:25.000Z",
+        "description": "如果觉得被冒犯了那是我的猫发的，它有四个爪子打字比我快。对可爱的东西欲罢不能。臭打游戏的，别看她长得乖，私底下烟酒都来的。双叶天下第一可爱",
+        "id": "1510243706347028482",
+        "location": "仰齐浜",
+        "name": "な",
+        "pinned_tweet_id": "2034823419670536249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047131412747444224/nLWdoqbB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 448,
+          "like_count": 4073,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1082
+        },
+        "username": "Chiqyuna",
+        "verified": false
+      }
+    ]
+  }
+}

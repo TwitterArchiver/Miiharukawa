@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2044577800548741626",
+    "created_at": "2026-04-16T05:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T06:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044648307868545106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "972375354168950784",
+          "start": 0,
+          "username": "LELF67276063"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044648307868545106",
+    "in_reply_to_user_id": "972375354168950784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044635486921318898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LELF67276063 你最好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2044577800548741626",
+        "created_at": "2026-04-16T05:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T06:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044648307868545106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "972375354168950784",
+              "start": 0,
+              "username": "LELF67276063"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044648307868545106",
+        "in_reply_to_user_id": "972375354168950784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044635486921318898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LELF67276063 你最好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "972375354168950784",
+        "conversation_id": "2044577800548741626",
+        "created_at": "2026-04-16T04:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044635486921318898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044635486921318898",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044577800548741626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 我感觉我可以！虽然有时候很忙没能一直互动，但是能一直关注和陪伴！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 176,
+          "like_count": 5011,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 1727
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-10T07:35:25.000Z",
+        "description": "",
+        "id": "972375354168950784",
+        "name": "L_ELF",
+        "pinned_tweet_id": "2014735771601928568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023998944225992704/yfGtdvzU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 24,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 215
+        },
+        "username": "LELF67276063",
+        "verified": false
+      }
+    ]
+  }
+}

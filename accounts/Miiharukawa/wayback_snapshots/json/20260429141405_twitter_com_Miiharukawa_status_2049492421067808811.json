@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2049473691277467694",
+    "created_at": "2026-04-29T14:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049492421067808811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682558288247021568",
+          "start": 0,
+          "username": "miumiu_14_dd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049492421067808811",
+    "in_reply_to_user_id": "1682558288247021568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049490427401945149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miumiu_14_dd 非常乖的 摸你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2049473691277467694",
+        "created_at": "2026-04-29T14:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049492421067808811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682558288247021568",
+              "start": 0,
+              "username": "miumiu_14_dd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049492421067808811",
+        "in_reply_to_user_id": "1682558288247021568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049490427401945149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miumiu_14_dd 非常乖的 摸你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682558288247021568",
+        "conversation_id": "2049473691277467694",
+        "created_at": "2026-04-29T14:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049490427401945149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049490427401945149",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049473691277467694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 收到（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 199,
+          "like_count": 6178,
+          "listed_count": 5,
+          "media_count": 245,
+          "tweet_count": 2345
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T01:09:28.000Z",
+        "description": "比较人机请见谅｜BPD／CPTSD／OSDD-1a｜有对象｜友跨｜feminist ｜matriarchy｜不登校｜百合爱好者｜\n\n——★欢迎互fo★——",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miumiu_14_dd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miumiu_14_dd",
+                "start": 0,
+                "url": "https://t.co/0roPVau7Sn"
+              }
+            ]
+          }
+        },
+        "id": "1682558288247021568",
+        "location": "匿名提问箱",
+        "name": "透明岚",
+        "pinned_tweet_id": "2042677538519158935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048414620965343232/DBCf8JSF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 411,
+          "like_count": 2060,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 528
+        },
+        "url": "https://t.co/0roPVau7Sn",
+        "username": "miumiu_14_dd",
+        "verified": false
+      }
+    ]
+  }
+}

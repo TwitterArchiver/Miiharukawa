@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2041235685261373669",
+    "created_at": "2026-04-07T00:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T01:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041319425476092393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1958590105523806208",
+          "start": 0,
+          "username": "pupullz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041319425476092393",
+    "in_reply_to_user_id": "1958590105523806208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041235685261373669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pupullz 好的这就给你举牌喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041235661181837312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFPtBNeaYAA_fa0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1776,
+        "media_key": "3_2041235661165043712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFPtBNaaIAAZO_8.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2041235685261373669",
+        "created_at": "2026-04-07T00:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041319425476092393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1958590105523806208",
+              "start": 0,
+              "username": "pupullz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041319425476092393",
+        "in_reply_to_user_id": "1958590105523806208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041235685261373669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pupullz 好的这就给你举牌喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041235661181837312",
+            "3_2041235661165043712"
+          ]
+        },
+        "author_id": "1958590105523806208",
+        "conversation_id": "2041235685261373669",
+        "created_at": "2026-04-06T19:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T20:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041235685261373669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kFY3GF6gow",
+              "end": 69,
+              "expanded_url": "https://x.com/pupullz/status/2041235685261373669/photo/1",
+              "media_key": "3_2041235661181837312",
+              "start": 46,
+              "url": "https://t.co/kFY3GF6gow"
+            },
+            {
+              "display_url": "pic.x.com/kFY3GF6gow",
+              "end": 69,
+              "expanded_url": "https://x.com/pupullz/status/2041235685261373669/photo/1",
+              "media_key": "3_2041235661165043712",
+              "start": 46,
+              "url": "https://t.co/kFY3GF6gow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041235685261373669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我朋友怕我赚不到钱……给我整了个举牌…本来在和家里人吵架手机消息响了点开一看……两眼一黑… https://t.co/kFY3GF6gow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 168,
+          "like_count": 4490,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 1453
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T18:01:01.000Z",
+        "description": "色情点很高的m系小画家 当朋友圈发 无门槛 不➕v   ps:熟人看到请绕道。",
+        "id": "1958590105523806208",
+        "name": "pupu 66z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000612136532512768/QVJg-kjM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 238,
+          "like_count": 462,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 229
+        },
+        "username": "pupullz",
+        "verified": false
+      }
+    ]
+  }
+}

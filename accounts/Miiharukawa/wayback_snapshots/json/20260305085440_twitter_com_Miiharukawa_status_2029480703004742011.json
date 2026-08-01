@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2029470970168140065",
+    "created_at": "2026-03-05T08:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T09:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029480703004742011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1959230145623138304",
+          "start": 0,
+          "username": "oouki_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029480703004742011",
+    "in_reply_to_user_id": "1959230145623138304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029470970168140065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oouki_o 咋这样我去。！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2029470970168140065",
+        "created_at": "2026-03-05T08:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T09:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029480703004742011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1959230145623138304",
+              "start": 0,
+              "username": "oouki_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029480703004742011",
+        "in_reply_to_user_id": "1959230145623138304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029470970168140065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oouki_o 咋这样我去。！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959230145623138304",
+        "conversation_id": "2029470970168140065",
+        "created_at": "2026-03-05T08:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T09:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029470970168140065"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029470970168140065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个人在私信里一直问我门槛 我说520无福利 然后他找各种理由找我聊天 又是问我加了会怎么样又是问我和别人聊的情况 我说不会怎么样  最后我被问的烦了  我就一直没回 然后他自说自话要让我等他加了我再聊 今天我删聊天框的时候点进去看 发现他把我屏蔽了 天啊 我做错了什么要这样惩罚我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2028818677131559381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 43,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 60
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T12:24:14.000Z",
+        "description": "REST-A ｜华籍美人｜🔞不约不线下 ｜私信只回口令｜没关注还性骚扰的一律拉黑^_^｜匿名信箱📮：https://t.co/6NpukbCMno",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/oouki.hello",
+                "end": 73,
+                "expanded_url": "https://tellonym.me/oouki.hello",
+                "start": 50,
+                "url": "https://t.co/6NpukbCMno"
+              }
+            ]
+          }
+        },
+        "id": "1959230145623138304",
+        "name": "ค 奈᳐奈᳐ ฅ ੭ﾞ",
+        "pinned_tweet_id": "2022983209760514506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001087386701475840/00JAfx-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6302,
+          "following_count": 40,
+          "like_count": 5937,
+          "listed_count": 16,
+          "media_count": 121,
+          "tweet_count": 897
+        },
+        "username": "oouki_o",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2055329636490629175",
+    "created_at": "2026-05-15T16:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055332312347558200"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055332312347558200",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055331541686047201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我之前是关注她的，我三个寄掉的账号都关注了，也给她打过钱，我真的是看着她账号做起来的。一边偷我帖子一边又要打拳骂人给自己猫塑，给猫买东西的钱还没饭钱多。我很受不了，取关了。我说过我不喜欢任何打拳内容也不喜欢看骂人内容。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2055329636490629175",
+        "created_at": "2026-05-15T16:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055332312347558200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055332312347558200",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055331541686047201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我之前是关注她的，我三个寄掉的账号都关注了，也给她打过钱，我真的是看着她账号做起来的。一边偷我帖子一边又要打拳骂人给自己猫塑，给猫买东西的钱还没饭钱多。我很受不了，取关了。我说过我不喜欢任何打拳内容也不喜欢看骂人内容。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2055329636490629175",
+        "created_at": "2026-05-15T16:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055331541686047201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055331541686047201",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055329636490629175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我假装爱猫就这样好吧。关注她的可以和我双取。我认为她在拿爱猫圈钱，我不喜欢她。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 215,
+          "like_count": 7398,
+          "listed_count": 6,
+          "media_count": 300,
+          "tweet_count": 2882
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

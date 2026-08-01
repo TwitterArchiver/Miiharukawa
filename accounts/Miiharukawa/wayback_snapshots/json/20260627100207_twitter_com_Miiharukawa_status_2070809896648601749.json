@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2070768625984958834",
+    "created_at": "2026-06-27T10:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070809896648601749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1742117453809725440",
+          "start": 0,
+          "username": "eclia121739922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070809896648601749",
+    "in_reply_to_user_id": "1742117453809725440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070807099379236886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eclia121739922 那他妈是在撅嘴亲亲。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2070768625984958834",
+        "created_at": "2026-06-27T10:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070809896648601749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1742117453809725440",
+              "start": 0,
+              "username": "eclia121739922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070809896648601749",
+        "in_reply_to_user_id": "1742117453809725440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070807099379236886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eclia121739922 那他妈是在撅嘴亲亲。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742117453809725440",
+        "conversation_id": "2070768625984958834",
+        "created_at": "2026-06-27T09:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070807099379236886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070807099379236886",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070768625984958834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 为啥小于3（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一遥 遥一遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 245,
+          "like_count": 9937,
+          "listed_count": 7,
+          "media_count": 451,
+          "tweet_count": 3773
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T09:35:55.000Z",
+        "description": "玉玉/精分/08/我是冰西瓜/mtx🍥/伪娘全肯定（x/神圣放逐 黑柿子一生推/随机掉落cos/高p区",
+        "id": "1742117453809725440",
+        "location": "世界渴望之城",
+        "name": "eeeee",
+        "pinned_tweet_id": "1935795793702891698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048731687841067008/0W1jpoWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 328,
+          "like_count": 2008,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 973
+        },
+        "url": "",
+        "username": "eclia121739922",
+        "verified": false
+      }
+    ]
+  }
+}

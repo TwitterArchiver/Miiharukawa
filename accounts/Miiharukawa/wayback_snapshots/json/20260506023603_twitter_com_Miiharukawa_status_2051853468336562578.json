@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2051712359140622633",
+    "created_at": "2026-05-06T02:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T03:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051853468336562578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2017720424541696000",
+          "start": 0,
+          "username": "shuabyeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051853468336562578",
+    "in_reply_to_user_id": "2017720424541696000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051847174854766876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuabyeop 人际关系好难😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2051712359140622633",
+        "created_at": "2026-05-06T02:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051853468336562578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2017720424541696000",
+              "start": 0,
+              "username": "shuabyeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051853468336562578",
+        "in_reply_to_user_id": "2017720424541696000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051847174854766876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuabyeop 人际关系好难😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017720424541696000",
+        "conversation_id": "2051712359140622633",
+        "created_at": "2026-05-06T02:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051847174854766876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051847174854766876",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051712359140622633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 感觉跟老大做朋友好好，那些好事情能被珍惜被一直记住就感觉超爽的.\n就是一直能做朋友真的好难好难，老大已经做的很好了呀……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 215,
+          "like_count": 6780,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 2626
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-31T22:03:42.000Z",
+        "description": "",
+        "id": "2017720424541696000",
+        "name": "小罗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017720924196507650/4EVY_gsa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 49,
+          "like_count": 6285,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1156
+        },
+        "username": "shuabyeop",
+        "verified": false
+      }
+    ]
+  }
+}

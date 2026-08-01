@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2049031038513619075",
+    "created_at": "2026-04-28T09:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T10:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049061000616558855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1653712846943821824",
+          "start": 0,
+          "username": "Hkhcrownlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049061000616558855",
+    "in_reply_to_user_id": "1653712846943821824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049051012795908416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hkhcrownlove 呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2049031038513619075",
+        "created_at": "2026-04-28T09:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049061000616558855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1653712846943821824",
+              "start": 0,
+              "username": "Hkhcrownlove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049061000616558855",
+        "in_reply_to_user_id": "1653712846943821824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049051012795908416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hkhcrownlove 呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653712846943821824",
+        "conversation_id": "2049031038513619075",
+        "created_at": "2026-04-28T09:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049051012795908416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049051012795908416",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049031038513619075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 193,
+          "like_count": 6006,
+          "listed_count": 6,
+          "media_count": 239,
+          "tweet_count": 2259
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T10:47:38.000Z",
+        "description": "候鸟不等风，独行自有星海相逢\n     ❣️4大于1",
+        "id": "1653712846943821824",
+        "name": "南亭晚",
+        "pinned_tweet_id": "1982683272632258725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044325633111797763/ry2ugyMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 75,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 6623
+        },
+        "username": "Hkhcrownlove",
+        "verified": false
+      }
+    ]
+  }
+}

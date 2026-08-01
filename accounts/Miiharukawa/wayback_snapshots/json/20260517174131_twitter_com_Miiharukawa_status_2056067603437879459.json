@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2056067603437879459",
+    "created_at": "2026-05-17T17:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T18:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056067603437879459"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056067603437879459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然我总是说无所谓但其实我的占有欲很强，我巴不得你做噩梦春梦都是我，巴不得占据你的所有生活，无论做什么都想起我，连我的离去都让你无法释怀，我想要你一辈子只爱着我一个人，从此看到谁身上都有我的影子。但我不会告诉你我希望你这么做，我想让你主动告诉我你没我不行，我会为此暗爽好久好久。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2056067603437879459",
+        "created_at": "2026-05-17T17:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056067603437879459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056067603437879459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我总是说无所谓但其实我的占有欲很强，我巴不得你做噩梦春梦都是我，巴不得占据你的所有生活，无论做什么都想起我，连我的离去都让你无法释怀，我想要你一辈子只爱着我一个人，从此看到谁身上都有我的影子。但我不会告诉你我希望你这么做，我想让你主动告诉我你没我不行，我会为此暗爽好久好久。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 218,
+          "like_count": 7606,
+          "listed_count": 6,
+          "media_count": 307,
+          "tweet_count": 2938
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

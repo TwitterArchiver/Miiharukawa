@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2047294636881015101",
+    "created_at": "2026-04-23T13:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047302293805314538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010312682042429440",
+          "start": 0,
+          "username": "yukiiiiii004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047302293805314538",
+    "in_reply_to_user_id": "2010312682042429440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047294636881015101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukiiiiii004 抱抱你呀宝宝，你已经做的很好了，能够意识到自己的不足是难能可贵的事，同时也会因为这个而感到悲伤，这些都是很正常的呀，我喜欢你，你是有想法上进的好孩子。我觉得推特这种东西就是自己的社交账号想发什么就发什么啦，没关系的宝宝，你会逐渐变得完美起来的，因为你一直在朝着完美靠近呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2240,
+        "media_key": "3_2047294633940795392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlzn16awAAivPH.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2047294636881015101",
+        "created_at": "2026-04-23T13:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047302293805314538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010312682042429440",
+              "start": 0,
+              "username": "yukiiiiii004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047302293805314538",
+        "in_reply_to_user_id": "2010312682042429440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047294636881015101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukiiiiii004 抱抱你呀宝宝，你已经做的很好了，能够意识到自己的不足是难能可贵的事，同时也会因为这个而感到悲伤，这些都是很正常的呀，我喜欢你，你是有想法上进的好孩子。我觉得推特这种东西就是自己的社交账号想发什么就发什么啦，没关系的宝宝，你会逐渐变得完美起来的，因为你一直在朝着完美靠近呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047294633940795392"
+          ]
+        },
+        "author_id": "2010312682042429440",
+        "conversation_id": "2047294636881015101",
+        "created_at": "2026-04-23T12:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047294636881015101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KLiYQRd9PT",
+              "end": 54,
+              "expanded_url": "https://x.com/yukiiiiii004/status/2047294636881015101/photo/1",
+              "media_key": "3_2047294633940795392",
+              "start": 31,
+              "url": "https://t.co/KLiYQRd9PT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047294636881015101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 50,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起大家 这是一个负能量帖\n\n这里是我唯一能诉说自己的地方 https://t.co/KLiYQRd9PT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 189,
+          "like_count": 5611,
+          "listed_count": 6,
+          "media_count": 225,
+          "tweet_count": 2019
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T11:27:57.000Z",
+        "description": "yuki /小季‖  intp  ‖欢迎妹宝互fo 妹宝记得私信我回关‖\n不是🚪姐  不接任何金钱交易 赛博暴露癖  每个人的夸夸都会带给我幸福！‖\n匿名信箱：https://t.co/gnTyvifY64",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukiiiiii004",
+                "end": 103,
+                "expanded_url": "https://ngl.link/yukiiiiii004",
+                "start": 80,
+                "url": "https://t.co/gnTyvifY64"
+              }
+            ]
+          }
+        },
+        "id": "2010312682042429440",
+        "name": "yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034629215069605888/AT-GTw_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 43,
+          "like_count": 511,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 477
+        },
+        "username": "yukiiiiii004",
+        "verified": false
+      }
+    ]
+  }
+}

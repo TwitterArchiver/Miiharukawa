@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2033611806439313868",
+    "created_at": "2026-03-16T18:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T19:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033611806439313868"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033611806439313868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就是特别特别犟的小孩子\n从小就不喜欢求任何人，一直在碰壁然后在一次次碰壁中找到自己的路。\n我相信有些事我自己绝对可以做到，也只有我能做到，我现在做不到以后一定会后悔\n被很多人笑过，但是我都用自己的方式做到了，我也觉得好蠢，但是我就是做到了。\n我才不去计较已经做完的事过程的最优解。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2033611806439313868",
+        "created_at": "2026-03-16T18:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T19:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033611806439313868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033611806439313868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就是特别特别犟的小孩子\n从小就不喜欢求任何人，一直在碰壁然后在一次次碰壁中找到自己的路。\n我相信有些事我自己绝对可以做到，也只有我能做到，我现在做不到以后一定会后悔\n被很多人笑过，但是我都用自己的方式做到了，我也觉得好蠢，但是我就是做到了。\n我才不去计较已经做完的事过程的最优解。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 122,
+          "like_count": 2297,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

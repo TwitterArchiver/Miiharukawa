@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2068277888147919249",
+    "created_at": "2026-06-20T10:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068277888147919249"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068277888147919249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "小猫智商高\n小猫考专科、本科、硕士研究生、博士研究生、幼儿园教师资格证、小学教师资格证、 初级中学教师资格证、高级中学教师资格证、中等职业学校教师资格证、中等职业学校实习指导教师资格证、高等学校教师资格证、法律职业资格证、医师资格证、护士执业证、执业药师证、健康管理师证、社会工作者证、注册会计师（CPA）、初级会计职称、中级会计职称、税务师证、证券从业资格证、基金从业资格证、期货从业资格证、 一级建造师证、二级建造师证、注册消防工程师证、注册安全工程师证、造价工程师证、监理工程师证、计算机技术与软件专业技术资格（软考)、CISP证、PMP证、普通话等级证、英语四六级证书、雅思证书、 托福证书、CATTI翻译专业资格证、机动车驾驶证、导游资格证、演出经纪人资格证、 特种设备作业人员证"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小猫智商高\n小猫考专科、本科、硕士研究生、博士研究生、幼儿园教师资格证、小学教师资格证、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2068277888147919249",
+        "created_at": "2026-06-20T10:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068277888147919249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068277888147919249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "小猫智商高\n小猫考专科、本科、硕士研究生、博士研究生、幼儿园教师资格证、小学教师资格证、 初级中学教师资格证、高级中学教师资格证、中等职业学校教师资格证、中等职业学校实习指导教师资格证、高等学校教师资格证、法律职业资格证、医师资格证、护士执业证、执业药师证、健康管理师证、社会工作者证、注册会计师（CPA）、初级会计职称、中级会计职称、税务师证、证券从业资格证、基金从业资格证、期货从业资格证、 一级建造师证、二级建造师证、注册消防工程师证、注册安全工程师证、造价工程师证、监理工程师证、计算机技术与软件专业技术资格（软考)、CISP证、PMP证、普通话等级证、英语四六级证书、雅思证书、 托福证书、CATTI翻译专业资格证、机动车驾驶证、导游资格证、演出经纪人资格证、 特种设备作业人员证"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫智商高\n小猫考专科、本科、硕士研究生、博士研究生、幼儿园教师资格证、小学教师资格证、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 238,
+          "like_count": 9435,
+          "listed_count": 6,
+          "media_count": 416,
+          "tweet_count": 3610
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

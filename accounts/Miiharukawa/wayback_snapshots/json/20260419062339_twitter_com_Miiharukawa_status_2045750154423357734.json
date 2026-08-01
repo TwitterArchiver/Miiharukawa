@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2045750154423357734",
+    "created_at": "2026-04-19T06:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T07:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045750154423357734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038482519507558400",
+          "start": 3,
+          "username": "jiaojiao330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045750154423357734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045642738117554406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiaojiao330: 更新了更多门槛~\n除此之外接受52🚪 只留好友位喵\n128🚪里面说的活动是在某些特定时候入门可以看到更多福利喵\n520🚪里面的专属称呼指的是你希望我怎么称呼你~\n偶尔的频率没有具体限定但是不可强迫 有时候人家也会没时间ʢ˶ᵒ ᵕ ˂˶ʡᶻ\n支付…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2045642727304638465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGOVOOJasAE6yAY.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2045642727610880000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGOVOPSbkAAL6li.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1680,
+        "media_key": "3_2045642729162739712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGOVOVEbEAAFZ6c.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1210,
+        "media_key": "3_2045642729355681792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGOVOVybIAAWdJL.jpg",
+        "width": 1210
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2045750154423357734",
+        "created_at": "2026-04-19T06:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045750154423357734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038482519507558400",
+              "start": 3,
+              "username": "jiaojiao330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045750154423357734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045642738117554406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiaojiao330: 更新了更多门槛~\n除此之外接受52🚪 只留好友位喵\n128🚪里面说的活动是在某些特定时候入门可以看到更多福利喵\n520🚪里面的专属称呼指的是你希望我怎么称呼你~\n偶尔的频率没有具体限定但是不可强迫 有时候人家也会没时间ʢ˶ᵒ ᵕ ˂˶ʡᶻ\n支付…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045642727304638465",
+            "3_2045642727610880000",
+            "3_2045642729162739712",
+            "3_2045642729355681792"
+          ]
+        },
+        "author_id": "2038482519507558400",
+        "conversation_id": "2045642738117554406",
+        "created_at": "2026-04-18T23:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T00:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045642738117554406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4xX2CZVWST",
+              "end": 163,
+              "expanded_url": "https://x.com/jiaojiao330/status/2045642738117554406/photo/1",
+              "media_key": "3_2045642727304638465",
+              "start": 140,
+              "url": "https://t.co/4xX2CZVWST"
+            },
+            {
+              "display_url": "pic.x.com/4xX2CZVWST",
+              "end": 163,
+              "expanded_url": "https://x.com/jiaojiao330/status/2045642738117554406/photo/1",
+              "media_key": "3_2045642727610880000",
+              "start": 140,
+              "url": "https://t.co/4xX2CZVWST"
+            },
+            {
+              "display_url": "pic.x.com/4xX2CZVWST",
+              "end": 163,
+              "expanded_url": "https://x.com/jiaojiao330/status/2045642738117554406/photo/1",
+              "media_key": "3_2045642729162739712",
+              "start": 140,
+              "url": "https://t.co/4xX2CZVWST"
+            },
+            {
+              "display_url": "pic.x.com/4xX2CZVWST",
+              "end": 163,
+              "expanded_url": "https://x.com/jiaojiao330/status/2045642738117554406/photo/1",
+              "media_key": "3_2045642729355681792",
+              "start": 140,
+              "url": "https://t.co/4xX2CZVWST"
+            },
+            {
+              "display_url": "x.com/jiaojiao330/st…",
+              "end": 187,
+              "expanded_url": "https://twitter.com/jiaojiao330/status/2038530916126200231",
+              "start": 164,
+              "url": "https://t.co/nomsskkBqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045642738117554406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038530916126200231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更新了更多门槛~\n除此之外接受52🚪 只留好友位喵\n128🚪里面说的活动是在某些特定时候入门可以看到更多福利喵\n520🚪里面的专属称呼指的是你希望我怎么称呼你~\n偶尔的频率没有具体限定但是不可强迫 有时候人家也会没时间ʢ˶ᵒ ᵕ ˂˶ʡᶻ\n支付宝口令或赞赏码入门都可\n\n支持补🚪 https://t.co/4xX2CZVWST https://t.co/nomsskkBqV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 184,
+          "like_count": 5258,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 1831
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T05:04:52.000Z",
+        "description": "有🚪\nswitch\n143cm37kg\n三围66 56 83\n感谢米娜私信评论跟赞赏（划重点）ᰔᩚ/•᷅•᷄\\\\୭\n小事化巧克力 大事化蛋糕 牙齿可以正常咀嚼之后又开始喜欢甜食了捏´༥`\n投喂的米会被我换成房租 电费 如果有剩余的话！就变成了香香奶茶跟麦麦ദ്ദി (⩌ᴗ⩌ )",
+        "id": "2038482519507558400",
+        "location": "喜欢我的话请多多赞赏",
+        "name": "我想睡觉觉•᎔•",
+        "pinned_tweet_id": "2045642738117554406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038485433034985472/f-Q9whUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 33,
+          "like_count": 1382,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 273
+        },
+        "username": "jiaojiao330",
+        "verified": false
+      }
+    ]
+  }
+}

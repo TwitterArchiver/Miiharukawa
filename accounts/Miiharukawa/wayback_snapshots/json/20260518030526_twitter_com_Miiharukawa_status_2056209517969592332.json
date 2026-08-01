@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2056209517969592332",
+    "created_at": "2026-05-18T03:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T04:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056209517969592332"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056209517969592332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你看到我发的帖子有雷同那就是我在隔壁软件刷到了粘贴过来的电子呕吐物。我的推特是拿来表达我的想法和感受的，有现成的电子嘴替我直接就拿了。\n在推特刷到的我会直接转帖  不是推特刷到的我就复制粘贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2056209517969592332",
+        "created_at": "2026-05-18T03:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056209517969592332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056209517969592332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你看到我发的帖子有雷同那就是我在隔壁软件刷到了粘贴过来的电子呕吐物。我的推特是拿来表达我的想法和感受的，有现成的电子嘴替我直接就拿了。\n在推特刷到的我会直接转帖  不是推特刷到的我就复制粘贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 218,
+          "like_count": 7621,
+          "listed_count": 6,
+          "media_count": 310,
+          "tweet_count": 2954
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

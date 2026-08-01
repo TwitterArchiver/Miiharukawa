@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2059967908877685026",
+    "created_at": "2026-05-28T12:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059969210399506673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049492820952748032",
+          "start": 0,
+          "username": "Huaituziovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059969210399506673",
+    "in_reply_to_user_id": "2049492820952748032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059968710140645467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Huaituziovo 太好了！我要用流量下载"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2059967908877685026",
+        "created_at": "2026-05-28T12:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059969210399506673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049492820952748032",
+              "start": 0,
+              "username": "Huaituziovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059969210399506673",
+        "in_reply_to_user_id": "2049492820952748032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059968710140645467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Huaituziovo 太好了！我要用流量下载"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049492820952748032",
+        "conversation_id": "2059967908877685026",
+        "created_at": "2026-05-28T12:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059968710140645467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059968710140645467",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059967908877685026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Miiharukawa 正在上传本人中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 230,
+          "like_count": 8328,
+          "listed_count": 6,
+          "media_count": 342,
+          "tweet_count": 3181
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T14:15:52.000Z",
+        "description": "专心经营自己的推推空间生活，只想和喜欢的人玩 \n不约不卖但是如果你有多余的钱可以和我共同富裕",
+        "id": "2049492820952748032",
+        "location": "兔子窝",
+        "name": "坏兔子",
+        "pinned_tweet_id": "2053506092852998291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056912630024163328/q22gFaFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 21,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 97
+        },
+        "username": "Huaituziovo",
+        "verified": false
+      }
+    ]
+  }
+}

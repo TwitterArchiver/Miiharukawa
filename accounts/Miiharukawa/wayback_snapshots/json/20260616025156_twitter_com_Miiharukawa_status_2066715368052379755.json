@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2066715368052379755",
+    "created_at": "2026-06-16T02:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T03:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066715368052379755"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066715368052379755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "各位，我刚和你们公司和学校领导沟通了一下，这周你们只需要上四天班/学就可以休息了。仅限本人好友，切勿外传。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2066715368052379755",
+        "created_at": "2026-06-16T02:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066715368052379755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066715368052379755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位，我刚和你们公司和学校领导沟通了一下，这周你们只需要上四天班/学就可以休息了。仅限本人好友，切勿外传。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 235,
+          "like_count": 9358,
+          "listed_count": 6,
+          "media_count": 410,
+          "tweet_count": 3577
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

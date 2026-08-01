@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062812861395771393",
+        "3_2062812861450321920"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2062812871084626130",
+    "created_at": "2026-06-05T08:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062812871084626130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C8TV4lpfub",
+          "end": 36,
+          "expanded_url": "https://x.com/Miiharukawa/status/2062812871084626130/photo/1",
+          "media_key": "3_2062812861395771393",
+          "start": 13,
+          "url": "https://t.co/C8TV4lpfub"
+        },
+        {
+          "display_url": "pic.x.com/C8TV4lpfub",
+          "end": 36,
+          "expanded_url": "https://x.com/Miiharukawa/status/2062812871084626130/photo/1",
+          "media_key": "3_2062812861450321920",
+          "start": 13,
+          "url": "https://t.co/C8TV4lpfub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062812871084626130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对眼镜男的包容度这一块。 https://t.co/C8TV4lpfub"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2062812861395771393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCVXkGaIAEnrfo.jpg",
+        "width": 1026
+      },
+      {
+        "height": 1324,
+        "media_key": "3_2062812861450321920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCVXkTagAA-SpV.jpg",
+        "width": 1021
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062812861395771393",
+            "3_2062812861450321920"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2062812871084626130",
+        "created_at": "2026-06-05T08:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062812871084626130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8TV4lpfub",
+              "end": 36,
+              "expanded_url": "https://x.com/Miiharukawa/status/2062812871084626130/photo/1",
+              "media_key": "3_2062812861395771393",
+              "start": 13,
+              "url": "https://t.co/C8TV4lpfub"
+            },
+            {
+              "display_url": "pic.x.com/C8TV4lpfub",
+              "end": 36,
+              "expanded_url": "https://x.com/Miiharukawa/status/2062812871084626130/photo/1",
+              "media_key": "3_2062812861450321920",
+              "start": 13,
+              "url": "https://t.co/C8TV4lpfub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062812871084626130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对眼镜男的包容度这一块。 https://t.co/C8TV4lpfub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 234,
+          "like_count": 8914,
+          "listed_count": 6,
+          "media_count": 373,
+          "tweet_count": 3398
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

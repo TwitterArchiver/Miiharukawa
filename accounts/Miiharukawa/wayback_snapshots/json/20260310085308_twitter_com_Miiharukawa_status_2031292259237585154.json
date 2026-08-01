@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2031223940048367935",
+    "created_at": "2026-03-10T08:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T09:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031292259237585154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031292259237585154",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031289604792528936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 没有刻意避开。。甚至这条文字都是我复制粘贴的。\n我单纯认为忮忌这个词别人看不懂拿来装逼也是没问题的。这条文字也没有特意针对我而言的同性异性指向，所有人都可以代入。我很不理解为什么要特意去咬文嚼字一个字的偏旁部首，我主页自介条也写了不接受打拳内容。抱歉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2031223940048367935",
+        "created_at": "2026-03-10T08:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031292259237585154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031292259237585154",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031289604792528936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 没有刻意避开。。甚至这条文字都是我复制粘贴的。\n我单纯认为忮忌这个词别人看不懂拿来装逼也是没问题的。这条文字也没有特意针对我而言的同性异性指向，所有人都可以代入。我很不理解为什么要特意去咬文嚼字一个字的偏旁部首，我主页自介条也写了不接受打拳内容。抱歉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981638054688501760",
+        "conversation_id": "2031223940048367935",
+        "created_at": "2026-03-10T08:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031289604792528936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031289604792528936",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031287771902664838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 没有啊，我就单纯好奇会刻意规避嫉妒写法的，相对来说比较在意这类的人会怎么看女字旁的褒义词。不是想往那方面拐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 88,
+          "like_count": 881,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "性少数友好  粉区退散  后现代黑话定型文享受者  此账号一切仇恨言论都是troll  查成分互fo",
+        "id": "1981638054688501760",
+        "name": "雄臭野爹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030408742429409280/FWGJUak7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 417,
+          "like_count": 1142,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1141
+        },
+        "username": "ashasw114514",
+        "verified": false
+      }
+    ]
+  }
+}

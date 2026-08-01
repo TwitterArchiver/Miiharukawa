@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2080956409693569306",
+    "created_at": "2026-07-25T10:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080956409693569306"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080956409693569306",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "塔菲配料表：绵白糖、赤砂糖、枫糖浆、玉米糖浆、牛轧糖、奶糖、水果糖、薄荷糖、酥糖、花生糖、芝麻糖、杏仁糖、椰子糖、焦糖、果葡糖浆、蜂蜜糖、跳跳糖、泡泡糖、口香糖、巧克力糖、夹心糖、爆浆糖、太妃糖、软心糖、QQ糖、橡皮糖、棉花糖、棒棒糖、糖人、糖包、糖丸、糖片、糖球、糖豆、糖粒、糖粉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2080956409693569306",
+        "created_at": "2026-07-25T10:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080956409693569306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080956409693569306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "塔菲配料表：绵白糖、赤砂糖、枫糖浆、玉米糖浆、牛轧糖、奶糖、水果糖、薄荷糖、酥糖、花生糖、芝麻糖、杏仁糖、椰子糖、焦糖、果葡糖浆、蜂蜜糖、跳跳糖、泡泡糖、口香糖、巧克力糖、夹心糖、爆浆糖、太妃糖、软心糖、QQ糖、橡皮糖、棉花糖、棒棒糖、糖人、糖包、糖丸、糖片、糖球、糖豆、糖粒、糖粉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一摇 遥一摇",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2142,
+          "following_count": 255,
+          "like_count": 10746,
+          "listed_count": 10,
+          "media_count": 501,
+          "tweet_count": 4088
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

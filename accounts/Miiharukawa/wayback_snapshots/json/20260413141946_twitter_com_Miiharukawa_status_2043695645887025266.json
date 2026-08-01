@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2043449263192170496"
+      ],
+      "media_source_tweet_id": [
+        "2043449292787224813"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2043695645887025266",
+    "created_at": "2026-04-13T14:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043695645887025266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "303939260",
+          "start": 3,
+          "username": "GiFShitpost"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LUT4UfVGFA",
+          "end": 40,
+          "expanded_url": "https://x.com/GiFShitpost/status/2043449292787224813/photo/1",
+          "media_key": "16_2043449263192170496",
+          "start": 17,
+          "url": "https://t.co/LUT4UfVGFA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043695645887025266",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3526
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043449292787224813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GiFShitpost: https://t.co/LUT4UfVGFA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "16_2043449263192170496",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFvKRzkaYAAGZMr.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFvKRzkaYAAGZMr.mp4"
+          }
+        ],
+        "width": 642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2043449263192170496"
+          ],
+          "media_source_tweet_id": [
+            "2043449292787224813"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2043695645887025266",
+        "created_at": "2026-04-13T14:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043695645887025266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "303939260",
+              "start": 3,
+              "username": "GiFShitpost"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LUT4UfVGFA",
+              "end": 40,
+              "expanded_url": "https://x.com/GiFShitpost/status/2043449292787224813/photo/1",
+              "media_key": "16_2043449263192170496",
+              "start": 17,
+              "url": "https://t.co/LUT4UfVGFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043695645887025266",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3526
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043449292787224813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GiFShitpost: https://t.co/LUT4UfVGFA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2043449263192170496"
+          ]
+        },
+        "author_id": "303939260",
+        "conversation_id": "2043449292787224813",
+        "created_at": "2026-04-12T22:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T23:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043449292787224813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LUT4UfVGFA",
+              "end": 23,
+              "expanded_url": "https://x.com/GiFShitpost/status/2043449292787224813/photo/1",
+              "media_key": "16_2043449263192170496",
+              "start": 0,
+              "url": "https://t.co/LUT4UfVGFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043449292787224813",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2397,
+          "impression_count": 497386,
+          "like_count": 20220,
+          "quote_count": 190,
+          "reply_count": 17,
+          "retweet_count": 3526
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LUT4UfVGFA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 171,
+          "like_count": 4856,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 1653
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T17:28:22.000Z",
+        "description": "GIFs history, meme culture, and everything cursed in between. Sometimes I post videos. Nothing is owned by me || Runs by @7490 ~ Sponsored by @Roobet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 121,
+                "username": "7490"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "Roobet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/gifshitposter",
+                "end": 23,
+                "expanded_url": "https://www.twitter.com/gifshitposter",
+                "start": 0,
+                "url": "https://t.co/Q7f8iy2ioR"
+              }
+            ]
+          }
+        },
+        "id": "303939260",
+        "location": "150K?",
+        "name": "GIFs Shitpost ⚡️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2190238327/cbx-jogo__93__normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126085,
+          "following_count": 1049,
+          "like_count": 17094,
+          "listed_count": 134,
+          "media_count": 8547,
+          "tweet_count": 11063
+        },
+        "url": "https://t.co/Q7f8iy2ioR",
+        "username": "GiFShitpost",
+        "verified": true
+      }
+    ]
+  }
+}

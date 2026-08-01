@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2076816120883872214",
+    "created_at": "2026-07-14T11:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076994387633172498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926589725189476352",
+          "start": 0,
+          "username": "sandyyyy0922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076994387633172498",
+    "in_reply_to_user_id": "1926589725189476352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076816120883872214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sandyyyy0922 好美丽！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1746,
+        "media_key": "3_2076816116073033728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJVQQ5W8AA7yb-.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2076816120883872214",
+        "created_at": "2026-07-14T11:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076994387633172498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926589725189476352",
+              "start": 0,
+              "username": "sandyyyy0922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076994387633172498",
+        "in_reply_to_user_id": "1926589725189476352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076816120883872214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sandyyyy0922 好美丽！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076816116073033728"
+          ]
+        },
+        "author_id": "1926589725189476352",
+        "conversation_id": "2076816120883872214",
+        "created_at": "2026-07-13T23:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076816120883872214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOhdSjcliN",
+              "end": 44,
+              "expanded_url": "https://x.com/sandyyyy0922/status/2076816120883872214/photo/1",
+              "media_key": "3_2076816116073033728",
+              "start": 21,
+              "url": "https://t.co/SOhdSjcliN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076816120883872214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1503,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别看不惯自己不戴眼镜的照片你们知道吗 https://t.co/SOhdSjcliN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一摇 遥一摇",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2132,
+          "following_count": 252,
+          "like_count": 10463,
+          "listed_count": 10,
+          "media_count": 483,
+          "tweet_count": 3978
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T10:42:55.000Z",
+        "description": "碎碎念+照片随机掉落+恋爱碎片｜07天秤｜叫我M豆或者豆就好｜Bisexual｜infj｜有老公/男友/哥哥/宝宝（同一个人）｜另一个豆@woxihuandaMdou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "woxihuandaMdou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "brothergo.com//lcel46/web?t=…",
+                "end": 23,
+                "expanded_url": "https://www.brothergo.com//lcel46/web?t=1780027673",
+                "start": 0,
+                "url": "https://t.co/9CCewqfogR"
+              }
+            ]
+          }
+        },
+        "id": "1926589725189476352",
+        "location": "M豆星",
+        "name": "黄色大M🫘",
+        "pinned_tweet_id": "2058565041256063190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926595280301875202/aWTzMjuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 383,
+          "like_count": 3825,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 3562
+        },
+        "url": "https://t.co/9CCewqfogR",
+        "username": "sandyyyy0922",
+        "verified": true
+      }
+    ]
+  }
+}

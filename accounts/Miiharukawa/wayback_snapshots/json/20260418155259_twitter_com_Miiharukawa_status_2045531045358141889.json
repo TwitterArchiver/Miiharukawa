@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2045146816606593486",
+    "created_at": "2026-04-18T15:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045531045358141889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1917217010599202816",
+          "start": 0,
+          "username": "ilovetakoyakkii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045531045358141889",
+    "in_reply_to_user_id": "1917217010599202816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045530329436618782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ilovetakoyakkii 你也是很好的人呀可以感受到温暖并且传达出来🧸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2045146816606593486",
+        "created_at": "2026-04-18T15:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045531045358141889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917217010599202816",
+              "start": 0,
+              "username": "ilovetakoyakkii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045531045358141889",
+        "in_reply_to_user_id": "1917217010599202816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045530329436618782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ilovetakoyakkii 你也是很好的人呀可以感受到温暖并且传达出来🧸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917217010599202816",
+        "conversation_id": "2045146816606593486",
+        "created_at": "2026-04-18T15:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045530329436618782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045530329436618782",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045146816606593486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 没错没错\n今天下班后难过了好久\n和一位妹纸聊天时提到了新兼职\n这位温良萌妹给我加油打气\n还说暑假还要找我玩\n让我能够重新感受到来自人类的温暖🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 183,
+          "like_count": 5230,
+          "listed_count": 4,
+          "media_count": 206,
+          "tweet_count": 1819
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T13:58:56.000Z",
+        "description": "INTP｜情绪垃圾桶｜喜欢望着朦胧的海岸线",
+        "id": "1917217010599202816",
+        "name": "이름모를타코",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017978421587083265/JwUFX1Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 38,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "username": "ilovetakoyakkii",
+        "verified": false
+      }
+    ]
+  }
+}

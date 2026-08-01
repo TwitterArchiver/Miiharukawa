@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2071636621288521974",
+    "created_at": "2026-06-30T00:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T01:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071758042182594979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1957852552286060544",
+          "start": 0,
+          "username": "qi_si72468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071758042182594979",
+    "in_reply_to_user_id": "1957852552286060544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071636621288521974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_si72468 推特有好几个人私下聊天说没我不行的时候我就会立刻打开他的关注列表^ ^然后立刻下头不想说话 骗子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2071636621288521974",
+        "created_at": "2026-06-30T00:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071758042182594979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1957852552286060544",
+              "start": 0,
+              "username": "qi_si72468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071758042182594979",
+        "in_reply_to_user_id": "1957852552286060544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071636621288521974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_si72468 推特有好几个人私下聊天说没我不行的时候我就会立刻打开他的关注列表^ ^然后立刻下头不想说话 骗子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957852552286060544",
+        "conversation_id": "2071636621288521974",
+        "created_at": "2026-06-29T16:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071636621288521974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071636621288521974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘘我给你们讲个小秘密！\n俺当年真的在x上喜欢过一个人^^\n但是呢但是，俺发现人家列表全是门槛和那个碎碎念小女孩之后就放弃了。嗯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一遥 遥一遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2051,
+          "following_count": 251,
+          "like_count": 10064,
+          "listed_count": 10,
+          "media_count": 446,
+          "tweet_count": 3810
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T17:10:51.000Z",
+        "description": "不为人知的少女日记本丨碎碎念丨08丨世界上最帅最萌之推丨欢迎投喂助力鱿鱿小吱的成长",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukomo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yukomo",
+                "start": 0,
+                "url": "https://t.co/k0398NYtHU"
+              }
+            ]
+          }
+        },
+        "id": "1957852552286060544",
+        "location": "这里幸运女高碎碎念bot",
+        "name": "yukomo",
+        "pinned_tweet_id": "2065758306006618549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051961285441695744/gQKCSmHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 122,
+          "like_count": 10110,
+          "listed_count": 0,
+          "media_count": 477,
+          "tweet_count": 3504
+        },
+        "url": "https://t.co/k0398NYtHU",
+        "username": "qi_si72468",
+        "verified": false
+      }
+    ]
+  }
+}

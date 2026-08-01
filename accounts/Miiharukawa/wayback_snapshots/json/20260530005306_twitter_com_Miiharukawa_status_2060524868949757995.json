@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060524861827764224",
+        "3_2060524861827825664"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2060523990532448637",
+    "created_at": "2026-05-30T00:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T01:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060524868949757995"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oDnm1Cf8oL",
+          "end": 42,
+          "expanded_url": "https://x.com/Miiharukawa/status/2060524868949757995/photo/1",
+          "media_key": "3_2060524861827764224",
+          "start": 19,
+          "url": "https://t.co/oDnm1Cf8oL"
+        },
+        {
+          "display_url": "pic.x.com/oDnm1Cf8oL",
+          "end": 42,
+          "expanded_url": "https://x.com/Miiharukawa/status/2060524868949757995/photo/1",
+          "media_key": "3_2060524861827825664",
+          "start": 19,
+          "url": "https://t.co/oDnm1Cf8oL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060524868949757995",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060523990532448637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "用豆包ai别人作品更是死冯冯的存在。 https://t.co/oDnm1Cf8oL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_2060524861827764224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJh0cdga0AA-lV9.jpg",
+        "width": 1016
+      },
+      {
+        "height": 1249,
+        "media_key": "3_2060524861827825664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJh0cdgbwAAmtv4.jpg",
+        "width": 1009
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060524861827764224",
+            "3_2060524861827825664"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2060523990532448637",
+        "created_at": "2026-05-30T00:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060524868949757995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oDnm1Cf8oL",
+              "end": 42,
+              "expanded_url": "https://x.com/Miiharukawa/status/2060524868949757995/photo/1",
+              "media_key": "3_2060524861827764224",
+              "start": 19,
+              "url": "https://t.co/oDnm1Cf8oL"
+            },
+            {
+              "display_url": "pic.x.com/oDnm1Cf8oL",
+              "end": 42,
+              "expanded_url": "https://x.com/Miiharukawa/status/2060524868949757995/photo/1",
+              "media_key": "3_2060524861827825664",
+              "start": 19,
+              "url": "https://t.co/oDnm1Cf8oL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060524868949757995",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060523990532448637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "用豆包ai别人作品更是死冯冯的存在。 https://t.co/oDnm1Cf8oL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2060523990532448637",
+        "created_at": "2026-05-30T00:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060523990532448637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060523990532448637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "给女角色画乳沟是不行的，这是性化，是对女性的凝视。你不能给她画纤细的手臂，这是弱化女性。\n所以这群傻逼给女角色裹上布条画成平胸加上吓死人的肌肉，这就是她们所谓的爱女，把女性画成男性怎么不算一种变相弱化。\n为了一个虚拟女性而攻击一个真实女性。老冯死了的人讲话就是带劲。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 233,
+          "like_count": 8426,
+          "listed_count": 6,
+          "media_count": 348,
+          "tweet_count": 3215
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

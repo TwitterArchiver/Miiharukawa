@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2038133644989190260",
+    "created_at": "2026-03-29T06:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T07:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038141111265636784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1476054864027594754",
+          "start": 0,
+          "username": "Shanghai_Repub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038141111265636784",
+    "in_reply_to_user_id": "1476054864027594754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038136923642888266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shanghai_Repub 笑鼠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2038133644989190260",
+        "created_at": "2026-03-29T06:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038141111265636784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1476054864027594754",
+              "start": 0,
+              "username": "Shanghai_Repub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038141111265636784",
+        "in_reply_to_user_id": "1476054864027594754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038136923642888266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shanghai_Repub 笑鼠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476054864027594754",
+        "conversation_id": "2038133644989190260",
+        "created_at": "2026-03-29T06:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038136923642888266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038136923642888266",
+        "in_reply_to_user_id": "1476054864027594754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038136824674107484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 等一下我没有说我是[    ]的意思（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 155,
+          "like_count": 3793,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 1182
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T05:00:03.000Z",
+        "description": "孩子们我投共了请多多支持。",
+        "id": "1476054864027594754",
+        "name": "聯軍來了我帶路，國軍來了我參加",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037303774549848065/JVW0oYxy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 787,
+          "like_count": 11570,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 1209
+        },
+        "username": "Shanghai_Repub",
+        "verified": false
+      }
+    ]
+  }
+}

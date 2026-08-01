@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2038117674866311179",
+    "created_at": "2026-03-29T05:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T06:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038133148635267342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2021643128990777344",
+          "start": 0,
+          "username": "HanaseShizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038133148635267342",
+    "in_reply_to_user_id": "2021643128990777344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038126773851086958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanaseShizuku Me too （绝望地离开）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2038117674866311179",
+        "created_at": "2026-03-29T05:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038133148635267342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2021643128990777344",
+              "start": 0,
+              "username": "HanaseShizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038133148635267342",
+        "in_reply_to_user_id": "2021643128990777344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038126773851086958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanaseShizuku Me too （绝望地离开）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021643128990777344",
+        "conversation_id": "2038117674866311179",
+        "created_at": "2026-03-29T05:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038126773851086958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038126773851086958",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038117674866311179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa omg it's 香菜\n（不吃香菜的路过看到后绝望的离开了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 154,
+          "like_count": 3790,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 1180
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T17:51:12.000Z",
+        "description": "七草月雫，叫我柒月就行\n*欢迎互动 非常欢迎互动*\n**极端账号远离我**\n碎碎念账号，没有什么内容\n本人生理性别话题是雷区，很抱歉\n听说bio带🚪会有流量，但是我这里不存在🚪\n欢迎私信互动（虽然我不一定看，但是其实挺想要私信小红点的）\n绿色聊天谢谢\n另外晶哥别看我了，我又不发什么违法的东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "网页还没写完啦.dev",
+                "end": 23,
+                "expanded_url": "https://xn--g7q95g50gzytolvlvw8ln.dev",
+                "start": 0,
+                "url": "https://t.co/kTNByEt7r4"
+              }
+            ]
+          }
+        },
+        "id": "2021643128990777344",
+        "location": "300m",
+        "name": "七草つきしずく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031387184696274950/CCd9Z-L3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 18,
+          "like_count": 1009,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/kTNByEt7r4",
+        "username": "HanaseShizuku",
+        "verified": false
+      }
+    ]
+  }
+}

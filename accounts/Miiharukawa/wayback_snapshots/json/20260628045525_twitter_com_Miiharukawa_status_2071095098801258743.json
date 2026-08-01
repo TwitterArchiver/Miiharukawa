@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2071061229024788673",
+    "created_at": "2026-06-28T04:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071095098801258743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1150952399919603712",
+          "start": 0,
+          "username": "Mmmmilk7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071095098801258743",
+    "in_reply_to_user_id": "1150952399919603712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071070168877510843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mmmmilk7 有的有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2071061229024788673",
+        "created_at": "2026-06-28T04:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071095098801258743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1150952399919603712",
+              "start": 0,
+              "username": "Mmmmilk7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071095098801258743",
+        "in_reply_to_user_id": "1150952399919603712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071070168877510843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mmmmilk7 有的有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1150952399919603712",
+        "conversation_id": "2071061229024788673",
+        "created_at": "2026-06-28T03:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T04:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071070168877510843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071070168877510843",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071061229024788673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 🥺里面是否有汤汁，饿了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一遥 遥一遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 246,
+          "like_count": 9958,
+          "listed_count": 10,
+          "media_count": 452,
+          "tweet_count": 3782
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-16T02:16:50.000Z",
+        "description": "",
+        "id": "1150952399919603712",
+        "name": "Mmmilk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033167000927973376/a95cRviG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 262,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 655
+        },
+        "url": "",
+        "username": "Mmmmilk7",
+        "verified": false
+      }
+    ]
+  }
+}

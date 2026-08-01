@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2049973643560783975",
+    "created_at": "2026-05-01T13:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T14:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050200489904775515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "883270820121821184",
+          "start": 0,
+          "username": "b1giH0azV6zEEOn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050200489904775515",
+    "in_reply_to_user_id": "883270820121821184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050123816769331279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@b1giH0azV6zEEOn 随便你吧帅哥，扣帽子打法赢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2049973643560783975",
+        "created_at": "2026-05-01T13:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050200489904775515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "883270820121821184",
+              "start": 0,
+              "username": "b1giH0azV6zEEOn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050200489904775515",
+        "in_reply_to_user_id": "883270820121821184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050123816769331279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@b1giH0azV6zEEOn 随便你吧帅哥，扣帽子打法赢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "883270820121821184",
+        "conversation_id": "2049973643560783975",
+        "created_at": "2026-05-01T08:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050123816769331279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2030123031490875396",
+              "start": 0,
+              "username": "Harukayo96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050123816769331279",
+        "in_reply_to_user_id": "2030123031490875396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049973643560783975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Harukayo96 推特上，女号，门槛，发自拍的，发性内容的，一律默认骗子。能避免百分之99的麻烦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "重度百合豚  专发碎碎念\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 210,
+          "like_count": 6388,
+          "listed_count": 5,
+          "media_count": 250,
+          "tweet_count": 2434
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-07T10:25:48.000Z",
+        "description": "I am Singaporean. I support Ukraine's anti-aggression war. Glory to Ukraine. Zelensky is a great president.",
+        "id": "883270820121821184",
+        "location": "Singapore",
+        "name": "Alexander-James Li🇸🇬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852869074709291008/SJ_rnqy9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 366,
+          "like_count": 1105,
+          "listed_count": 3,
+          "media_count": 268,
+          "tweet_count": 2677
+        },
+        "username": "b1giH0azV6zEEOn",
+        "verified": false
+      }
+    ]
+  }
+}

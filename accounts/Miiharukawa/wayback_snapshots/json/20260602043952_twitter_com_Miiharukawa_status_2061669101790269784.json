@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2061460018457878779",
+    "created_at": "2026-06-02T04:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061669101790269784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1551086026210217986",
+          "start": 0,
+          "username": "Alysia38800191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061669101790269784",
+    "in_reply_to_user_id": "1551086026210217986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061668104825160138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alysia38800191 原来如此！我每次喝霸王茶姬都摸索一遍有没有便宜渠道然后还是老实地掏原价购买悻悻离开（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2061460018457878779",
+        "created_at": "2026-06-02T04:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061669101790269784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1551086026210217986",
+              "start": 0,
+              "username": "Alysia38800191"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061669101790269784",
+        "in_reply_to_user_id": "1551086026210217986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061668104825160138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alysia38800191 原来如此！我每次喝霸王茶姬都摸索一遍有没有便宜渠道然后还是老实地掏原价购买悻悻离开（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551086026210217986",
+        "conversation_id": "2061460018457878779",
+        "created_at": "2026-06-02T04:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061668104825160138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061668104825160138",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061666630187487399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 霸王茶姬不给我降到10块以内我是不会喝的，平时看看团购买点10块以内的奶茶喝喝就好了。我比较喜欢买茶颜悦色，活动充钱400送200，一杯下来也就十块不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 234,
+          "like_count": 8733,
+          "listed_count": 6,
+          "media_count": 358,
+          "tweet_count": 3300
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T06:05:09.000Z",
+        "description": "不吃香菜（考研版）",
+        "id": "1551086026210217986",
+        "location": "location",
+        "name": "和一位",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875652994370564096/ceVIQJ61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 145,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 552
+        },
+        "username": "Alysia38800191",
+        "verified": false
+      }
+    ]
+  }
+}

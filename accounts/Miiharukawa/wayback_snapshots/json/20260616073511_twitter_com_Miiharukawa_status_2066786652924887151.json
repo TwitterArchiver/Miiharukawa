@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2066715368052379755",
+    "created_at": "2026-06-16T07:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066786652924887151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986433528196939777",
+          "start": 0,
+          "username": "Riddle_Jacker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066786652924887151",
+    "in_reply_to_user_id": "1986433528196939777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066756088813555863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riddle_Jacker 可以是可以是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2066715368052379755",
+        "created_at": "2026-06-16T07:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066786652924887151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986433528196939777",
+              "start": 0,
+              "username": "Riddle_Jacker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066786652924887151",
+        "in_reply_to_user_id": "1986433528196939777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066756088813555863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riddle_Jacker 可以是可以是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986433528196939777",
+        "conversation_id": "2066715368052379755",
+        "created_at": "2026-06-16T05:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066756088813555863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066756088813555863",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066715368052379755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 我也是好友嘛（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 235,
+          "like_count": 9364,
+          "listed_count": 6,
+          "media_count": 410,
+          "tweet_count": 3579
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T14:00:50.000Z",
+        "description": "我是区 ｜ 4k: ε- e5- e5- e5-",
+        "id": "1986433528196939777",
+        "name": "RΙΔΔLE JαckεΓ",
+        "pinned_tweet_id": "2064337705853759613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013477272016052224/aUdbNnIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 421,
+          "like_count": 6007,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 695
+        },
+        "username": "Riddle_Jacker",
+        "verified": false
+      }
+    ]
+  }
+}

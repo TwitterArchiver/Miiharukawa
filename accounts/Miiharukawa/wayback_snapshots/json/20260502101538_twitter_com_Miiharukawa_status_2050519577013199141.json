@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2050447810919821780",
+    "created_at": "2026-05-02T10:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T11:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050519577013199141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1510243706347028482",
+          "start": 0,
+          "username": "Chiqyuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050519577013199141",
+    "in_reply_to_user_id": "1510243706347028482",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050447810919821780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiqyuna 我也要吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1380,
+        "media_key": "3_2050447807140835328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSnarcbsAAi1ZO.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2050447810919821780",
+        "created_at": "2026-05-02T10:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050519577013199141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1510243706347028482",
+              "start": 0,
+              "username": "Chiqyuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050519577013199141",
+        "in_reply_to_user_id": "1510243706347028482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050447810919821780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiqyuna 我也要吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050447807140835328"
+          ]
+        },
+        "author_id": "1510243706347028482",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050447810919821780",
+        "created_at": "2026-05-02T05:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050447810919821780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZuZStXPypH",
+              "end": 66,
+              "expanded_url": "https://x.com/Chiqyuna/status/2050447810919821780/photo/1",
+              "media_key": "3_2050447807140835328",
+              "start": 43,
+              "url": "https://t.co/ZuZStXPypH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050447810919821780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五一已经躺两天了\n好废物好无趣好不开心，我想出去玩\n不知道去哪，也没人陪我\n还有，虾 https://t.co/ZuZStXPypH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "Infp 重度百合豚 专发碎碎念\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 212,
+          "like_count": 6455,
+          "listed_count": 5,
+          "media_count": 253,
+          "tweet_count": 2466
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T13:12:25.000Z",
+        "description": "如果觉得被冒犯了那是我的猫发的，它有四个爪子打字比我快。对可爱的东西欲罢不能。臭打游戏的，别看她长得乖，私底下烟酒都来的。双叶天下第一可爱",
+        "id": "1510243706347028482",
+        "location": "仰齐浜",
+        "name": "な",
+        "pinned_tweet_id": "2034823419670536249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047131412747444224/nLWdoqbB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 475,
+          "like_count": 4156,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1131
+        },
+        "username": "Chiqyuna",
+        "verified": false
+      }
+    ]
+  }
+}

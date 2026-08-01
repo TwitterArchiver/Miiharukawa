@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2061495842150961556",
+    "created_at": "2026-06-02T03:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061649877084578069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1587633987840872450",
+          "start": 0,
+          "username": "yigetangxindan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061649877084578069",
+    "in_reply_to_user_id": "1587633987840872450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061645235889807655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yigetangxindan 这期有点隐晦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2061495842150961556",
+        "created_at": "2026-06-02T03:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061649877084578069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1587633987840872450",
+              "start": 0,
+              "username": "yigetangxindan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061649877084578069",
+        "in_reply_to_user_id": "1587633987840872450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061645235889807655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yigetangxindan 这期有点隐晦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587633987840872450",
+        "conversation_id": "2061495842150961556",
+        "created_at": "2026-06-02T03:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061645235889807655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061645235889807655",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061495842150961556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 终于有人懂了🚬上次发or2-7没人懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 234,
+          "like_count": 8724,
+          "listed_count": 6,
+          "media_count": 353,
+          "tweet_count": 3293
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T02:33:58.000Z",
+        "description": "推止于推｜被盗图骗别找我｜最爱吃溏心蛋拌炒饭｜文黄图绿号，我啥都敢说😋｜有🩸图请你屏蔽我谢谢｜给我发吊的都枪毙｜如果我管住嘴一定是世界上最富的人🍳|不约不实践不闲聊｜别跟我装熟那很冒犯｜https://t.co/id8JwD8uWt ⬅️阿瑟请问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yigetangxindan",
+                "end": 116,
+                "expanded_url": "https://ngl.link/yigetangxindan",
+                "start": 93,
+                "url": "https://t.co/id8JwD8uWt"
+              }
+            ]
+          }
+        },
+        "id": "1587633987840872450",
+        "location": "不是🚪姐 打赏随意",
+        "name": "溏心蛋",
+        "pinned_tweet_id": "2034245594860982704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035918636268072960/xxUz8HPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3153,
+          "following_count": 150,
+          "like_count": 18760,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 7186
+        },
+        "username": "yigetangxindan",
+        "verified": false
+      }
+    ]
+  }
+}

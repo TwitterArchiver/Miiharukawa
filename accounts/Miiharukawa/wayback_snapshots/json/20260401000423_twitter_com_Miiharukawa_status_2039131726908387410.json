@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2039131726908387410",
+    "created_at": "2026-04-01T00:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T01:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039131726908387410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038482519507558400",
+          "start": 3,
+          "username": "jiaojiao330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039131726908387410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038530916126200231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiaojiao330: 自我介绍来嘞：\n宅女 喜欢聊天 素网络蛀虫 好想一辈子赖在网络里面 讨厌现实社交喵\n💰💰万岁୧(´▽`★)୭！我对💰的热爱让它可以购买我的一切 将我肢解分尸成为蛆虫的温巢（误）总之只要钱足够 我可以提供以不触碰法律为前提的我能提供的一切 （这话…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2038530913349570560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpREKnakAALK_0.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2039131726908387410",
+        "created_at": "2026-04-01T00:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039131726908387410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038482519507558400",
+              "start": 3,
+              "username": "jiaojiao330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039131726908387410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038530916126200231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiaojiao330: 自我介绍来嘞：\n宅女 喜欢聊天 素网络蛀虫 好想一辈子赖在网络里面 讨厌现实社交喵\n💰💰万岁୧(´▽`★)୭！我对💰的热爱让它可以购买我的一切 将我肢解分尸成为蛆虫的温巢（误）总之只要钱足够 我可以提供以不触碰法律为前提的我能提供的一切 （这话…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038530913349570560"
+          ]
+        },
+        "author_id": "2038482519507558400",
+        "conversation_id": "2038530916126200231",
+        "created_at": "2026-03-30T08:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038530916126200231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Xc6QA5wMc",
+              "end": 172,
+              "expanded_url": "https://x.com/jiaojiao330/status/2038530916126200231/photo/1",
+              "media_key": "3_2038530913349570560",
+              "start": 149,
+              "url": "https://t.co/1Xc6QA5wMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038530916126200231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 887,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "自我介绍来嘞：\n宅女 喜欢聊天 素网络蛀虫 好想一辈子赖在网络里面 讨厌现实社交喵\n💰💰万岁୧(´▽`★)୭！我对💰的热爱让它可以购买我的一切 将我肢解分尸成为蛆虫的温巢（误）总之只要钱足够 我可以提供以不触碰法律为前提的我能提供的一切 （这话好绕）\n思维逻辑混乱 有点呆板 甚至偶尔无法正常沟通 https://t.co/1Xc6QA5wMc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 159,
+          "like_count": 3945,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 1233
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T05:04:52.000Z",
+        "description": "有🚪\nswitch\n143cm37kg\n三围66 56 83\n感谢米娜私信评论跟赞赏（划重点）ᰔᩚ/•᷅•᷄\\\\୭\n小事化巧克力 大事化蛋糕 牙齿可以正常咀嚼之后又开始喜欢甜食了捏´༥`\n投喂的米会被我换成房租 电费 如果有剩余的话！就变成了香香奶茶跟麦麦ദ്ദി (⩌ᴗ⩌ )",
+        "id": "2038482519507558400",
+        "location": "喜欢我的话请多多赞赏",
+        "name": "我想睡觉觉•᎔•",
+        "pinned_tweet_id": "2038530916126200231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038485433034985472/f-Q9whUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 12,
+          "like_count": 389,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 60
+        },
+        "username": "jiaojiao330",
+        "verified": false
+      }
+    ]
+  }
+}

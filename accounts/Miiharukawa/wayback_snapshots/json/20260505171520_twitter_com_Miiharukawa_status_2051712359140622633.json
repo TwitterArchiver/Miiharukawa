@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2051712359140622633",
+    "created_at": "2026-05-05T17:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T18:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051712359140622633"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051712359140622633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉人生就是一直在刻舟求剑。\n想起上一次做这个美甲的时候还是和闺蜜一起，要去换美甲的时候想起已经和闺蜜决裂了。我清楚地记得床上的玩偶都是什么时候带回来的，看着相册的照片可以精准复述当天的经历，吃着朋友送的零食也会想起收到零食那天的喜悦。\n我总是在生命的划痕里不断打捞着珍贵的过往。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2051712359140622633",
+        "created_at": "2026-05-05T17:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051712359140622633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051712359140622633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉人生就是一直在刻舟求剑。\n想起上一次做这个美甲的时候还是和闺蜜一起，要去换美甲的时候想起已经和闺蜜决裂了。我清楚地记得床上的玩偶都是什么时候带回来的，看着相册的照片可以精准复述当天的经历，吃着朋友送的零食也会想起收到零食那天的喜悦。\n我总是在生命的划痕里不断打捞着珍贵的过往。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 215,
+          "like_count": 6761,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 2618
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

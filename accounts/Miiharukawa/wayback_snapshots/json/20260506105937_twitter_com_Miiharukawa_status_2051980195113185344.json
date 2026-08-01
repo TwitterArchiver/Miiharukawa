@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051960946483224577"
+      ],
+      "media_source_tweet_id": [
+        "2051960954284564649"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2051980195113185344",
+    "created_at": "2026-05-06T10:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051980195113185344"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 25,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049492820952748032",
+          "start": 3,
+          "username": "Huaituziovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x7hD8T6qcd",
+          "end": 55,
+          "expanded_url": "https://x.com/Huaituziovo/status/2051960954284564649/photo/1",
+          "media_key": "3_2051960946483224577",
+          "start": 32,
+          "url": "https://t.co/x7hD8T6qcd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051980195113185344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051960954284564649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Huaituziovo: 推油回家。。。\n#自撮り界隈 https://t.co/x7hD8T6qcd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2051960946483224577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoHm-wbYAE9Mv3.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051960946483224577"
+          ],
+          "media_source_tweet_id": [
+            "2051960954284564649"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2051980195113185344",
+        "created_at": "2026-05-06T10:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051980195113185344"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049492820952748032",
+              "start": 3,
+              "username": "Huaituziovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x7hD8T6qcd",
+              "end": 55,
+              "expanded_url": "https://x.com/Huaituziovo/status/2051960954284564649/photo/1",
+              "media_key": "3_2051960946483224577",
+              "start": 32,
+              "url": "https://t.co/x7hD8T6qcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051980195113185344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051960954284564649",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Huaituziovo: 推油回家。。。\n#自撮り界隈 https://t.co/x7hD8T6qcd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051960946483224577"
+          ]
+        },
+        "author_id": "2049492820952748032",
+        "conversation_id": "2051960954284564649",
+        "created_at": "2026-05-06T09:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051960954284564649"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x7hD8T6qcd",
+              "end": 38,
+              "expanded_url": "https://x.com/Huaituziovo/status/2051960954284564649/photo/1",
+              "media_key": "3_2051960946483224577",
+              "start": 15,
+              "url": "https://t.co/x7hD8T6qcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051960954284564649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推油回家。。。\n#自撮り界隈 https://t.co/x7hD8T6qcd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 214,
+          "like_count": 6856,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 2663
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T14:15:52.000Z",
+        "description": "小兔二世自娱自乐中",
+        "id": "2049492820952748032",
+        "location": "兔子窝",
+        "name": "坏兔子",
+        "pinned_tweet_id": "2051282992312852597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049493218551828480/g939VhQT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 25,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "Huaituziovo",
+        "verified": false
+      }
+    ]
+  }
+}

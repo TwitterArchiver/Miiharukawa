@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2056634921582776340",
+    "created_at": "2026-05-19T07:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T08:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056634921582776340"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056634921582776340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有被人坚定地选择过，上体育课组队总是一个人，小组作业分组要等老师把我塞进别的组，我的朋友都有更要好的朋友，在家里甚至也不是父母最重视的小孩，谈过的对象都有一个忘不了的前任。我永远是别人生命中的一点点。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2056634921582776340",
+        "created_at": "2026-05-19T07:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056634921582776340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056634921582776340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有被人坚定地选择过，上体育课组队总是一个人，小组作业分组要等老师把我塞进别的组，我的朋友都有更要好的朋友，在家里甚至也不是父母最重视的小孩，谈过的对象都有一个忘不了的前任。我永远是别人生命中的一点点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 219,
+          "like_count": 7725,
+          "listed_count": 6,
+          "media_count": 318,
+          "tweet_count": 3001
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

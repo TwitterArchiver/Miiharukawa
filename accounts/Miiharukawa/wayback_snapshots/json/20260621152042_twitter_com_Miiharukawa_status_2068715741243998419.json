@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2068565370496290974",
+    "created_at": "2026-06-21T15:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068715741243998419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1635516217200099328",
+          "start": 0,
+          "username": "ywxqz_sy"
+        },
+        {
+          "end": 23,
+          "id": "1662293480486621184",
+          "start": 10,
+          "username": "dofees166639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068715741243998419",
+    "in_reply_to_user_id": "1635516217200099328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068665159086899281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ywxqz_sy @dofees166639 云云你听我解释😭我前两天刷小红书看见了一个哭肿的眼睛真的很像。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2068565370496290974",
+        "created_at": "2026-06-21T15:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068715741243998419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1635516217200099328",
+              "start": 0,
+              "username": "ywxqz_sy"
+            },
+            {
+              "end": 23,
+              "id": "1662293480486621184",
+              "start": 10,
+              "username": "dofees166639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068715741243998419",
+        "in_reply_to_user_id": "1635516217200099328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068665159086899281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywxqz_sy @dofees166639 云云你听我解释😭我前两天刷小红书看见了一个哭肿的眼睛真的很像。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635516217200099328",
+        "conversation_id": "2068565370496290974",
+        "created_at": "2026-06-21T11:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068665159086899281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            },
+            {
+              "end": 26,
+              "id": "1662293480486621184",
+              "start": 13,
+              "username": "dofees166639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068665159086899281",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068578130076532980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa @dofees166639 ……………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 240,
+          "like_count": 9488,
+          "listed_count": 6,
+          "media_count": 416,
+          "tweet_count": 3621
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T05:40:42.000Z",
+        "description": "一朵普通飘过的云。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuoyun16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuoyun16",
+                "start": 0,
+                "url": "https://t.co/kuVq03QEYP"
+              }
+            ]
+          }
+        },
+        "id": "1635516217200099328",
+        "name": "朔云",
+        "pinned_tweet_id": "2050390733987971520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000165241905401856/MYfFRFqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 559,
+          "like_count": 26932,
+          "listed_count": 4,
+          "media_count": 287,
+          "tweet_count": 8360
+        },
+        "url": "https://t.co/kuVq03QEYP",
+        "username": "ywxqz_sy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-27T03:04:14.000Z",
+        "description": "是一个像薄荷叶一样的人\n忙碌。。。\n可以叫我薄荷叶\n代表されるのはごたえがないですね。\n話をはっきりさせることが大切にされています。\nJ'apprends le français et j'espère atteindre le niveau B2.",
+        "id": "1662293480486621184",
+        "location": "Ginowan-shi, Okinawa",
+        "name": "暮棠月",
+        "pinned_tweet_id": "2033841500724072659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004538362838089729/fwbMWls0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 3575,
+          "like_count": 109320,
+          "listed_count": 3,
+          "media_count": 389,
+          "tweet_count": 7030
+        },
+        "url": "",
+        "username": "dofees166639",
+        "verified": false
+      }
+    ]
+  }
+}

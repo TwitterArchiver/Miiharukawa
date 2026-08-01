@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2069689773632213467",
+    "created_at": "2026-06-24T10:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T11:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069722514146902077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "838194675928346624",
+          "start": 0,
+          "username": "Lightning_Hand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069722514146902077",
+    "in_reply_to_user_id": "838194675928346624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069705413029970212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lightning_Hand 耶耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2069689773632213467",
+        "created_at": "2026-06-24T10:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069722514146902077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "838194675928346624",
+              "start": 0,
+              "username": "Lightning_Hand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069722514146902077",
+        "in_reply_to_user_id": "838194675928346624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069705413029970212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lightning_Hand 耶耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "838194675928346624",
+        "conversation_id": "2069689773632213467",
+        "created_at": "2026-06-24T08:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069705413029970212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069705413029970212",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069689773632213467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 喜欢遥遥碎碎念。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一遥 遥一遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 244,
+          "like_count": 9794,
+          "listed_count": 6,
+          "media_count": 443,
+          "tweet_count": 3728
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-05T01:09:18.000Z",
+        "description": "Give me a wide universe.",
+        "id": "838194675928346624",
+        "name": "Bot D（淡推版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066553501657018368/EQhPm-Ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 484,
+          "like_count": 8053,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 4285
+        },
+        "url": "",
+        "username": "Lightning_Hand",
+        "verified": false
+      }
+    ]
+  }
+}

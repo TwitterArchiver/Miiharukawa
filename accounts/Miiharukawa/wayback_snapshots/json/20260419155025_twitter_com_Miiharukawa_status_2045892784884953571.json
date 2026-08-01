@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2045805595551506764",
+    "created_at": "2026-04-19T15:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045892784884953571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1986255932159107077",
+          "start": 0,
+          "username": "fantuan84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045892784884953571",
+    "in_reply_to_user_id": "1986255932159107077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045868034745635248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fantuan84 我现在在用的是花吕感觉用完涩涩的还有头皮屑（挠头）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2045805595551506764",
+        "created_at": "2026-04-19T15:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045892784884953571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1986255932159107077",
+              "start": 0,
+              "username": "fantuan84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045892784884953571",
+        "in_reply_to_user_id": "1986255932159107077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045868034745635248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fantuan84 我现在在用的是花吕感觉用完涩涩的还有头皮屑（挠头）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986255932159107077",
+        "conversation_id": "2045805595551506764",
+        "created_at": "2026-04-19T14:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045868034745635248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045868034745635248",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045805595551506764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 不要用欧莱雅绿色瓶子的那个tut我之前八九年用的都是吕（紫吕 棕吕 黑吕都用），后面听室友推荐了欧莱雅绿色的洗发水，二十多年都都没有过头皮屑的我居然开始长头皮屑了，而且用那个洗发水的那段时间头皮还会起小痘痘。tut我现在换掉了以后情况好多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 186,
+          "like_count": 5298,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 1844
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T02:14:59.000Z",
+        "description": "是我碎碎念的树洞",
+        "id": "1986255932159107077",
+        "name": "我渴的时候会喝很多水",
+        "pinned_tweet_id": "2021163877203841453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045032295267213312/RkTQotLa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 37,
+          "like_count": 333,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 190
+        },
+        "username": "fantuan84",
+        "verified": false
+      }
+    ]
+  }
+}

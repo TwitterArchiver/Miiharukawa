@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050176921670209536"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050176932931932523",
+    "created_at": "2026-05-01T11:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050176932931932523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/He7daskyAF",
+          "end": 26,
+          "expanded_url": "https://x.com/Miiharukawa/status/2050176932931932523/photo/1",
+          "media_key": "3_2050176921670209536",
+          "start": 3,
+          "url": "https://t.co/He7daskyAF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050176932931932523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "饮了 https://t.co/He7daskyAF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2050176921670209536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOxDEbbUAAmfIU.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050176921670209536"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050176932931932523",
+        "created_at": "2026-05-01T11:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050176932931932523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/He7daskyAF",
+              "end": 26,
+              "expanded_url": "https://x.com/Miiharukawa/status/2050176932931932523/photo/1",
+              "media_key": "3_2050176921670209536",
+              "start": 3,
+              "url": "https://t.co/He7daskyAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050176932931932523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "饮了 https://t.co/He7daskyAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "重度百合豚  专发碎碎念\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 210,
+          "like_count": 6365,
+          "listed_count": 5,
+          "media_count": 252,
+          "tweet_count": 2432
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

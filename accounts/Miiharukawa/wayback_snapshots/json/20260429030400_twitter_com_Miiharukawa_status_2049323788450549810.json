@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2049318424984297653",
+    "created_at": "2026-04-29T03:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T04:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049323788450549810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049323788450549810",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049318424984297653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 好有质感！非常有品位的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049318410107187201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCkPHobcAEX3aV.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2049318424984297653",
+        "created_at": "2026-04-29T03:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049323788450549810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049323788450549810",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049318424984297653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 好有质感！非常有品位的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049318410107187201"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2049318424984297653",
+        "created_at": "2026-04-29T02:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049318424984297653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rHUB1sRYYf",
+              "end": 61,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2049318424984297653/photo/1",
+              "media_key": "3_2049318410107187201",
+              "start": 38,
+              "url": "https://t.co/rHUB1sRYYf"
+            },
+            {
+              "display_url": "x.com/miiharukawa/st…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/miiharukawa/status/2049293760954319124",
+              "start": 62,
+              "url": "https://t.co/Ec3OJFVJOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049318424984297653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049293760954319124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是故意用这个很复古的手机壳我觉得很2000s担我诡秘说像她妈妈十年前用的 https://t.co/rHUB1sRYYf https://t.co/Ec3OJFVJOu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 197,
+          "like_count": 6089,
+          "listed_count": 5,
+          "media_count": 241,
+          "tweet_count": 2302
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "identity: Non-Male. 我最喜欢She/her，但实际上除了“He/him”都OK，中文“他”、“它”不介意。\n@irisdesombres 的忠犬。我的任务是让你感到幸福，就像你让我感到的一样。\n欢迎造访我的提问箱：https://t.co/CAHk8J3HgH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/diamond_kokoro",
+                "end": 140,
+                "expanded_url": "https://ngl.link/diamond_kokoro",
+                "start": 117,
+                "url": "https://t.co/CAHk8J3HgH"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "万达广场附近",
+        "name": "小羽",
+        "pinned_tweet_id": "2042093453010665597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048940639027675136/-Qcmg4fe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 93,
+          "like_count": 4065,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 2723
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

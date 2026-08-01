@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2051875553523970117",
+    "created_at": "2026-05-06T04:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051887651880591450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1972716519126949888",
+          "start": 0,
+          "username": "shiwuyu20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051887651880591450",
+    "in_reply_to_user_id": "1972716519126949888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051876435732595135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiwuyu20 我朋友说我的行为举止就像上辈子宅男求爷爷告奶奶让我转生到女生身体里了一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2051875553523970117",
+        "created_at": "2026-05-06T04:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051887651880591450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1972716519126949888",
+              "start": 0,
+              "username": "shiwuyu20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051887651880591450",
+        "in_reply_to_user_id": "1972716519126949888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051876435732595135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiwuyu20 我朋友说我的行为举止就像上辈子宅男求爷爷告奶奶让我转生到女生身体里了一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972716519126949888",
+        "conversation_id": "2051875553523970117",
+        "created_at": "2026-05-06T04:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051876435732595135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051876435732595135",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051875553523970117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 男生这么干觉得恶臭猥琐，女孩子这么干莫名觉得还挺可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 215,
+          "like_count": 6797,
+          "listed_count": 4,
+          "media_count": 263,
+          "tweet_count": 2635
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-29T17:34:35.000Z",
+        "description": "",
+        "id": "1972716519126949888",
+        "name": "郁十五",
+        "pinned_tweet_id": "1988659193252061579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973742474184060928/UMNhvXTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 339,
+          "like_count": 49031,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 4555
+        },
+        "username": "shiwuyu20",
+        "verified": false
+      }
+    ]
+  }
+}

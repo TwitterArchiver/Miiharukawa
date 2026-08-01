@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2040794327883096240",
+    "created_at": "2026-04-05T15:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T16:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040817118552441278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2026738322887016449",
+          "start": 0,
+          "username": "Cup765"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040817118552441278",
+    "in_reply_to_user_id": "2026738322887016449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040816687143137518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cup765 做出来就是为了看的（不是）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2040794327883096240",
+        "created_at": "2026-04-05T15:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040817118552441278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2026738322887016449",
+              "start": 0,
+              "username": "Cup765"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040817118552441278",
+        "in_reply_to_user_id": "2026738322887016449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040816687143137518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cup765 做出来就是为了看的（不是）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026738322887016449",
+        "conversation_id": "2040794327883096240",
+        "created_at": "2026-04-05T15:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040816687143137518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040816687143137518",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040794327883096240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 感觉看了以后，自己很像变态偷窥狂Σ（・□・；）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 168,
+          "like_count": 4338,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 1385
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T19:18:23.000Z",
+        "description": "恶毒同人女（？，一个臭画画的大啥比，不稳定产出低质量同人\n音游玩家，独爱太鼓。太鼓是恋人，2026春赤銀初段，三段練習中\n爱碎碎念，发发牢骚，把x当日记\n我会回关所有好人😎都来找我交朋友！（没人鸟😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cjdgrevival.com",
+                "end": 23,
+                "expanded_url": "http://cjdgrevival.com",
+                "start": 0,
+                "url": "https://t.co/mjjA1xx8Kj"
+              }
+            ]
+          }
+        },
+        "id": "2026738322887016449",
+        "location": "初星学園",
+        "name": "熊野滨智",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040464490920284160/mx-hnEha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 48,
+          "like_count": 1617,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/mjjA1xx8Kj",
+        "username": "Cup765",
+        "verified": false
+      }
+    ]
+  }
+}

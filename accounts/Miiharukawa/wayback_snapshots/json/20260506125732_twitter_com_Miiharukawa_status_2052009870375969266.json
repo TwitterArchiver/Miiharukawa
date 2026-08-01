@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2052009692449432001",
+    "created_at": "2026-05-06T12:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052009870375969266"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052009870375969266",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052009692449432001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我寻思新手应该没那么多人……之前投别的壮士也没投上🏳️一个月了啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 440,
+        "media_key": "3_2052009686216708096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoz8AabkAAl7M9.jpg",
+        "width": 891
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2052009692449432001",
+        "created_at": "2026-05-06T12:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052009870375969266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052009870375969266",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052009692449432001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我寻思新手应该没那么多人……之前投别的壮士也没投上🏳️一个月了啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052009686216708096"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2052009692449432001",
+        "created_at": "2026-05-06T12:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052009692449432001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MblL4qdcKt",
+              "end": 65,
+              "expanded_url": "https://x.com/Miiharukawa/status/2052009692449432001/photo/1",
+              "media_key": "3_2052009686216708096",
+              "start": 42,
+              "url": "https://t.co/MblL4qdcKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052009692449432001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气哭了。这是我投的第八个新手壮士。我他妈投不上妆啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 https://t.co/MblL4qdcKt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 214,
+          "like_count": 6865,
+          "listed_count": 3,
+          "media_count": 268,
+          "tweet_count": 2669
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

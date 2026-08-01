@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2033891538045178318",
+    "created_at": "2026-03-17T17:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T18:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033952820676989307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1981724403823263744",
+          "start": 0,
+          "username": "kpltxt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033952820676989307",
+    "in_reply_to_user_id": "1981724403823263744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033949411688972628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kpltxt 并非好吃（？）特别辣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2033891538045178318",
+        "created_at": "2026-03-17T17:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T18:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033952820676989307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1981724403823263744",
+              "start": 0,
+              "username": "kpltxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033952820676989307",
+        "in_reply_to_user_id": "1981724403823263744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033949411688972628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kpltxt 并非好吃（？）特别辣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981724403823263744",
+        "conversation_id": "2033891538045178318",
+        "created_at": "2026-03-17T16:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T17:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033949411688972628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033949411688972628",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033891538045178318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 缺牙齿到底有多好吃，感觉好多人吃这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 130,
+          "like_count": 2586,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T14:08:35.000Z",
+        "description": "",
+        "id": "1981724403823263744",
+        "name": "无感",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981724507992956928/_i72pgDp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 24
+        },
+        "username": "kpltxt",
+        "verified": false
+      }
+    ]
+  }
+}

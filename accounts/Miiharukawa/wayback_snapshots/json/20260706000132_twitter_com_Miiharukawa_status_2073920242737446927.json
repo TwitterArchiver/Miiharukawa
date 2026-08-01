@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2073920242737446927",
+    "created_at": "2026-07-06T00:01:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T01:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073920242737446927"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073920242737446927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最烦有人去抖音截图个带刘海的妹子发给我说跟我长得一模一样😹\n这是什么新型搭讪方式吗，完事了还要踩一捧一说 我就知道不是你，她没你好看。\n听完这句话我就删好友了。低情商人类。一方面这人根本不记得我长啥样，另一方面我和那个妹子都没被尊重。如果有人听见这种夸奖会开心那这人也是贱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2073920242737446927",
+        "created_at": "2026-07-06T00:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073920242737446927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073920242737446927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最烦有人去抖音截图个带刘海的妹子发给我说跟我长得一模一样😹\n这是什么新型搭讪方式吗，完事了还要踩一捧一说 我就知道不是你，她没你好看。\n听完这句话我就删好友了。低情商人类。一方面这人根本不记得我长啥样，另一方面我和那个妹子都没被尊重。如果有人听见这种夸奖会开心那这人也是贱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 248,
+          "like_count": 10166,
+          "listed_count": 10,
+          "media_count": 456,
+          "tweet_count": 3880
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

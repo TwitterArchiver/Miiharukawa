@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2069806229548065110",
+    "created_at": "2026-06-25T04:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070002180552323444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1666072064481173506",
+          "start": 0,
+          "username": "shiyiyi22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070002180552323444",
+    "in_reply_to_user_id": "1666072064481173506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069806229548065110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiyiyi22 小公主喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069806226079404032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlty9ta0AADHSg.jpg",
+        "width": 1596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2069806229548065110",
+        "created_at": "2026-06-25T04:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070002180552323444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1666072064481173506",
+              "start": 0,
+              "username": "shiyiyi22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070002180552323444",
+        "in_reply_to_user_id": "1666072064481173506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069806229548065110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiyiyi22 小公主喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069806226079404032"
+          ]
+        },
+        "author_id": "1666072064481173506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069806229548065110",
+        "created_at": "2026-06-24T15:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069806229548065110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zpUzKxYjH",
+              "end": 33,
+              "expanded_url": "https://x.com/shiyiyi22/status/2069806229548065110/photo/1",
+              "media_key": "3_2069806226079404032",
+              "start": 10,
+              "url": "https://t.co/9zpUzKxYjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069806229548065110",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(｡ì _ í｡) https://t.co/9zpUzKxYjH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一遥 遥一遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1992,
+          "following_count": 243,
+          "like_count": 9810,
+          "listed_count": 6,
+          "media_count": 443,
+          "tweet_count": 3733
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T13:18:49.000Z",
+        "description": "这里是小语/未成年女高/泛性恋/把推当朋友圈发 /170+的萌妹 体重为良子/随机掉落精修自拍ing/欢迎找我终末地扩列呀/别看了快来找我玩！",
+        "id": "1666072064481173506",
+        "location": "哥伦比亚",
+        "name": "迟迟不语",
+        "pinned_tweet_id": "2065102357948711320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066022678679728128/ZTfe4NX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 201,
+          "like_count": 3551,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 4557
+        },
+        "url": "",
+        "username": "shiyiyi22",
+        "verified": false
+      }
+    ]
+  }
+}

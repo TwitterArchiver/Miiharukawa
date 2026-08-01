@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2049445077181939713"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2049445089676870124",
+    "created_at": "2026-04-29T11:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049445089676870124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gCydx7mfrG",
+          "end": 23,
+          "expanded_url": "https://x.com/Miiharukawa/status/2049445089676870124/photo/1",
+          "media_key": "16_2049445077181939713",
+          "start": 0,
+          "url": "https://t.co/gCydx7mfrG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049445089676870124",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/gCydx7mfrG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 60,
+        "media_key": "16_2049445077181939713",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHEXcHQaQAEFTDH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHEXcHQaQAEFTDH.mp4"
+          }
+        ],
+        "width": 60
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2049445077181939713"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2049445089676870124",
+        "created_at": "2026-04-29T11:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049445089676870124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCydx7mfrG",
+              "end": 23,
+              "expanded_url": "https://x.com/Miiharukawa/status/2049445089676870124/photo/1",
+              "media_key": "16_2049445077181939713",
+              "start": 0,
+              "url": "https://t.co/gCydx7mfrG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049445089676870124",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gCydx7mfrG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 199,
+          "like_count": 6130,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 2324
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2068907082917802137",
+    "created_at": "2026-06-22T04:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068918854131327009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1834625166774829056",
+          "start": 0,
+          "username": "Sertraline824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068918854131327009",
+    "in_reply_to_user_id": "1834625166774829056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068907082917802137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sertraline824 你越来越美丽了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068907079973359616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLY8BxcaUAAugCz.jpg",
+        "width": 1644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2068907082917802137",
+        "created_at": "2026-06-22T04:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068918854131327009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834625166774829056",
+              "start": 0,
+              "username": "Sertraline824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068918854131327009",
+        "in_reply_to_user_id": "1834625166774829056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068907082917802137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sertraline824 你越来越美丽了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068907079973359616"
+          ]
+        },
+        "author_id": "1834625166774829056",
+        "conversation_id": "2068907082917802137",
+        "created_at": "2026-06-22T04:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068907082917802137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ppAOcTqTL",
+              "end": 48,
+              "expanded_url": "https://x.com/Sertraline824/status/2068907082917802137/photo/1",
+              "media_key": "3_2068907079973359616",
+              "start": 25,
+              "url": "https://t.co/2ppAOcTqTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068907082917802137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐你脚上的美甲好好看，可以给我发一下细节图吗？ https://t.co/2ppAOcTqTL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 241,
+          "like_count": 9522,
+          "listed_count": 6,
+          "media_count": 419,
+          "tweet_count": 3630
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T16:09:08.000Z",
+        "description": "主页含有少量牛子请谨慎观看/请和我聊天/绝望的家教老师/长期活跃在别人动态下/请和我打Apex、OW、星露谷、群星/性取向直/不定期情绪崩溃会发很多莫名其妙的话请谨慎关注/1i/可能是brat也许是sw/我可能是个恋足癖/88🚪互关除外（穷了  :(  //如果有愿意打赏的朋友请看@Alex_downtown",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Alex_downtown"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sertraline816/…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sertraline816/yourcrush",
+                "start": 0,
+                "url": "https://t.co/P5CcVkUxvm"
+              }
+            ]
+          }
+        },
+        "id": "1834625166774829056",
+        "name": "Sertraline（无法回复无法看私信版）",
+        "pinned_tweet_id": "2004973899059245287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004371399184424960/SnRop93a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4416,
+          "following_count": 462,
+          "like_count": 19805,
+          "listed_count": 11,
+          "media_count": 1264,
+          "tweet_count": 9612
+        },
+        "url": "https://t.co/P5CcVkUxvm",
+        "username": "Sertraline824",
+        "verified": false
+      }
+    ]
+  }
+}

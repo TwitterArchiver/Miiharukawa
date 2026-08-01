@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2064743824140710135",
+    "created_at": "2026-06-12T02:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T03:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065254570264261109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1957852552286060544",
+          "start": 0,
+          "username": "qi_si72468"
+        },
+        {
+          "end": 28,
+          "id": "1959892946926649344",
+          "start": 12,
+          "username": "Kiss_Yu_Forever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065254570264261109",
+    "in_reply_to_user_id": "1957852552286060544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064925318956085402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_si72468 @Kiss_Yu_Forever 幺幺哒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2064743824140710135",
+        "created_at": "2026-06-12T02:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065254570264261109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1957852552286060544",
+              "start": 0,
+              "username": "qi_si72468"
+            },
+            {
+              "end": 28,
+              "id": "1959892946926649344",
+              "start": 12,
+              "username": "Kiss_Yu_Forever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065254570264261109",
+        "in_reply_to_user_id": "1957852552286060544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064925318956085402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_si72468 @Kiss_Yu_Forever 幺幺哒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957852552286060544",
+        "conversation_id": "2064743824140710135",
+        "created_at": "2026-06-11T04:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064925318956085402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1959892946926649344",
+              "start": 0,
+              "username": "Kiss_Yu_Forever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064925318956085402",
+        "in_reply_to_user_id": "1959892946926649344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064884016655003689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiss_Yu_Forever 幺幺哒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064850357260529664/YOWYGjIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 234,
+          "like_count": 9194,
+          "listed_count": 6,
+          "media_count": 398,
+          "tweet_count": 3505
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T17:10:51.000Z",
+        "description": "不为人知的少女日记本丨碎碎念丨08丨世界上最帅最萌之推丨欢迎投喂助力鱿鱿小吱的成长",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukomo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yukomo",
+                "start": 0,
+                "url": "https://t.co/k0398NYtHU"
+              }
+            ]
+          }
+        },
+        "id": "1957852552286060544",
+        "location": "这里幸运女高碎碎念bot",
+        "name": "yukomo",
+        "pinned_tweet_id": "2048705021244817843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051961285441695744/gQKCSmHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 108,
+          "like_count": 9239,
+          "listed_count": 0,
+          "media_count": 435,
+          "tweet_count": 3176
+        },
+        "url": "https://t.co/k0398NYtHU",
+        "username": "qi_si72468",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:17:58.000Z",
+        "description": "幸福请降临小妤手心",
+        "id": "1959892946926649344",
+        "location": "我的床",
+        "name": "春刻雨🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025647411516063744/3qa8UBjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 421,
+          "like_count": 3459,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1569
+        },
+        "username": "Kiss_Yu_Forever",
+        "verified": false
+      }
+    ]
+  }
+}

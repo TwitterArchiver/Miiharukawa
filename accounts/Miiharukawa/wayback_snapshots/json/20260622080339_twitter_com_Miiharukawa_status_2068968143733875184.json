@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068968134313435136"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2068968143733875184",
+    "created_at": "2026-06-22T08:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068968143733875184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/71ApMS7tX3",
+          "end": 23,
+          "expanded_url": "https://x.com/Miiharukawa/status/2068968143733875184/photo/1",
+          "media_key": "3_2068968134313435136",
+          "start": 0,
+          "url": "https://t.co/71ApMS7tX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068968143733875184",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/71ApMS7tX3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2068968134313435136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZzjmla4AAS3I6.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068968134313435136"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2068968143733875184",
+        "created_at": "2026-06-22T08:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068968143733875184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/71ApMS7tX3",
+              "end": 23,
+              "expanded_url": "https://x.com/Miiharukawa/status/2068968143733875184/photo/1",
+              "media_key": "3_2068968134313435136",
+              "start": 0,
+              "url": "https://t.co/71ApMS7tX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068968143733875184",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/71ApMS7tX3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 241,
+          "like_count": 9549,
+          "listed_count": 6,
+          "media_count": 423,
+          "tweet_count": 3639
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

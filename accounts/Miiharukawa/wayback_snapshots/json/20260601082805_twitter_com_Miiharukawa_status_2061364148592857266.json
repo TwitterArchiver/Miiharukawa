@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2061344181839425581",
+    "created_at": "2026-06-01T08:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T09:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061364148592857266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1653712846943821824",
+          "start": 0,
+          "username": "Hkhcrownlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061364148592857266",
+    "in_reply_to_user_id": "1653712846943821824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061344181839425581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hkhcrownlove 这个指甲好好看诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4133,
+        "height": 1280,
+        "media_key": "7_2061344164391088128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2061344164391088128/pu/img/WoAa2fObAeT761js.jpg",
+        "public_metrics": {
+          "view_count": 34
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061344164391088128/pu/vid/avc1/320x568/BdaY5_UgWUcjg3FF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061344164391088128/pu/vid/avc1/480x852/zC9LnPRd2uxuBu7s.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061344164391088128/pu/vid/avc1/720x1280/ReSRZK17w8uq8hDt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2061344164391088128/pu/pl/xPlPEPGLnEigPDiw.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2061344181839425581",
+        "created_at": "2026-06-01T08:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061364148592857266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1653712846943821824",
+              "start": 0,
+              "username": "Hkhcrownlove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061364148592857266",
+        "in_reply_to_user_id": "1653712846943821824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061344181839425581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hkhcrownlove 这个指甲好好看诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2061344164391088128"
+          ]
+        },
+        "author_id": "1653712846943821824",
+        "conversation_id": "2061344181839425581",
+        "created_at": "2026-06-01T07:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061344181839425581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xQGjvhNAJo",
+              "end": 32,
+              "expanded_url": "https://x.com/Hkhcrownlove/status/2061344181839425581/video/1",
+              "media_key": "7_2061344164391088128",
+              "start": 9,
+              "url": "https://t.co/xQGjvhNAJo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061344181839425581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“儿童节快乐🥰” https://t.co/xQGjvhNAJo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 233,
+          "like_count": 8630,
+          "listed_count": 6,
+          "media_count": 352,
+          "tweet_count": 3265
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T10:47:38.000Z",
+        "description": "候鸟不等风，独行自有星海相逢🦋\n                                      喜欢舞蹈 跑步\n亲爱的 希望你永远有爱人的能力 \n       陌生人，你今天也好棒，抱抱好不好🦋",
+        "id": "1653712846943821824",
+        "name": "南亭晚",
+        "pinned_tweet_id": "1982683272632258725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059555306129227776/GBrwekjY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 83,
+          "like_count": 1377,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 7081
+        },
+        "username": "Hkhcrownlove",
+        "verified": false
+      }
+    ]
+  }
+}

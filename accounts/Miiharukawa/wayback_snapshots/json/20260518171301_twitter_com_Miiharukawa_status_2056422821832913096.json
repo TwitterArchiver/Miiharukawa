@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2056302235970408592",
+    "created_at": "2026-05-18T17:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T18:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056422821832913096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025870004793856000",
+          "start": 0,
+          "username": "Loop_yy0130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056422821832913096",
+    "in_reply_to_user_id": "2025870004793856000",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056421126243512743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loop_yy0130 👅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2056302235970408592",
+        "created_at": "2026-05-18T17:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056422821832913096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025870004793856000",
+              "start": 0,
+              "username": "Loop_yy0130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056422821832913096",
+        "in_reply_to_user_id": "2025870004793856000",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056421126243512743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loop_yy0130 👅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025870004793856000",
+        "conversation_id": "2056302235970408592",
+        "created_at": "2026-05-18T17:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056421126243512743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056421126243512743",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056302235970408592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 👅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 219,
+          "like_count": 7670,
+          "listed_count": 6,
+          "media_count": 313,
+          "tweet_count": 2975
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T09:47:16.000Z",
+        "description": "一个爱发牢骚de小乐乐😂...\n全世界倒数第一绷得住的女孩。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/loop_yy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/loop_yy",
+                "start": 0,
+                "url": "https://t.co/ZuRTIwzvS4"
+              }
+            ]
+          }
+        },
+        "id": "2025870004793856000",
+        "location": "地狱",
+        "name": "Loooooopyyy_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030655565115060224/Mo2nj2pP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 66,
+          "like_count": 1693,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1266
+        },
+        "url": "https://t.co/ZuRTIwzvS4",
+        "username": "Loop_yy0130",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2056197850720293018",
+    "created_at": "2026-05-18T02:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T03:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056199731651682389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1834625166774829056",
+          "start": 0,
+          "username": "Sertraline824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056199731651682389",
+    "in_reply_to_user_id": "1834625166774829056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056197850720293018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sertraline824 该死的1i男又穿女仆装4i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 173,
+        "media_key": "3_2056197848296009728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkVDH-bMAAANBu.png",
+        "width": 723
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2056197850720293018",
+        "created_at": "2026-05-18T02:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056199731651682389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834625166774829056",
+              "start": 0,
+              "username": "Sertraline824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056199731651682389",
+        "in_reply_to_user_id": "1834625166774829056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056197850720293018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sertraline824 该死的1i男又穿女仆装4i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056197848296009728"
+          ]
+        },
+        "author_id": "1834625166774829056",
+        "conversation_id": "2056197850720293018",
+        "created_at": "2026-05-18T02:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056197850720293018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GgCjIwECXH",
+              "end": 160,
+              "expanded_url": "https://x.com/Sertraline824/status/2056197850720293018/photo/1",
+              "media_key": "3_2056197848296009728",
+              "start": 137,
+              "url": "https://t.co/GgCjIwECXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056197850720293018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "首先这是和朋友之间的玩笑话，并非真正的锐评\n其次我得好好想想这个问题...我本质不是4，我只是觉得这么穿很有意思（而且可能有人会喜欢看）所以就这么穿拍了点照片...但是会不会有疑似“装4i来博取流量”的嫌疑?如果真有人这么认为的话我希望还是先声明一下，我没有4的倾向... https://t.co/GgCjIwECXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 217,
+          "like_count": 7603,
+          "listed_count": 6,
+          "media_count": 309,
+          "tweet_count": 2948
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T16:09:08.000Z",
+        "description": "主页含有少量牛子请谨慎观看/请和我聊天/绝望的家教老师/长期活跃在别人动态下/请和我打Apex、OW、星露谷、群星/性取向直/不定期情绪崩溃会发很多莫名其妙的话请谨慎关注/1i/可能是brat也许是sw/我可能是个恋足癖/88🚪互关除外（穷了  :(  //如果有愿意打赏的朋友请看@Alex_downtown",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Alex_downtown"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sertraline816/…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sertraline816/yourcrush",
+                "start": 0,
+                "url": "https://t.co/P5CcVkUxvm"
+              }
+            ]
+          }
+        },
+        "id": "1834625166774829056",
+        "name": "Sertraline",
+        "pinned_tweet_id": "2004973899059245287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004371399184424960/SnRop93a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4462,
+          "following_count": 460,
+          "like_count": 17987,
+          "listed_count": 11,
+          "media_count": 1162,
+          "tweet_count": 9072
+        },
+        "url": "https://t.co/P5CcVkUxvm",
+        "username": "Sertraline824",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2044269763652923392"
+      ],
+      "media_source_tweet_id": [
+        "2044269791943504168"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2044380701739680214",
+    "created_at": "2026-04-15T11:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T12:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044380701739680214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1256225414520934400",
+          "start": 3,
+          "username": "rasabersalahhh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9r2ZZ3YxIh",
+          "end": 74,
+          "expanded_url": "https://x.com/rasabersalahhh/status/2044269791943504168/video/1",
+          "media_key": "7_2044269763652923392",
+          "start": 51,
+          "url": "https://t.co/9r2ZZ3YxIh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044380701739680214",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2236
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044269791943504168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rasabersalahhh: kicau kicau mania on repeat 🫵😭 https://t.co/9r2ZZ3YxIh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30326,
+        "height": 576,
+        "media_key": "7_2044269763652923392",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044269763652923392/pu/img/DNHO-0N2jMLnIKdt.jpg",
+        "public_metrics": {
+          "view_count": 22945
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044269763652923392/pu/vid/avc1/282x270/dCW83fE7CKHSdHDF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044269763652923392/pu/vid/avc1/376x360/e2qtt_MZsO12OsFK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044269763652923392/pu/vid/avc1/604x576/Rk8tbMupUabxSrki.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044269763652923392/pu/pl/o9kSPj7pWv2-pUcs.m3u8"
+          }
+        ],
+        "width": 604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044269763652923392"
+          ],
+          "media_source_tweet_id": [
+            "2044269791943504168"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2044380701739680214",
+        "created_at": "2026-04-15T11:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044380701739680214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1256225414520934400",
+              "start": 3,
+              "username": "rasabersalahhh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9r2ZZ3YxIh",
+              "end": 74,
+              "expanded_url": "https://x.com/rasabersalahhh/status/2044269791943504168/video/1",
+              "media_key": "7_2044269763652923392",
+              "start": 51,
+              "url": "https://t.co/9r2ZZ3YxIh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044380701739680214",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2236
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044269791943504168",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rasabersalahhh: kicau kicau mania on repeat 🫵😭 https://t.co/9r2ZZ3YxIh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044269763652923392"
+          ]
+        },
+        "author_id": "1256225414520934400",
+        "conversation_id": "2044269791943504168",
+        "created_at": "2026-04-15T04:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044269791943504168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9r2ZZ3YxIh",
+              "end": 54,
+              "expanded_url": "https://x.com/rasabersalahhh/status/2044269791943504168/video/1",
+              "media_key": "7_2044269763652923392",
+              "start": 31,
+              "url": "https://t.co/9r2ZZ3YxIh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044269791943504168",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 306,
+          "impression_count": 64516,
+          "like_count": 5274,
+          "quote_count": 194,
+          "reply_count": 125,
+          "retweet_count": 2236
+        },
+        "reply_settings": "everyone",
+        "text": "kicau kicau mania on repeat 🫵😭 https://t.co/9r2ZZ3YxIh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 174,
+          "like_count": 4981,
+          "listed_count": 4,
+          "media_count": 196,
+          "tweet_count": 1715
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-01T14:14:31.000Z",
+        "description": "",
+        "id": "1256225414520934400",
+        "name": "bilek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043264287255498752/TXpV09_w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5936,
+          "following_count": 5475,
+          "like_count": 63765,
+          "listed_count": 7,
+          "media_count": 356,
+          "tweet_count": 47967
+        },
+        "username": "rasabersalahhh",
+        "verified": true
+      }
+    ]
+  }
+}

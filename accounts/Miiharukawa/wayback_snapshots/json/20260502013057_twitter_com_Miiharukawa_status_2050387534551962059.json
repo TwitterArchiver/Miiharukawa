@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2050387534551962059",
+    "created_at": "2026-05-02T01:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T02:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050387534551962059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936734981755404288",
+          "start": 3,
+          "username": "xxxx147495"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050387534551962059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043591457316171879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxxx147495: 所以大家不要再焦虑自己的外貌和身材了 不过你多美好 总有阴暗b盯着你的一点点缺陷无限放大然后迫不及待昭告天下：大家快来看  你们都喜欢的这个人缺点这么明显 我就不喜欢她我真是遗世而独立 清醒又美丽。拜托 没人是完美的 大家包容接受了彼此的缺点 这…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2050387534551962059",
+        "created_at": "2026-05-02T01:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T02:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050387534551962059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936734981755404288",
+              "start": 3,
+              "username": "xxxx147495"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050387534551962059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043591457316171879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxxx147495: 所以大家不要再焦虑自己的外貌和身材了 不过你多美好 总有阴暗b盯着你的一点点缺陷无限放大然后迫不及待昭告天下：大家快来看  你们都喜欢的这个人缺点这么明显 我就不喜欢她我真是遗世而独立 清醒又美丽。拜托 没人是完美的 大家包容接受了彼此的缺点 这…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936734981755404288",
+        "conversation_id": "2043591457316171879",
+        "created_at": "2026-04-13T07:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043591457316171879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043591457316171879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 93615,
+          "like_count": 389,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "所以大家不要再焦虑自己的外貌和身材了 不过你多美好 总有阴暗b盯着你的一点点缺陷无限放大然后迫不及待昭告天下：大家快来看  你们都喜欢的这个人缺点这么明显 我就不喜欢她我真是遗世而独立 清醒又美丽。拜托 没人是完美的 大家包容接受了彼此的缺点 这个世界才如此和谐美丽…由此可见破坏者是多不堪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "Infp 重度百合豚 专发碎碎念\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 212,
+          "like_count": 6430,
+          "listed_count": 5,
+          "media_count": 252,
+          "tweet_count": 2454
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T10:36:28.000Z",
+        "description": "苹果只做苹果事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "velcel.yycloud.tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://velcel.yycloud.tz86.vip/#/register?code=mayNMj4k",
+                "start": 0,
+                "url": "https://t.co/UcDXqTL174"
+              }
+            ]
+          }
+        },
+        "id": "1936734981755404288",
+        "location": "29元包年千G流量vpn👉",
+        "name": "林檎",
+        "pinned_tweet_id": "2043591457316171879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030888005209407488/Swz_X1Rs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30939,
+          "following_count": 118,
+          "like_count": 1291,
+          "listed_count": 42,
+          "media_count": 151,
+          "tweet_count": 1597
+        },
+        "url": "https://t.co/UcDXqTL174",
+        "username": "xxxx147495",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2048771016739164410",
+    "created_at": "2026-04-27T15:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T16:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048782163802570815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1319943356563156993",
+          "start": 0,
+          "username": "marrow2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048782163802570815",
+    "in_reply_to_user_id": "1319943356563156993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048780592729502145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marrow2g 根本不跳对话框！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2048780592729502145].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2048780592729502145",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2048780592729502145"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2048771016739164410",
+        "created_at": "2026-04-27T15:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048782163802570815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1319943356563156993",
+              "start": 0,
+              "username": "marrow2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048782163802570815",
+        "in_reply_to_user_id": "1319943356563156993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048780592729502145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marrow2g 根本不跳对话框！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 192,
+          "like_count": 5961,
+          "listed_count": 6,
+          "media_count": 239,
+          "tweet_count": 2227
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-24T10:06:44.000Z",
+        "description": "她欢快的活力溢出房间四壁，像生机盎然的和风吹过秋海棠长廊。",
+        "id": "1319943356563156993",
+        "name": "TT",
+        "pinned_tweet_id": "2046639055836700761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036847078979379200/jDMypv6E_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 14,
+          "like_count": 4662,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 754
+        },
+        "username": "marrow2g",
+        "verified": false
+      }
+    ]
+  }
+}

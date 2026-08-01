@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2029745989062643945",
+    "created_at": "2026-03-06T02:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T03:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029745989062643945"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029745989062643945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉看身边朋友谈论他们的做爱经历好奇怪……什么意思你们不是我的朋友吗怎么就上床了😱\n其实我根本没长大，我的思想观念还停滞在高中时代。保守且不可思议。想到同龄人有爱做我就😱\n高中的时候听到同学接吻都会有点波澜\n为什么高中一毕业做爱结婚就变得合情合理了呢 好奇怪哦。过渡好快。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2029745989062643945",
+        "created_at": "2026-03-06T02:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T03:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029745989062643945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029745989062643945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉看身边朋友谈论他们的做爱经历好奇怪……什么意思你们不是我的朋友吗怎么就上床了😱\n其实我根本没长大，我的思想观念还停滞在高中时代。保守且不可思议。想到同龄人有爱做我就😱\n高中的时候听到同学接吻都会有点波澜\n为什么高中一毕业做爱结婚就变得合情合理了呢 好奇怪哦。过渡好快。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2028818677131559381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 44,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 76
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

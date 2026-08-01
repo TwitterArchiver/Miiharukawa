@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2061760893416087878",
+    "created_at": "2026-06-03T04:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062029193458929820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "898724282636816386",
+          "start": 0,
+          "username": "Ciqi_ya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062029193458929820",
+    "in_reply_to_user_id": "898724282636816386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062028637688435091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ciqi_ya 戴了也会碎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2061760893416087878",
+        "created_at": "2026-06-03T04:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062029193458929820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "898724282636816386",
+              "start": 0,
+              "username": "Ciqi_ya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062029193458929820",
+        "in_reply_to_user_id": "898724282636816386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062028637688435091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ciqi_ya 戴了也会碎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "898724282636816386",
+        "conversation_id": "2061760893416087878",
+        "created_at": "2026-06-03T04:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062028637688435091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062028637688435091",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061978000313475443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 嗯嗯！主要是怕牙齿碎了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 234,
+          "like_count": 8843,
+          "listed_count": 6,
+          "media_count": 358,
+          "tweet_count": 3339
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-19T01:52:21.000Z",
+        "description": "@lo4me4ever重生版",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "lo4me4ever"
+              }
+            ]
+          }
+        },
+        "id": "898724282636816386",
+        "location": "0m",
+        "name": "Dog_gie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054236775812583424/8RHcHq_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 33,
+          "like_count": 2153,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 275
+        },
+        "username": "Ciqi_ya",
+        "verified": false
+      }
+    ]
+  }
+}

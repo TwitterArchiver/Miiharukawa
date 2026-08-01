@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041835018679676930"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2041835025608667417",
+    "created_at": "2026-04-08T11:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T12:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041835025608667417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JbyiPd8rwE",
+          "end": 164,
+          "expanded_url": "https://x.com/Miiharukawa/status/2041835025608667417/photo/1",
+          "media_key": "3_2041835018679676930",
+          "start": 141,
+          "url": "https://t.co/JbyiPd8rwE"
+        },
+        {
+          "display_url": "x.com/sisisis491989/…",
+          "end": 188,
+          "expanded_url": "https://twitter.com/sisisis491989/status/2041824756991939062",
+          "start": 165,
+          "url": "https://t.co/bdIFrB7mcI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041835025608667417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041824756991939062",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯嗯我知道你，你小时候因为自卑所以只能去揪小女孩辫子找存在感，妈妈只会骂你，遇到的女生都对你避之不及，你的胆小导致你只能自卑地打开手机上网辱骂女生以此获得卑劣的快感，给人一种买廉价充气娃娃润滑半天扎不进去急眼了在房间里狂顶结果气球爆炸炸到蛋的感觉。怪不得会对这个世界有这么多怨言。 https://t.co/JbyiPd8rwE https://t.co/bdIFrB7mcI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1756,
+        "media_key": "3_2041835018679676930",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYOIaJa8AIceGq.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041835018679676930"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2041835025608667417",
+        "created_at": "2026-04-08T11:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041835025608667417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbyiPd8rwE",
+              "end": 164,
+              "expanded_url": "https://x.com/Miiharukawa/status/2041835025608667417/photo/1",
+              "media_key": "3_2041835018679676930",
+              "start": 141,
+              "url": "https://t.co/JbyiPd8rwE"
+            },
+            {
+              "display_url": "x.com/sisisis491989/…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/sisisis491989/status/2041824756991939062",
+              "start": 165,
+              "url": "https://t.co/bdIFrB7mcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041835025608667417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041824756991939062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯嗯我知道你，你小时候因为自卑所以只能去揪小女孩辫子找存在感，妈妈只会骂你，遇到的女生都对你避之不及，你的胆小导致你只能自卑地打开手机上网辱骂女生以此获得卑劣的快感，给人一种买廉价充气娃娃润滑半天扎不进去急眼了在房间里狂顶结果气球爆炸炸到蛋的感觉。怪不得会对这个世界有这么多怨言。 https://t.co/JbyiPd8rwE https://t.co/bdIFrB7mcI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028797010695032832",
+        "conversation_id": "2041722337385705555",
+        "created_at": "2026-04-08T10:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041824756991939062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1804213612619403271",
+              "start": 0,
+              "username": "Yenian001"
+            },
+            {
+              "end": 23,
+              "id": "2028814965965312001",
+              "start": 11,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041824756991939062",
+        "in_reply_to_user_id": "1804213612619403271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041739512947339705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yenian001 @Miiharukawa 你个臭婊子你还搁这儿发上了，你还想要处男，顶多给你一个30岁艾滋大叔给你玩玩得了😹😹😹😹，卖逼你就卖逼，还搁那推特装上纯洁，装上深情了 你装你妈的七彩螺旋大逼呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 172,
+          "like_count": 4644,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 1529
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T11:38:02.000Z",
+        "description": "",
+        "id": "2028797010695032832",
+        "name": "sisisis",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 36,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 74
+        },
+        "username": "sisisis491989",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062423258109276160"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2062423266816676209",
+    "created_at": "2026-06-04T06:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062423266816676209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q9jtW4mjUF",
+          "end": 38,
+          "expanded_url": "https://x.com/Miiharukawa/status/2062423266816676209/photo/1",
+          "media_key": "3_2062423258109276160",
+          "start": 15,
+          "url": "https://t.co/q9jtW4mjUF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062423266816676209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "薄脆金沙翅是非常美味的吼吼吼 https://t.co/q9jtW4mjUF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062423258109276160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8zBqwbcAA6cuc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062423258109276160"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2062423266816676209",
+        "created_at": "2026-06-04T06:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062423266816676209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9jtW4mjUF",
+              "end": 38,
+              "expanded_url": "https://x.com/Miiharukawa/status/2062423266816676209/photo/1",
+              "media_key": "3_2062423258109276160",
+              "start": 15,
+              "url": "https://t.co/q9jtW4mjUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062423266816676209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "薄脆金沙翅是非常美味的吼吼吼 https://t.co/q9jtW4mjUF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 233,
+          "like_count": 8926,
+          "listed_count": 6,
+          "media_count": 367,
+          "tweet_count": 3381
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

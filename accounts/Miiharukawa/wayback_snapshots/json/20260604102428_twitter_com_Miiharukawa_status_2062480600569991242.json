@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2062463929801203778",
+    "created_at": "2026-06-04T10:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062480600569991242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1319943356563156993",
+          "start": 0,
+          "username": "marrow2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062480600569991242",
+    "in_reply_to_user_id": "1319943356563156993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062463929801203778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marrow2g 在线招m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2062463929801203778",
+        "created_at": "2026-06-04T10:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062480600569991242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1319943356563156993",
+              "start": 0,
+              "username": "marrow2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062480600569991242",
+        "in_reply_to_user_id": "1319943356563156993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062463929801203778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marrow2g 在线招m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319943356563156993",
+        "conversation_id": "2062463929801203778",
+        "created_at": "2026-06-04T09:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062463929801203778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062463929801203778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像真的关注我的人多是 m，有时候真想把你们这群 m 都打一顿，又怕你们爽了。\n（只是这么说说，没有要 m 的意思）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 233,
+          "like_count": 8938,
+          "listed_count": 6,
+          "media_count": 368,
+          "tweet_count": 3384
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-24T10:06:44.000Z",
+        "description": "她欢快的活力溢出房间四壁，像生机盎然的和风吹过秋海棠长廊。",
+        "id": "1319943356563156993",
+        "name": "TT",
+        "pinned_tweet_id": "2058445622739656893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036847078979379200/jDMypv6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 20,
+          "like_count": 5562,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 864
+        },
+        "username": "marrow2g",
+        "verified": false
+      }
+    ]
+  }
+}

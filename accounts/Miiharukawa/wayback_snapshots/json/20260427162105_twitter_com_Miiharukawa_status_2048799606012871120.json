@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2048795834742128797",
+    "created_at": "2026-04-27T16:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048799606012871120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1952735136140943360",
+          "start": 0,
+          "username": "Jay575299341215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048799606012871120",
+    "in_reply_to_user_id": "1952735136140943360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048799087894692288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jay575299341215 我不能接受我的牙一定要做根管 做完以后还是颗死牙。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2048795834742128797",
+        "created_at": "2026-04-27T16:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048799606012871120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1952735136140943360",
+              "start": 0,
+              "username": "Jay575299341215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048799606012871120",
+        "in_reply_to_user_id": "1952735136140943360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048799087894692288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jay575299341215 我不能接受我的牙一定要做根管 做完以后还是颗死牙。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952735136140943360",
+        "conversation_id": "2048795834742128797",
+        "created_at": "2026-04-27T16:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048799087894692288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048799087894692288",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048795834742128797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 疑似被牙髓炎逼疯前的幻想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 192,
+          "like_count": 5978,
+          "listed_count": 6,
+          "media_count": 239,
+          "tweet_count": 2241
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T14:15:18.000Z",
+        "description": "11",
+        "id": "1952735136140943360",
+        "location": "11",
+        "name": "Jay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030567070447104000/QRm6ype-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 98,
+          "like_count": 1308,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 581
+        },
+        "username": "Jay575299341215",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2047576612959650301",
+    "created_at": "2026-04-25T14:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048040367719887020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946863961502298112",
+          "start": 0,
+          "username": "Chloris8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048040367719887020",
+    "in_reply_to_user_id": "1946863961502298112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048033345066660111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris8964 扫货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2047576612959650301",
+        "created_at": "2026-04-25T14:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048040367719887020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946863961502298112",
+              "start": 0,
+              "username": "Chloris8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048040367719887020",
+        "in_reply_to_user_id": "1946863961502298112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048033345066660111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris8964 扫货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946863961502298112",
+        "conversation_id": "2047576612959650301",
+        "created_at": "2026-04-25T13:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048033345066660111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            },
+            {
+              "end": 35,
+              "id": "1946863961502298112",
+              "start": 23,
+              "username": "Chloris8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048033345066660111",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047576612959650301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 她好澀 我不行了👉🏻@chloris8964"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "碎碎念bot\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 190,
+          "like_count": 5800,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 2136
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T09:25:27.000Z",
+        "description": "₊⁺ ꒰১ ♡ ໒꒱ ⁺₊",
+        "id": "1946863961502298112",
+        "location": "| ♡˚₊‧꒰ა❤︎໒꒱ ‧₊♡|",
+        "name": "🪼",
+        "pinned_tweet_id": "2047981772445810810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019343177866682368/h1VnB9vL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7467,
+          "following_count": 86,
+          "like_count": 1935,
+          "listed_count": 12,
+          "media_count": 16,
+          "tweet_count": 196
+        },
+        "username": "Chloris8964",
+        "verified": false
+      }
+    ]
+  }
+}

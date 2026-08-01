@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2051668729721942191",
+    "created_at": "2026-05-05T14:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051677284298620951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1358019615993987075",
+          "start": 0,
+          "username": "qwq_xiaoan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051677284298620951",
+    "in_reply_to_user_id": "1358019615993987075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051676375682359807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_xiaoan 我特意换的巨乳。其实我也不太想，但是提供的体子只有巨乳和平胸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2051668729721942191",
+        "created_at": "2026-05-05T14:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051677284298620951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1358019615993987075",
+              "start": 0,
+              "username": "qwq_xiaoan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051677284298620951",
+        "in_reply_to_user_id": "1358019615993987075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051676375682359807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_xiaoan 我特意换的巨乳。其实我也不太想，但是提供的体子只有巨乳和平胸。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1358019615993987075",
+        "conversation_id": "2051668729721942191",
+        "created_at": "2026-05-05T14:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051676375682359807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051676375682359807",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051668729721942191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 巨乳……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 215,
+          "like_count": 6738,
+          "listed_count": 5,
+          "media_count": 261,
+          "tweet_count": 2605
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T11:48:09.000Z",
+        "description": "堂堂复活",
+        "id": "1358019615993987075",
+        "location": "你心里",
+        "name": "喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985973418744037378/LJXvMwDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 1090,
+          "like_count": 6124,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 2905
+        },
+        "username": "qwq_xiaoan",
+        "verified": false
+      }
+    ]
+  }
+}

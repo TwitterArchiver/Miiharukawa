@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2060892495350005987",
+    "created_at": "2026-05-31T02:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T03:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060904252835537141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778600109154172928",
+          "start": 0,
+          "username": "KMS_PzEUGIN_III"
+        },
+        {
+          "end": 27,
+          "id": "2030123031490875396",
+          "start": 17,
+          "username": "Cooliyawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060904252835537141",
+    "in_reply_to_user_id": "1778600109154172928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060897689215140301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@KMS_PzEUGIN_III @Cooliyawa 操死你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2060892495350005987",
+        "created_at": "2026-05-31T02:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060904252835537141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778600109154172928",
+              "start": 0,
+              "username": "KMS_PzEUGIN_III"
+            },
+            {
+              "end": 27,
+              "id": "2030123031490875396",
+              "start": 17,
+              "username": "Cooliyawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060904252835537141",
+        "in_reply_to_user_id": "1778600109154172928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060897689215140301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@KMS_PzEUGIN_III @Cooliyawa 操死你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778600109154172928",
+        "conversation_id": "2060892495350005987",
+        "created_at": "2026-05-31T01:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060897689215140301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            },
+            {
+              "end": 23,
+              "id": "2030123031490875396",
+              "start": 13,
+              "username": "Cooliyawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060897689215140301",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我明白你的意思，很正常，因为我也是从底层一步一步杀出来的强者，自幼便是某一领域的绝世天才，但没有被人挖掘出来，最后为了复仇才在曲折的道路上兑现自己的天赋，受尽屈辱，击败无数强敌，登上山巅，而别人只能仰望我的背影，成功后却被心爱的女人背叛彻底黑化，本就所向披靡的利剑如今更是失去了唯一的剑鞘，堕入魔道，不敢想象我这样的强者以后会让世界如何恐惧，颤抖！！！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060892495350005987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Miiharukawa @Cooliyawa 我明白你的意思，很正常，因为我也是从底层一步一步杀出来的强者，自幼便是某一领域的绝世天才，但没有被人挖掘出来，最后为了复仇才在曲折的道路上兑现自己的天赋，受尽屈辱，击败无数强敌，登上山巅，而别人只能仰望我的背影，成功后却被心爱的女人背叛彻底黑化，本就所向披靡的利剑如今更是失去了唯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 233,
+          "like_count": 8525,
+          "listed_count": 6,
+          "media_count": 350,
+          "tweet_count": 3235
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T01:44:56.000Z",
+        "description": "屎踢姆账号：482729448/跑路小账@lappydaisuki/ 像垃圾袋这样实用的东西有时候也装满了风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "lappydaisuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kms_pzeugin_iii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kms_pzeugin_iii",
+                "start": 0,
+                "url": "https://t.co/NKw2JIeEm8"
+              }
+            ]
+          }
+        },
+        "id": "1778600109154172928",
+        "location": "8°45′9.49″N 167°40′59.60″E",
+        "name": "KMS-PrinzEugin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790573689211346944/mT4Zy9tR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 4115,
+          "like_count": 51578,
+          "listed_count": 6,
+          "media_count": 1100,
+          "tweet_count": 13912
+        },
+        "url": "https://t.co/NKw2JIeEm8",
+        "username": "KMS_PzEUGIN_III",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-07T03:27:15.000Z",
+        "description": "爱消失在无边的海。\n@Miiharukawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Miiharukawa"
+              }
+            ]
+          }
+        },
+        "id": "2030123031490875396",
+        "name": "愛",
+        "pinned_tweet_id": "2045065282570592611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055475750795608064/HbE1fFkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 98,
+          "like_count": 1001,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 163
+        },
+        "username": "Cooliyawa",
+        "verified": false
+      }
+    ]
+  }
+}

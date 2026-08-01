@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2034997812686200978",
+    "created_at": "2026-03-20T14:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T15:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035004242604564790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1933128613601427456",
+          "start": 0,
+          "username": "Kiridollsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035004242604564790",
+    "in_reply_to_user_id": "1933128613601427456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035002795598954500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiridollsuki 我已经有床帘了555 最好的解决办法是出去住_(:з」∠)_"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2035002791106945029",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3IQbDboAUJMY_.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2034997812686200978",
+        "created_at": "2026-03-20T14:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035004242604564790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1933128613601427456",
+              "start": 0,
+              "username": "Kiridollsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035004242604564790",
+        "in_reply_to_user_id": "1933128613601427456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035002795598954500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiridollsuki 我已经有床帘了555 最好的解决办法是出去住_(:з」∠)_"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035002791106945029"
+          ]
+        },
+        "author_id": "1933128613601427456",
+        "conversation_id": "2034997812686200978",
+        "created_at": "2026-03-20T14:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035002795598954500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQuhOVSslI",
+              "end": 52,
+              "expanded_url": "https://x.com/Kiridollsuki/status/2035002795598954500/photo/1",
+              "media_key": "3_2035002791106945029",
+              "start": 29,
+              "url": "https://t.co/EQuhOVSslI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035002795598954500",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034997812686200978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 你觉得这个怎么样咧？蚊帐+隔音 https://t.co/EQuhOVSslI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 139,
+          "like_count": 3155,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T11:46:09.000Z",
+        "description": "双相，希望能交到同病相怜的友達/暂定不线下，因为距离产生美，怕相见难免失望する/有喜欢的人，但大概率是无法在一起的方思い",
+        "id": "1933128613601427456",
+        "name": "星見シウアン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933128690227167232/GhtebO7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 102,
+          "like_count": 1569,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 738
+        },
+        "username": "Kiridollsuki",
+        "verified": false
+      }
+    ]
+  }
+}

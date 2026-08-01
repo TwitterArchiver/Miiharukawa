@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2036978305937924329",
+    "created_at": "2026-03-26T01:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T02:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036978305937924329"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036978305937924329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你不特别，你和我认识的那些死装文艺b都一样，你给我一种谄媚感，很庸俗的感觉，没读过几本书却很痛苦，你没有什么特别之处，却以为自己怀才不遇。你给我的感觉就像你记住了很多人名，张口尼采闭口卡卡萨特，没人在意你也没人想了解你，只会觉得你装。我觉得你有一层怨天尤人的气息，我懒得打破。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2036978305937924329",
+        "created_at": "2026-03-26T01:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T02:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036978305937924329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036978305937924329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你不特别，你和我认识的那些死装文艺b都一样，你给我一种谄媚感，很庸俗的感觉，没读过几本书却很痛苦，你没有什么特别之处，却以为自己怀才不遇。你给我的感觉就像你记住了很多人名，张口尼采闭口卡卡萨特，没人在意你也没人想了解你，只会觉得你装。我觉得你有一层怨天尤人的气息，我懒得打破。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 147,
+          "like_count": 3458,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 1038
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

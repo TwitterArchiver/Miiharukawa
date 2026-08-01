@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2046230295016513660",
+    "created_at": "2026-04-20T15:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046243401075712296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2041083391055945728",
+          "start": 0,
+          "username": "omzlmanbo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/czp9cxum3tmzxf…",
+          "end": 34,
+          "expanded_url": "https://x.com/czp9cxum3tmzxfo/status/2045917712329916859?s=46",
+          "start": 11,
+          "url": "https://t.co/2kwWpu3nj7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046243401075712296",
+    "in_reply_to_user_id": "2041083391055945728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045917712329916859",
+        "type": "quoted"
+      },
+      {
+        "id": "2046233650849808684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omzlmanbo https://t.co/2kwWpu3nj7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045917704885039104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSPUBda8AAcoga.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2046230295016513660",
+        "created_at": "2026-04-20T15:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046243401075712296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041083391055945728",
+              "start": 0,
+              "username": "omzlmanbo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/czp9cxum3tmzxf…",
+              "end": 34,
+              "expanded_url": "https://x.com/czp9cxum3tmzxfo/status/2045917712329916859?s=46",
+              "start": 11,
+              "url": "https://t.co/2kwWpu3nj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046243401075712296",
+        "in_reply_to_user_id": "2041083391055945728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045917712329916859",
+            "type": "quoted"
+          },
+          {
+            "id": "2046233650849808684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omzlmanbo https://t.co/2kwWpu3nj7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045917704885039104"
+          ]
+        },
+        "author_id": "1018046438419267584",
+        "conversation_id": "2045917712329916859",
+        "created_at": "2026-04-19T17:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T18:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045917712329916859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M5wYZwie0O",
+              "end": 124,
+              "expanded_url": "https://x.com/cZp9cxum3TMzXfO/status/2045917712329916859/photo/1",
+              "media_key": "3_2045917704885039104",
+              "start": 101,
+              "url": "https://t.co/M5wYZwie0O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045917712329916859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 282832,
+          "like_count": 229,
+          "quote_count": 5,
+          "reply_count": 137,
+          "retweet_count": 6
+        },
+        "reply_settings": "following",
+        "text": "锤一个🚪姐 ，高梦琦，江苏徐州人 南京某大学视觉艺术系 大二  入🚪也没内容 就尬聊  有炎症 毒鲍一个。已经被我删除拉黑了  她私底下不止跟一个玩反正 能帮一个算一个 玩个x踩的雷里算最恶心的一次了 https://t.co/M5wYZwie0O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041083391055945728",
+        "conversation_id": "2046230295016513660",
+        "created_at": "2026-04-20T14:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046233650849808684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046233650849808684",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046230295016513660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 我笑死了，在哪看？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 187,
+          "like_count": 5397,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 1889
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T09:20:34.000Z",
+        "description": "",
+        "id": "2041083391055945728",
+        "name": "季",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044088600720224259/2Jh1ALoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 52
+        },
+        "username": "omzlmanbo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-14T08:16:00.000Z",
+        "description": "老实人只客观描述事实  攻击性极强 没事不要找骂",
+        "id": "1018046438419267584",
+        "name": "bbwlover",
+        "pinned_tweet_id": "1726440416927748160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906268764183916544/r-qsXjo9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 716,
+          "like_count": 3410,
+          "listed_count": 5,
+          "media_count": 3,
+          "tweet_count": 65
+        },
+        "username": "cZp9cxum3TMzXfO",
+        "verified": false
+      }
+    ]
+  }
+}

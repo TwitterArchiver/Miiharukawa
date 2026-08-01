@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2039546471499129337",
+    "created_at": "2026-04-02T03:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T04:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039546471499129337"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039546471499129337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "距离高考还有66天！！！💪💪💪请同学们自觉放下📱，认真复习✍✍✍！！！各位家长也要起到监督作用，人生就这一次机会🙏🙏🙏🙏\n 现将下阶段具体安排告知大家：\n1、今天开始，6:00之前到校，不要迟到！\n2、今天开始中午学生留校午练自习和休息。\n3、今天开始晚自习23:00放学。\n4、每位家长交50元书本费"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2039546471499129337",
+        "created_at": "2026-04-02T03:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039546471499129337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039546471499129337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "距离高考还有66天！！！💪💪💪请同学们自觉放下📱，认真复习✍✍✍！！！各位家长也要起到监督作用，人生就这一次机会🙏🙏🙏🙏\n 现将下阶段具体安排告知大家：\n1、今天开始，6:00之前到校，不要迟到！\n2、今天开始中午学生留校午练自习和休息。\n3、今天开始晚自习23:00放学。\n4、每位家长交50元书本费"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 163,
+          "like_count": 4104,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 1300
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

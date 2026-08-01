@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903661304172449792",
+        "3_1903661304180875264",
+        "3_1903661304172498945"
+      ],
+      "media_source_tweet_id": [
+        "1903661311122362479",
+        "1903661311122362479",
+        "1903661311122362479"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2049381352265728469",
+    "created_at": "2026-04-29T06:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T07:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049381352265728469"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 76,
+          "tag": "skeb"
+        },
+        {
+          "end": 90,
+          "start": 82,
+          "tag": "skeb募集中"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1631942932734558208",
+          "start": 3,
+          "username": "susu__hu0o"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Request Box",
+          "display_url": "skeb.jp/@susu__hu0o",
+          "end": 39,
+          "expanded_url": "https://skeb.jp/@susu__hu0o",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2007242267682308098/LzZsrneU?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2007242267682308098/LzZsrneU?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "し (@susu__hu0o) | Skeb",
+          "unwound_url": "https://skeb.jp/@susu__hu0o",
+          "url": "https://t.co/YIm7PIUdOv"
+        },
+        {
+          "display_url": "pic.x.com/6YHlYLtuqH",
+          "end": 114,
+          "expanded_url": "https://x.com/susu__hu0o/status/1903661311122362479/photo/1",
+          "media_key": "3_1903661304172449792",
+          "start": 91,
+          "url": "https://t.co/6YHlYLtuqH"
+        },
+        {
+          "display_url": "pic.x.com/6YHlYLtuqH",
+          "end": 114,
+          "expanded_url": "https://x.com/susu__hu0o/status/1903661311122362479/photo/1",
+          "media_key": "3_1903661304180875264",
+          "start": 91,
+          "url": "https://t.co/6YHlYLtuqH"
+        },
+        {
+          "display_url": "pic.x.com/6YHlYLtuqH",
+          "end": 114,
+          "expanded_url": "https://x.com/susu__hu0o/status/1903661311122362479/photo/1",
+          "media_key": "3_1903661304172498945",
+          "start": 91,
+          "url": "https://t.co/6YHlYLtuqH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049381352265728469",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903661311122362479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @susu__hu0o: https://t.co/YIm7PIUdOv \n\nアンニュイな感じの女の子をよく描きます！もしご興味あれば🙇‍♀️\n\n#skeb #skeb募集中 https://t.co/6YHlYLtuqH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1812,
+        "media_key": "3_1903661304172449792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmsp3r_bEAAkXcA.jpg",
+        "width": 1183
+      },
+      {
+        "height": 746,
+        "media_key": "3_1903661304180875264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmsp3sBboAAbMf_.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1106,
+        "media_key": "3_1903661304172498945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmsp3r_b0AEnKti.jpg",
+        "width": 1696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903661304172449792",
+            "3_1903661304180875264",
+            "3_1903661304172498945"
+          ],
+          "media_source_tweet_id": [
+            "1903661311122362479",
+            "1903661311122362479",
+            "1903661311122362479"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2049381352265728469",
+        "created_at": "2026-04-29T06:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049381352265728469"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "skeb"
+            },
+            {
+              "end": 90,
+              "start": 82,
+              "tag": "skeb募集中"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1631942932734558208",
+              "start": 3,
+              "username": "susu__hu0o"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Request Box",
+              "display_url": "skeb.jp/@susu__hu0o",
+              "end": 39,
+              "expanded_url": "https://skeb.jp/@susu__hu0o",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2007242267682308098/LzZsrneU?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2007242267682308098/LzZsrneU?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "し (@susu__hu0o) | Skeb",
+              "unwound_url": "https://skeb.jp/@susu__hu0o",
+              "url": "https://t.co/YIm7PIUdOv"
+            },
+            {
+              "display_url": "pic.x.com/6YHlYLtuqH",
+              "end": 114,
+              "expanded_url": "https://x.com/susu__hu0o/status/1903661311122362479/photo/1",
+              "media_key": "3_1903661304172449792",
+              "start": 91,
+              "url": "https://t.co/6YHlYLtuqH"
+            },
+            {
+              "display_url": "pic.x.com/6YHlYLtuqH",
+              "end": 114,
+              "expanded_url": "https://x.com/susu__hu0o/status/1903661311122362479/photo/1",
+              "media_key": "3_1903661304180875264",
+              "start": 91,
+              "url": "https://t.co/6YHlYLtuqH"
+            },
+            {
+              "display_url": "pic.x.com/6YHlYLtuqH",
+              "end": 114,
+              "expanded_url": "https://x.com/susu__hu0o/status/1903661311122362479/photo/1",
+              "media_key": "3_1903661304172498945",
+              "start": 91,
+              "url": "https://t.co/6YHlYLtuqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049381352265728469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903661311122362479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @susu__hu0o: https://t.co/YIm7PIUdOv \n\nアンニュイな感じの女の子をよく描きます！もしご興味あれば🙇‍♀️\n\n#skeb #skeb募集中 https://t.co/6YHlYLtuqH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903661304172449792",
+            "3_1903661304180875264",
+            "3_1903661304172498945"
+          ]
+        },
+        "author_id": "1631942932734558208",
+        "conversation_id": "1903661311122362479",
+        "created_at": "2025-03-23T04:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T05:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903661311122362479"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "skeb"
+            },
+            {
+              "end": 74,
+              "start": 66,
+              "tag": "skeb募集中"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Request Box",
+              "display_url": "skeb.jp/@susu__hu0o",
+              "end": 23,
+              "expanded_url": "https://skeb.jp/@susu__hu0o",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2007242267682308098/LzZsrneU?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2007242267682308098/LzZsrneU?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "し (@susu__hu0o) | Skeb",
+              "unwound_url": "https://skeb.jp/@susu__hu0o",
+              "url": "https://t.co/YIm7PIUdOv"
+            },
+            {
+              "display_url": "pic.x.com/6YHlYLtuqH",
+              "end": 98,
+              "expanded_url": "https://x.com/susu__hu0o/status/1903661311122362479/photo/1",
+              "media_key": "3_1903661304172449792",
+              "start": 75,
+              "url": "https://t.co/6YHlYLtuqH"
+            },
+            {
+              "display_url": "pic.x.com/6YHlYLtuqH",
+              "end": 98,
+              "expanded_url": "https://x.com/susu__hu0o/status/1903661311122362479/photo/1",
+              "media_key": "3_1903661304180875264",
+              "start": 75,
+              "url": "https://t.co/6YHlYLtuqH"
+            },
+            {
+              "display_url": "pic.x.com/6YHlYLtuqH",
+              "end": 98,
+              "expanded_url": "https://x.com/susu__hu0o/status/1903661311122362479/photo/1",
+              "media_key": "3_1903661304172498945",
+              "start": 75,
+              "url": "https://t.co/6YHlYLtuqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903661311122362479",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 12943,
+          "like_count": 276,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YIm7PIUdOv \n\nアンニュイな感じの女の子をよく描きます！もしご興味あれば🙇‍♀️\n\n#skeb #skeb募集中 https://t.co/6YHlYLtuqH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 198,
+          "like_count": 6104,
+          "listed_count": 5,
+          "media_count": 243,
+          "tweet_count": 2312
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T09:01:39.000Z",
+        "description": "創作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@susu__hu0o",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@susu__hu0o",
+                "start": 0,
+                "url": "https://t.co/gkMTpRVdUP"
+              }
+            ]
+          }
+        },
+        "id": "1631942932734558208",
+        "location": "AI学習、無断使用禁止",
+        "name": "し",
+        "pinned_tweet_id": "1903661311122362479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647578185838792710/Qz90O2M9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3549,
+          "following_count": 50,
+          "like_count": 550,
+          "listed_count": 22,
+          "media_count": 50,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/gkMTpRVdUP",
+        "username": "susu__hu0o",
+        "verified": false
+      }
+    ]
+  }
+}

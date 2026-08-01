@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068936683165536256"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068936689796653321",
+    "created_at": "2026-06-22T05:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T06:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068936689796653321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bdY9cBXwoj",
+          "end": 41,
+          "expanded_url": "https://x.com/Miiharukawa/status/2068936689796653321/photo/1",
+          "media_key": "3_2068936683165536256",
+          "start": 18,
+          "url": "https://t.co/bdY9cBXwoj"
+        },
+        {
+          "display_url": "x.com/miiharukawa/st…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/miiharukawa/status/2068876024209908201",
+          "start": 42,
+          "url": "https://t.co/uvFWbBGBy2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068936689796653321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068876024209908201",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "OK也是被这个宝宝狠狠宠爱了好吧！ https://t.co/bdY9cBXwoj https://t.co/uvFWbBGBy2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1443,
+        "media_key": "3_2068936683165536256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZW857bUAAF8km.jpg",
+        "width": 1179
+      },
+      {
+        "height": 468,
+        "media_key": "3_2068876018002366464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYfxulbEAAOxYv.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068936683165536256"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068936689796653321",
+        "created_at": "2026-06-22T05:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068936689796653321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bdY9cBXwoj",
+              "end": 41,
+              "expanded_url": "https://x.com/Miiharukawa/status/2068936689796653321/photo/1",
+              "media_key": "3_2068936683165536256",
+              "start": 18,
+              "url": "https://t.co/bdY9cBXwoj"
+            },
+            {
+              "display_url": "x.com/miiharukawa/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/miiharukawa/status/2068876024209908201",
+              "start": 42,
+              "url": "https://t.co/uvFWbBGBy2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068936689796653321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068876024209908201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OK也是被这个宝宝狠狠宠爱了好吧！ https://t.co/bdY9cBXwoj https://t.co/uvFWbBGBy2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068876018002366464"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2068876024209908201",
+        "created_at": "2026-06-22T01:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068876024209908201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9fKLq5kdX6",
+              "end": 34,
+              "expanded_url": "https://x.com/Miiharukawa/status/2068876024209908201/photo/1",
+              "media_key": "3_2068876018002366464",
+              "start": 11,
+              "url": "https://t.co/9fKLq5kdX6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068876024209908201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 547,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每当我以为我被爱了： https://t.co/9fKLq5kdX6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 241,
+          "like_count": 9540,
+          "listed_count": 6,
+          "media_count": 420,
+          "tweet_count": 3632
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

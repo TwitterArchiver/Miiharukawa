@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2061664465469223142",
+    "created_at": "2026-06-02T10:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T11:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061760226387456294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1319943356563156993",
+          "start": 0,
+          "username": "marrow2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061760226387456294",
+    "in_reply_to_user_id": "1319943356563156993",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061757343277396030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marrow2g McDonald's"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2061664465469223142",
+        "created_at": "2026-06-02T10:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061760226387456294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1319943356563156993",
+              "start": 0,
+              "username": "marrow2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061760226387456294",
+        "in_reply_to_user_id": "1319943356563156993",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061757343277396030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marrow2g McDonald's"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319943356563156993",
+        "conversation_id": "2061664465469223142",
+        "created_at": "2026-06-02T10:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061757343277396030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061757343277396030",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061751865264709984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 你是什么 m."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 234,
+          "like_count": 8795,
+          "listed_count": 6,
+          "media_count": 358,
+          "tweet_count": 3319
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-24T10:06:44.000Z",
+        "description": "她欢快的活力溢出房间四壁，像生机盎然的和风吹过秋海棠长廊。",
+        "id": "1319943356563156993",
+        "name": "TT",
+        "pinned_tweet_id": "2058445622739656893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036847078979379200/jDMypv6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 20,
+          "like_count": 5505,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 857
+        },
+        "username": "marrow2g",
+        "verified": false
+      }
+    ]
+  }
+}

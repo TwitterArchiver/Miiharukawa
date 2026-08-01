@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2072624320342565122",
+    "created_at": "2026-07-02T10:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072624320342565122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miiharukawa/st…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/miiharukawa/status/2072622840361505185",
+          "start": 73,
+          "url": "https://t.co/X5kFHpmxdi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072624320342565122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072622840361505185",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "顺便一提我是双，但是我生理心理上会更喜欢女性一点。。。事已至此有没有好心大姐姐的奶子借我闷一下🤤咳咳我是说有没有好心大姐姐想给我一个温暖的怀抱？ https://t.co/X5kFHpmxdi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2072624320342565122",
+        "created_at": "2026-07-02T10:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072624320342565122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miiharukawa/st…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/miiharukawa/status/2072622840361505185",
+              "start": 73,
+              "url": "https://t.co/X5kFHpmxdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072624320342565122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072622840361505185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺便一提我是双，但是我生理心理上会更喜欢女性一点。。。事已至此有没有好心大姐姐的奶子借我闷一下🤤咳咳我是说有没有好心大姐姐想给我一个温暖的怀抱？ https://t.co/X5kFHpmxdi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2072622840361505185",
+        "created_at": "2026-07-02T10:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072622840361505185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072622840361505185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉这个社会一直在培养女同性恋啊。\n从小看到的淫秽物品就是女性的裸体或者比基尼；读书的时候书中对美人的描写都是写女性，在学校男女牵手被视为早恋；长大以后玩的游戏大多以女性角色为卖点。看片的时候镜头一直对准女生的生殖器官和脸，根本注意不到旁边的男性是什么样的。\n细思极恐吧我说！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 250,
+          "like_count": 10171,
+          "listed_count": 10,
+          "media_count": 453,
+          "tweet_count": 3839
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

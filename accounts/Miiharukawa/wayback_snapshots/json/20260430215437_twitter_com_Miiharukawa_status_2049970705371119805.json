@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2049817866820825149",
+    "created_at": "2026-04-30T21:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T22:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049970705371119805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2034940961265221633",
+          "start": 0,
+          "username": "EcaO_oxrttsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049970705371119805",
+    "in_reply_to_user_id": "2034940961265221633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049872493918233086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EcaO_oxrttsh 牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2049817866820825149",
+        "created_at": "2026-04-30T21:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T22:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049970705371119805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2034940961265221633",
+              "start": 0,
+              "username": "EcaO_oxrttsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049970705371119805",
+        "in_reply_to_user_id": "2034940961265221633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049872493918233086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EcaO_oxrttsh 牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034940961265221633",
+        "conversation_id": "2049817866820825149",
+        "created_at": "2026-04-30T15:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049872493918233086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049872493918233086",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049817866820825149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 我遇到过这样还敢出来嫖的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 209,
+          "like_count": 6306,
+          "listed_count": 5,
+          "media_count": 249,
+          "tweet_count": 2404
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T10:33:04.000Z",
+        "description": "此账号发表的所有言论，意在取悦自己，并通过文字或图片强制干预他人的思想，如果翻阅之后出现不适等症状，恭喜你，你怀了我的孩子",
+        "id": "2034940961265221633",
+        "name": "EcaO_oxrt.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048752580663386112/XyMPYYcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 56,
+          "like_count": 1659,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 295
+        },
+        "username": "EcaO_oxrttsh",
+        "verified": false
+      }
+    ]
+  }
+}

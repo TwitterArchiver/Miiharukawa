@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2042441675122098348",
+    "created_at": "2026-04-10T03:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T04:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042443845485674633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2027346225893404673",
+          "start": 0,
+          "username": "JDollyshit7786"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042443845485674633",
+    "in_reply_to_user_id": "2027346225893404673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042443609115672802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JDollyshit7786 谁不想养一条雷霆大鳄鱼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2042441675122098348",
+        "created_at": "2026-04-10T03:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042443845485674633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2027346225893404673",
+              "start": 0,
+              "username": "JDollyshit7786"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042443845485674633",
+        "in_reply_to_user_id": "2027346225893404673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042443609115672802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JDollyshit7786 谁不想养一条雷霆大鳄鱼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027346225893404673",
+        "conversation_id": "2042441675122098348",
+        "created_at": "2026-04-10T03:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042443609115672802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042443609115672802",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042441675122098348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 你的脸如果是丑脸，那我是什么，一只有会刷推特的雷霆大鳄鱼吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 172,
+          "like_count": 4710,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 1558
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T11:33:12.000Z",
+        "description": "我想我们都是这个世界的溺水者，每个人都拼了命想爬上对岸，如果我先爬上去，就一定拼了命拉你上来，如果你能爬上去就替我去看看阳光与花/纯原创/无ai",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/momo48425",
+                "end": 23,
+                "expanded_url": "https://ngl.link/momo48425",
+                "start": 0,
+                "url": "https://t.co/EMXtIejyO4"
+              }
+            ]
+          }
+        },
+        "id": "2027346225893404673",
+        "location": "墓园",
+        "name": "阿撒托斯",
+        "pinned_tweet_id": "2040732935964569804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042158482053640192/TXTrVIha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 52,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/EMXtIejyO4",
+        "username": "JDollyshit7786",
+        "verified": false
+      }
+    ]
+  }
+}

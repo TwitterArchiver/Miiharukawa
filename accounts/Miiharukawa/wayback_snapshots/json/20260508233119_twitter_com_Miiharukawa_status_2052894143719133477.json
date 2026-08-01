@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2052894143719133477",
+    "created_at": "2026-05-08T23:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T00:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052894143719133477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ywxqz_sy/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/ywxqz_sy/status/2052717953318371332",
+          "start": 14,
+          "url": "https://t.co/4WmGspm4WK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052894143719133477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052717953318371332",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "叫过我妈妈的明天都给我转账 https://t.co/4WmGspm4WK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2052894143719133477",
+        "created_at": "2026-05-08T23:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T00:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052894143719133477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ywxqz_sy/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ywxqz_sy/status/2052717953318371332",
+              "start": 14,
+              "url": "https://t.co/4WmGspm4WK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052894143719133477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052717953318371332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "叫过我妈妈的明天都给我转账 https://t.co/4WmGspm4WK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635516217200099328",
+        "conversation_id": "2052717953318371332",
+        "created_at": "2026-05-08T11:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052717953318371332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0kada_mi0/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/0kada_mi0/status/2052654786747715918",
+              "start": 15,
+              "url": "https://t.co/ZThNAiBx0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052717953318371332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 989,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052654786747715918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "叫过我妈妈的人明天都给我转账 https://t.co/ZThNAiBx0k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 215,
+          "like_count": 7070,
+          "listed_count": 4,
+          "media_count": 273,
+          "tweet_count": 2745
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T05:40:42.000Z",
+        "description": "一朵普通飘过的云。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuoyun16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuoyun16",
+                "start": 0,
+                "url": "https://t.co/kuVq03QEYP"
+              }
+            ]
+          }
+        },
+        "id": "1635516217200099328",
+        "name": "下周回来",
+        "pinned_tweet_id": "2050390733987971520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000165241905401856/MYfFRFqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 566,
+          "like_count": 20945,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 6680
+        },
+        "url": "https://t.co/kuVq03QEYP",
+        "username": "ywxqz_sy",
+        "verified": true
+      }
+    ]
+  }
+}

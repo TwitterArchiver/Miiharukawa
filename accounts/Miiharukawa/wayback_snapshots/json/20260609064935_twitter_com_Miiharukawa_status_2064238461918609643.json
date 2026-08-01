@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2064238461918609643",
+    "created_at": "2026-06-09T06:49:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064238461918609643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qwqio3o/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/qwqio3o/status/2063942175533236305",
+          "start": 3,
+          "url": "https://t.co/CmO6K8ErDP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064238461918609643",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063942175533236305",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "畜生 https://t.co/CmO6K8ErDP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 996,
+        "media_key": "3_2063942168688099328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSYd5magAASO0R.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2064238461918609643",
+        "created_at": "2026-06-09T06:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064238461918609643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qwqio3o/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/qwqio3o/status/2063942175533236305",
+              "start": 3,
+              "url": "https://t.co/CmO6K8ErDP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064238461918609643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063942175533236305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "畜生 https://t.co/CmO6K8ErDP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063942168688099328"
+          ]
+        },
+        "author_id": "1986136179721240576",
+        "conversation_id": "2063942175533236305",
+        "created_at": "2026-06-08T11:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063942175533236305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IWPqpk4QE8",
+              "end": 30,
+              "expanded_url": "https://x.com/QwQIO3O/status/2063942175533236305/photo/1",
+              "media_key": "3_2063942168688099328",
+              "start": 7,
+              "url": "https://t.co/IWPqpk4QE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063942175533236305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 551801,
+          "like_count": 4376,
+          "quote_count": 25,
+          "reply_count": 410,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "公畜咋了…… https://t.co/IWPqpk4QE8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064206097993629696/hG17hldS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 236,
+          "like_count": 9030,
+          "listed_count": 6,
+          "media_count": 386,
+          "tweet_count": 3442
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T18:20:18.000Z",
+        "description": "只是一位单亲拓麻妈妈\n@gjfgift 减肥打卡日记",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "gjfgift"
+              }
+            ]
+          }
+        },
+        "id": "1986136179721240576",
+        "location": "南京",
+        "name": "盖浇饭",
+        "pinned_tweet_id": "2048611512672256383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034605424658481152/uKDUuhoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 282,
+          "like_count": 10547,
+          "listed_count": 0,
+          "media_count": 549,
+          "tweet_count": 2849
+        },
+        "username": "QwQIO3O",
+        "verified": false
+      }
+    ]
+  }
+}

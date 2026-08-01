@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2054931395483775110",
+    "created_at": "2026-05-15T07:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055193729628278808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1635516217200099328",
+          "start": 0,
+          "username": "ywxqz_sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055193729628278808",
+    "in_reply_to_user_id": "1635516217200099328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054931395483775110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ywxqz_sy 摸摸你🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2054931395483775110",
+        "created_at": "2026-05-15T07:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055193729628278808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1635516217200099328",
+              "start": 0,
+              "username": "ywxqz_sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055193729628278808",
+        "in_reply_to_user_id": "1635516217200099328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054931395483775110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ywxqz_sy 摸摸你🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635516217200099328",
+        "conversation_id": "2054931395483775110",
+        "created_at": "2026-05-14T14:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054931395483775110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054931395483775110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我真的是傻逼吧！\n上上周没扔家里的垃圾就回另一个家了，因为我误以为母父过几天就回去，结果我今天才想起来，问了ai说百分百长蛆，我一下半边身子都吓麻了，根本没勇气进屋，约了明天的保洁，早上就赶回去。救命，我这辈子都没见过蛆，我真的不想打破这个记录。本来我家在大广东居然几年都看不见张郎，但这下我感觉，他们来了。所以生物都会齐聚一堂了。。我连尖叫都不敢，生怕被什么东西进口了。。。。而且，保洁真的太他爹贵了吧🤡🤡🤡"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 409,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我真的是傻逼吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 215,
+          "like_count": 7370,
+          "listed_count": 6,
+          "media_count": 297,
+          "tweet_count": 2868
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T05:40:42.000Z",
+        "description": "一朵普通飘过的云。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuoyun16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuoyun16",
+                "start": 0,
+                "url": "https://t.co/kuVq03QEYP"
+              }
+            ]
+          }
+        },
+        "id": "1635516217200099328",
+        "name": "我依旧发不了评论",
+        "pinned_tweet_id": "2050390733987971520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000165241905401856/MYfFRFqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 564,
+          "like_count": 21044,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 6701
+        },
+        "url": "https://t.co/kuVq03QEYP",
+        "username": "ywxqz_sy",
+        "verified": true
+      }
+    ]
+  }
+}

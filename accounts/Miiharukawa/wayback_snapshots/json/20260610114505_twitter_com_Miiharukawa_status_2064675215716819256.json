@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2064565315590324224",
+    "created_at": "2026-06-10T11:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064675215716819256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1510243706347028482",
+          "start": 0,
+          "username": "Qyunachii"
+        },
+        {
+          "end": 23,
+          "id": "1681716872415440896",
+          "start": 11,
+          "username": "Kirayoumiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064675215716819256",
+    "in_reply_to_user_id": "1510243706347028482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064670022077981025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qyunachii @Kirayoumiya 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2064565315590324224",
+        "created_at": "2026-06-10T11:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064675215716819256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1510243706347028482",
+              "start": 0,
+              "username": "Qyunachii"
+            },
+            {
+              "end": 23,
+              "id": "1681716872415440896",
+              "start": 11,
+              "username": "Kirayoumiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064675215716819256",
+        "in_reply_to_user_id": "1510243706347028482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064670022077981025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qyunachii @Kirayoumiya 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510243706347028482",
+        "conversation_id": "2064565315590324224",
+        "created_at": "2026-06-10T11:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064670022077981025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            },
+            {
+              "end": 25,
+              "id": "1681716872415440896",
+              "start": 13,
+              "username": "Kirayoumiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064670022077981025",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064565836145402269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa @Kirayoumiya 漂亮姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064206097993629696/hG17hldS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 239,
+          "like_count": 9130,
+          "listed_count": 6,
+          "media_count": 397,
+          "tweet_count": 3486
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T13:12:25.000Z",
+        "description": "如果觉得被冒犯了那是我的猫发的，它有四个爪子打字比我快。如果你讨厌アトラス那我们就是好朋友，真的超级超级喜欢哈姆子@Chiqyuna",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Chiqyuna"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chiqyuna",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chiqyuna",
+                "start": 0,
+                "url": "https://t.co/MzdDuzes1D"
+              }
+            ]
+          }
+        },
+        "id": "1510243706347028482",
+        "location": "四軒茶屋",
+        "name": "ツ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047131412747444224/nLWdoqbB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 447,
+          "like_count": 6978,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2006
+        },
+        "url": "https://t.co/MzdDuzes1D",
+        "username": "Qyunachii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-19T17:25:30.000Z",
+        "description": "遗憾总是贯穿人生始终",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirayoumiya176…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kirayoumiya17607",
+                "start": 0,
+                "url": "https://t.co/ClBUr4OW0D"
+              }
+            ]
+          }
+        },
+        "id": "1681716872415440896",
+        "location": "精神世界",
+        "name": "Kirayoumiya",
+        "pinned_tweet_id": "2032472045599244684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986630336080650240/V8mqkC1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 1184,
+          "like_count": 29809,
+          "listed_count": 2,
+          "media_count": 901,
+          "tweet_count": 19419
+        },
+        "url": "https://t.co/ClBUr4OW0D",
+        "username": "Kirayoumiya",
+        "verified": false
+      }
+    ]
+  }
+}

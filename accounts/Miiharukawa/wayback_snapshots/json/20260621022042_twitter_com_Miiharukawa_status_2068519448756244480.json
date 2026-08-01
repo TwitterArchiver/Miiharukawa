@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2041539499524849975",
+    "created_at": "2026-06-21T02:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T03:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068519448756244480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1635516217200099328",
+          "start": 0,
+          "username": "ywxqz_sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068519448756244480",
+    "in_reply_to_user_id": "1635516217200099328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041539499524849975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ywxqz_sy 小云云好漂亮🤤完全可以做壁纸的美貌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2041539414833381376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUBSAAaQAAIhje.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1314,
+        "media_key": "3_2041539414854361088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUBSAFaYAAOuF6.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2041539499524849975",
+        "created_at": "2026-06-21T02:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068519448756244480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1635516217200099328",
+              "start": 0,
+              "username": "ywxqz_sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068519448756244480",
+        "in_reply_to_user_id": "1635516217200099328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041539499524849975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywxqz_sy 小云云好漂亮🤤完全可以做壁纸的美貌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041539414833381376",
+            "3_2041539414854361088"
+          ]
+        },
+        "author_id": "1635516217200099328",
+        "conversation_id": "2041539499524849975",
+        "created_at": "2026-04-07T15:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041539499524849975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y27kSfazsk",
+              "end": 80,
+              "expanded_url": "https://x.com/ywxqz_sy/status/2041539499524849975/photo/1",
+              "media_key": "3_2041539414833381376",
+              "start": 57,
+              "url": "https://t.co/y27kSfazsk"
+            },
+            {
+              "display_url": "pic.x.com/y27kSfazsk",
+              "end": 80,
+              "expanded_url": "https://x.com/ywxqz_sy/status/2041539499524849975/photo/1",
+              "media_key": "3_2041539414854361088",
+              "start": 57,
+              "url": "https://t.co/y27kSfazsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041539499524849975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3364,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "去年生日给自己做了这两张图让朋友们当成壁纸，大家都乖乖换上了，刚才翻朋友圈感觉还是很可爱，发出来给你们看看🥰🥰🥰 https://t.co/y27kSfazsk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 238,
+          "like_count": 9448,
+          "listed_count": 6,
+          "media_count": 416,
+          "tweet_count": 3616
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T05:40:42.000Z",
+        "description": "一朵普通飘过的云。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuoyun16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuoyun16",
+                "start": 0,
+                "url": "https://t.co/kuVq03QEYP"
+              }
+            ]
+          }
+        },
+        "id": "1635516217200099328",
+        "name": "朔云",
+        "pinned_tweet_id": "2050390733987971520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000165241905401856/MYfFRFqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 556,
+          "like_count": 26833,
+          "listed_count": 4,
+          "media_count": 287,
+          "tweet_count": 8321
+        },
+        "url": "https://t.co/kuVq03QEYP",
+        "username": "ywxqz_sy",
+        "verified": true
+      }
+    ]
+  }
+}

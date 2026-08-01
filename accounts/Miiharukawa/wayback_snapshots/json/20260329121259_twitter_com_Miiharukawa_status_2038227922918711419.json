@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2038206543456514495",
+    "created_at": "2026-03-29T12:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T13:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038227922918711419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2024106537854349312",
+          "start": 0,
+          "username": "JoJay3107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038227922918711419",
+    "in_reply_to_user_id": "2024106537854349312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038206543456514495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JoJay3107 帅成这样啥意思？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2038206536204660737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkqC7lbsAEBg3a.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2038206543456514495",
+        "created_at": "2026-03-29T12:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038227922918711419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2024106537854349312",
+              "start": 0,
+              "username": "JoJay3107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038227922918711419",
+        "in_reply_to_user_id": "2024106537854349312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038206543456514495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JoJay3107 帅成这样啥意思？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038206536204660737"
+          ]
+        },
+        "author_id": "2024106537854349312",
+        "conversation_id": "2038206543456514495",
+        "created_at": "2026-03-29T10:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038206543456514495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OvkuXT2Hqe",
+              "end": 23,
+              "expanded_url": "https://x.com/JoJay3107/status/2038206543456514495/photo/1",
+              "media_key": "3_2038206536204660737",
+              "start": 0,
+              "url": "https://t.co/OvkuXT2Hqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038206543456514495",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OvkuXT2Hqe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 156,
+          "like_count": 3829,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T12:59:58.000Z",
+        "description": "平等的爱所有人类",
+        "id": "2024106537854349312",
+        "name": "Jay",
+        "pinned_tweet_id": "2031601160705159546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024106700488499200/LpmFpL-4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 460,
+          "like_count": 966,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 303
+        },
+        "username": "JoJay3107",
+        "verified": false
+      }
+    ]
+  }
+}

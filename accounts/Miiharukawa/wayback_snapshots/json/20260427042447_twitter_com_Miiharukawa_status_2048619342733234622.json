@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2048619342733234622",
+    "created_at": "2026-04-27T04:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048619342733234622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0b7cm/status/2…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/0b7cm/status/2048382110332019188",
+          "start": 30,
+          "url": "https://t.co/YjDLYM7HxL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048619342733234622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048382110332019188",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上次煞笔校长查寝找到地上有一根头发硬是给我扣分了😹草泥马。 https://t.co/YjDLYM7HxL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2048619342733234622",
+        "created_at": "2026-04-27T04:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048619342733234622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0b7cm/status/2…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/0b7cm/status/2048382110332019188",
+              "start": 30,
+              "url": "https://t.co/YjDLYM7HxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048619342733234622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048382110332019188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上次煞笔校长查寝找到地上有一根头发硬是给我扣分了😹草泥马。 https://t.co/YjDLYM7HxL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "810779795214581760",
+        "conversation_id": "2048382110332019188",
+        "created_at": "2026-04-26T12:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048382110332019188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048382110332019188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 125800,
+          "like_count": 1290,
+          "quote_count": 17,
+          "reply_count": 232,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识\n其实99%的女生房间不会有什么女生香香的味道 只是有满地的头发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "碎碎念bot\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 193,
+          "like_count": 5920,
+          "listed_count": 6,
+          "media_count": 238,
+          "tweet_count": 2198
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、热梗、分享慾、秘密を話せる場所、女子の本音、男女のあれこれ",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2048206095970378224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7144,
+          "following_count": 1067,
+          "like_count": 10062,
+          "listed_count": 9,
+          "media_count": 992,
+          "tweet_count": 11475
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

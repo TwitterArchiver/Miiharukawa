@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2039893836848378349",
+    "created_at": "2026-04-03T02:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T03:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039893836848378349"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039893836848378349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小时候经常听到的一句话是，你这样一点也不像个女孩子。\n我至今也无法理解这句话，\n为什么要像？我自己本身就是女孩子，我是什么样子女孩就该是什么样子，性别不是规范行为的标准。\n但小小的我只知道自己被指责做错了，于是端正坐好，但是那样一点也不舒服。\n我们都活在刻板印象里，做着所谓的正确。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2039893836848378349",
+        "created_at": "2026-04-03T02:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039893836848378349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039893836848378349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候经常听到的一句话是，你这样一点也不像个女孩子。\n我至今也无法理解这句话，\n为什么要像？我自己本身就是女孩子，我是什么样子女孩就该是什么样子，性别不是规范行为的标准。\n但小小的我只知道自己被指责做错了，于是端正坐好，但是那样一点也不舒服。\n我们都活在刻板印象里，做着所谓的正确。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 166,
+          "like_count": 4163,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 1310
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

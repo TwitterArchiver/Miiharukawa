@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2073604208386039999",
+    "created_at": "2026-07-05T04:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T05:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073623436686180692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "787255230618439680",
+          "start": 0,
+          "username": "undefeknight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073623436686180692",
+    "in_reply_to_user_id": "787255230618439680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073616967450366302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@undefeknight 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2073604208386039999",
+        "created_at": "2026-07-05T04:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073623436686180692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "787255230618439680",
+              "start": 0,
+              "username": "undefeknight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073623436686180692",
+        "in_reply_to_user_id": "787255230618439680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073616967450366302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@undefeknight 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "787255230618439680",
+        "conversation_id": "2073604208386039999",
+        "created_at": "2026-07-05T03:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073616967450366302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073616967450366302",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073604208386039999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2103,
+          "following_count": 248,
+          "like_count": 10127,
+          "listed_count": 10,
+          "media_count": 455,
+          "tweet_count": 3866
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-15T11:34:08.000Z",
+        "description": "",
+        "id": "787255230618439680",
+        "location": "People's Republic of China",
+        "name": "圆一",
+        "pinned_tweet_id": "1605168284625965056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015328605962977280/phvcJp4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 1784,
+          "like_count": 20956,
+          "listed_count": 5,
+          "media_count": 4,
+          "tweet_count": 4571
+        },
+        "url": "",
+        "username": "undefeknight",
+        "verified": false
+      }
+    ]
+  }
+}

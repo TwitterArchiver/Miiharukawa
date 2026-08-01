@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2049031038513619075",
+    "created_at": "2026-04-28T08:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T09:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049046743388725597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1654009281614876673",
+          "start": 0,
+          "username": "dttvj134915"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049046743388725597",
+    "in_reply_to_user_id": "1654009281614876673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049045810458001881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dttvj134915 他说大学生没有医保报销"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2049031038513619075",
+        "created_at": "2026-04-28T08:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049046743388725597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1654009281614876673",
+              "start": 0,
+              "username": "dttvj134915"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049046743388725597",
+        "in_reply_to_user_id": "1654009281614876673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049045810458001881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dttvj134915 他说大学生没有医保报销"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654009281614876673",
+        "conversation_id": "2049031038513619075",
+        "created_at": "2026-04-28T08:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049045810458001881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049045810458001881",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049031038513619075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 医保没有买吗，我之前拔智齿花了两千报销一千"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 193,
+          "like_count": 6004,
+          "listed_count": 6,
+          "media_count": 239,
+          "tweet_count": 2257
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T06:25:25.000Z",
+        "description": "",
+        "id": "1654009281614876673",
+        "name": "影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003436653827002368/RGHSlmn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 231,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 65
+        },
+        "username": "dttvj134915",
+        "verified": false
+      }
+    ]
+  }
+}

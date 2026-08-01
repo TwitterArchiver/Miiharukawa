@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2054073477460889636",
+    "created_at": "2026-05-12T05:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T06:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054073477460889636"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054073477460889636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我很讨厌“我开玩笑是因为觉得我俩关系好你不会计较”这种话，关系越好越需要尊重对方，如果关系好是为了肆无忌惮地侮辱对方，那根本用不着好好搞关系，直接当仇人不是能侮辱得更痛快吗？说到底是因为侮辱仇人会被报复，但侮辱身边的人就可以说我只是在开玩笑你别计较，享受这种无成本霸凌别人的感觉罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2054073477460889636",
+        "created_at": "2026-05-12T05:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T06:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054073477460889636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054073477460889636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很讨厌“我开玩笑是因为觉得我俩关系好你不会计较”这种话，关系越好越需要尊重对方，如果关系好是为了肆无忌惮地侮辱对方，那根本用不着好好搞关系，直接当仇人不是能侮辱得更痛快吗？说到底是因为侮辱仇人会被报复，但侮辱身边的人就可以说我只是在开玩笑你别计较，享受这种无成本霸凌别人的感觉罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 215,
+          "like_count": 7210,
+          "listed_count": 4,
+          "media_count": 284,
+          "tweet_count": 2808
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

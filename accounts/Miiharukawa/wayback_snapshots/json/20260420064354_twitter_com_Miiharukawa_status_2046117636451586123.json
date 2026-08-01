@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046116419973394432"
+      ],
+      "media_source_tweet_id": [
+        "2046116441842458648"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2046117636451586123",
+    "created_at": "2026-04-20T06:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T07:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046117636451586123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812304729432838144",
+          "start": 3,
+          "username": "huimu420"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ssBIQbJtCk",
+          "end": 43,
+          "expanded_url": "https://x.com/huimu420/status/2046116441842458648/photo/1",
+          "media_key": "3_2046116419973394432",
+          "start": 20,
+          "url": "https://t.co/ssBIQbJtCk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046117636451586123",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046116441842458648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huimu420: 今天我生日 https://t.co/ssBIQbJtCk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046117636451586123].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046117636451586123",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046117636451586123"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_2046116419973394432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVECw2bsAAsoEn.jpg",
+        "width": 584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046116419973394432"
+          ]
+        },
+        "author_id": "1812304729432838144",
+        "conversation_id": "2046116441842458648",
+        "created_at": "2026-04-20T06:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T07:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046116441842458648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ssBIQbJtCk",
+              "end": 29,
+              "expanded_url": "https://x.com/huimu420/status/2046116441842458648/photo/1",
+              "media_key": "3_2046116419973394432",
+              "start": 6,
+              "url": "https://t.co/ssBIQbJtCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046116441842458648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天我生日 https://t.co/ssBIQbJtCk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 184,
+          "like_count": 5354,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 1866
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "餐券 负能 自言自语\n酷拉皮卡梦女\n管我死全家\n💊🩸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu420",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu420",
+                "start": 0,
+                "url": "https://t.co/o2XkPNmz4o"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "提问箱",
+        "name": "回木",
+        "pinned_tweet_id": "2028842327134077389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 776,
+          "like_count": 29969,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 7816
+        },
+        "url": "https://t.co/o2XkPNmz4o",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

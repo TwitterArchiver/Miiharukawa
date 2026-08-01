@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2048663103743852599",
+    "created_at": "2026-04-29T07:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T08:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049397007245283655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1933128613601427456",
+          "start": 0,
+          "username": "Kiridollsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049397007245283655",
+    "in_reply_to_user_id": "1933128613601427456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049387786323833063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiridollsuki 不用啦 我朋友代购会给我送一份 谢谢你呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1053,
+        "media_key": "3_2049387771631169536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDjUfca8AArpBF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2048663103743852599",
+        "created_at": "2026-04-29T07:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049397007245283655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1933128613601427456",
+              "start": 0,
+              "username": "Kiridollsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049397007245283655",
+        "in_reply_to_user_id": "1933128613601427456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049387786323833063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiridollsuki 不用啦 我朋友代购会给我送一份 谢谢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049387771631169536"
+          ]
+        },
+        "author_id": "1933128613601427456",
+        "conversation_id": "2048663103743852599",
+        "created_at": "2026-04-29T07:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049387786323833063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFQdkvLdlK",
+              "end": 67,
+              "expanded_url": "https://x.com/Kiridollsuki/status/2049387786323833063/photo/1",
+              "media_key": "3_2049387771631169536",
+              "start": 44,
+              "url": "https://t.co/JFQdkvLdlK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049387786323833063",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048663103743852599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 对啦，CP32有需要代购啵？除了我群友，我也抢到了5号的票～ https://t.co/JFQdkvLdlK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 198,
+          "like_count": 6113,
+          "listed_count": 5,
+          "media_count": 243,
+          "tweet_count": 2313
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T11:46:09.000Z",
+        "description": "我想拥有一次穿越/重生的机会，在对的时间以最好的状态重新开始\n.\n匿名留言箱https://t.co/S9wHM1RoH9  \n好朋友:@Miiharukawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Miiharukawa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kiridollsuki",
+                "end": 61,
+                "expanded_url": "https://ngl.link/kiridollsuki",
+                "start": 38,
+                "url": "https://t.co/S9wHM1RoH9"
+              }
+            ]
+          }
+        },
+        "id": "1933128613601427456",
+        "name": "星見シウアン",
+        "pinned_tweet_id": "2048433378337366354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933128690227167232/GhtebO7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 106,
+          "like_count": 2701,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1508
+        },
+        "username": "Kiridollsuki",
+        "verified": false
+      }
+    ]
+  }
+}

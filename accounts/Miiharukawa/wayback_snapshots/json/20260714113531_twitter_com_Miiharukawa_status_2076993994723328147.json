@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2076675530078945778",
+    "created_at": "2026-07-14T11:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076993994723328147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2051919325490274304",
+          "start": 0,
+          "username": "Sye2z1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076993994723328147",
+    "in_reply_to_user_id": "2051919325490274304",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076675530078945778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sye2z1 omg"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2076675530078945778].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2076675530078945778",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2076675530078945778"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2076675530078945778",
+        "created_at": "2026-07-14T11:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076993994723328147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2051919325490274304",
+              "start": 0,
+              "username": "Sye2z1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076993994723328147",
+        "in_reply_to_user_id": "2051919325490274304",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076675530078945778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sye2z1 omg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一摇 遥一摇",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2132,
+          "following_count": 252,
+          "like_count": 10455,
+          "listed_count": 10,
+          "media_count": 483,
+          "tweet_count": 3977
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T06:58:16.000Z",
+        "description": "云",
+        "id": "2051919325490274304",
+        "name": "朔云小号",
+        "pinned_tweet_id": "2052135162889269423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075413458477322240/u-c3P9WY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 188,
+          "like_count": 3033,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1170
+        },
+        "url": "",
+        "username": "Sye2z1",
+        "verified": false
+      }
+    ]
+  }
+}

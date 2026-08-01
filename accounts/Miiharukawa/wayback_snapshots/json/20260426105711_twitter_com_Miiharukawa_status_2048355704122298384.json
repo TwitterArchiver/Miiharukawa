@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2048334344469819549",
+    "created_at": "2026-04-26T10:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048355704122298384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946863961502298112",
+          "start": 0,
+          "username": "Chloris8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048355704122298384",
+    "in_reply_to_user_id": "1946863961502298112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048334344469819549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris8964 哪来的肌肉男。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2048334344469819549",
+        "created_at": "2026-04-26T10:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048355704122298384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946863961502298112",
+              "start": 0,
+              "username": "Chloris8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048355704122298384",
+        "in_reply_to_user_id": "1946863961502298112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048334344469819549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris8964 哪来的肌肉男。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946863961502298112",
+        "conversation_id": "2048334344469819549",
+        "created_at": "2026-04-26T09:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048334344469819549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048334344469819549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前號主關注好多肌肉男。那我就收下吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "碎碎念bot\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195,
+          "following_count": 194,
+          "like_count": 5873,
+          "listed_count": 6,
+          "media_count": 236,
+          "tweet_count": 2177
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T09:25:27.000Z",
+        "description": "₊⁺ ꒰১ ♡ ໒꒱ ⁺₊",
+        "id": "1946863961502298112",
+        "location": "| ♡˚₊‧꒰ა❤︎໒꒱ ‧₊♡|",
+        "name": "🪼",
+        "pinned_tweet_id": "2048317074242711659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019343177866682368/h1VnB9vL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7498,
+          "following_count": 85,
+          "like_count": 1980,
+          "listed_count": 13,
+          "media_count": 22,
+          "tweet_count": 246
+        },
+        "username": "Chloris8964",
+        "verified": true
+      }
+    ]
+  }
+}

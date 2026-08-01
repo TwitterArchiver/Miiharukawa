@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2037742604176244992",
+    "created_at": "2026-03-28T04:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T05:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037742604176244992"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037742604176244992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我每天装逼糖恶俗装的好累，有一天你们发现我是个正直善良、充满责任心还勇敢大气、勤劳能干、情绪稳定、积极向上，心思细腻、有爱心、有担当、有觉悟、有上进心、尊师重道、道德感强会换位思考的人的话，我是不是也要塌房了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2037742604176244992",
+        "created_at": "2026-03-28T04:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037742604176244992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037742604176244992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天装逼糖恶俗装的好累，有一天你们发现我是个正直善良、充满责任心还勇敢大气、勤劳能干、情绪稳定、积极向上，心思细腻、有爱心、有担当、有觉悟、有上进心、尊师重道、道德感强会换位思考的人的话，我是不是也要塌房了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 152,
+          "like_count": 3665,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 1134
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

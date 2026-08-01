@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2046512038218989819",
+    "created_at": "2026-04-21T08:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046512038218989819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lting362620/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/lting362620/status/2046279280993460330",
+          "start": 9,
+          "url": "https://t.co/SAIYtVT8eH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046512038218989819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046279280993460330",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骗你的根本睡不着 https://t.co/SAIYtVT8eH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2046512038218989819",
+        "created_at": "2026-04-21T08:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046512038218989819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lting362620/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/lting362620/status/2046279280993460330",
+              "start": 9,
+              "url": "https://t.co/SAIYtVT8eH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046512038218989819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046279280993460330",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骗你的根本睡不着 https://t.co/SAIYtVT8eH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946511553710481408",
+        "conversation_id": "2046279280993460330",
+        "created_at": "2026-04-20T17:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T18:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046279280993460330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046279280993460330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3397,
+          "like_count": 81,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "好想给在意的人发一句好想操你然后把手机扔了睡觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 188,
+          "like_count": 5454,
+          "listed_count": 4,
+          "media_count": 214,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T10:05:10.000Z",
+        "description": "Lily",
+        "id": "1946511553710481408",
+        "location": "私信已关🙄💅🏻",
+        "name": "错认水",
+        "pinned_tweet_id": "2043295901851250759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041930779991928834/6iDYyhxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3075,
+          "following_count": 213,
+          "like_count": 7904,
+          "listed_count": 7,
+          "media_count": 23,
+          "tweet_count": 177
+        },
+        "username": "lting362620",
+        "verified": false
+      }
+    ]
+  }
+}

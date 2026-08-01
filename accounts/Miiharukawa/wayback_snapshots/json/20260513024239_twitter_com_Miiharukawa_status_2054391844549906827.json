@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2053656595356385672",
+    "created_at": "2026-05-13T02:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T03:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054391844549906827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1975045878017826816",
+          "start": 0,
+          "username": "bJrrnjY7XZ50669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054391844549906827",
+    "in_reply_to_user_id": "1975045878017826816",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054365491293192700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bJrrnjY7XZ50669 9494"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2053656595356385672",
+        "created_at": "2026-05-13T02:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054391844549906827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1975045878017826816",
+              "start": 0,
+              "username": "bJrrnjY7XZ50669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054391844549906827",
+        "in_reply_to_user_id": "1975045878017826816",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054365491293192700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bJrrnjY7XZ50669 9494"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975045878017826816",
+        "conversation_id": "2053656595356385672",
+        "created_at": "2026-05-13T00:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054365491293192700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054365491293192700",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053656595356385672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 我还以为是代餐口嗨（）点进来怎么那么多要么是约的要么是带入三次的（）误闯天家了，但是放在oc或者家产代餐上面不是震撼美味嘛😋谁说妻子只能是女的😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 215,
+          "like_count": 7237,
+          "listed_count": 4,
+          "media_count": 286,
+          "tweet_count": 2821
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T03:50:16.000Z",
+        "description": "克莱恩全肯定，杂食， 圈地自萌，不喜欢请你善用拉黑和屏蔽。\n用翻译器。\n💗Klein positivity🥹 | Multi-fandom | Half my English is from translators | If you don't like it, please block me.",
+        "id": "1975045878017826816",
+        "name": "理想不灭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026002717194227712/KDfkEfg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 29,
+          "like_count": 611,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 51
+        },
+        "username": "bJrrnjY7XZ50669",
+        "verified": false
+      }
+    ]
+  }
+}

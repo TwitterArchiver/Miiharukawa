@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2044964069917286847",
+    "created_at": "2026-04-17T02:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T03:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044964069917286847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1948869135833989122",
+          "start": 3,
+          "username": "CarieShepp51778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044964069917286847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044686691693391881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CarieShepp51778: 刷到一个人说对什么事情都提不起兴趣做以前觉得很开心的事现在也没感觉了，底下评论依旧健全土逼男大女大发自己拍的云小猫食物，健全蛆不是最爱指责精神病索取他们情绪价值吗？发这些难道不是等着人家回复一句“哇谢谢你你拍的好漂亮我被治愈了”索取人家…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2044964069917286847",
+        "created_at": "2026-04-17T02:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T03:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044964069917286847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1948869135833989122",
+              "start": 3,
+              "username": "CarieShepp51778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044964069917286847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044686691693391881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CarieShepp51778: 刷到一个人说对什么事情都提不起兴趣做以前觉得很开心的事现在也没感觉了，底下评论依旧健全土逼男大女大发自己拍的云小猫食物，健全蛆不是最爱指责精神病索取他们情绪价值吗？发这些难道不是等着人家回复一句“哇谢谢你你拍的好漂亮我被治愈了”索取人家…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948869135833989122",
+        "conversation_id": "2044686691693391881",
+        "created_at": "2026-04-16T07:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044686691693391881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044686691693391881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1739,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到一个人说对什么事情都提不起兴趣做以前觉得很开心的事现在也没感觉了，底下评论依旧健全土逼男大女大发自己拍的云小猫食物，健全蛆不是最爱指责精神病索取他们情绪价值吗？发这些难道不是等着人家回复一句“哇谢谢你你拍的好漂亮我被治愈了”索取人家的情绪价值吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 177,
+          "like_count": 5063,
+          "listed_count": 4,
+          "media_count": 201,
+          "tweet_count": 1753
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T22:13:06.000Z",
+        "description": "仙家对话",
+        "id": "1948869135833989122",
+        "location": "距离你11.4514㎞",
+        "name": "大蜘蛛哼唱",
+        "pinned_tweet_id": "1985965205353046193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010636142656319488/_Jwa0A24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 376,
+          "like_count": 13527,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 733
+        },
+        "username": "CarieShepp51778",
+        "verified": false
+      }
+    ]
+  }
+}

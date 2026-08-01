@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2046116004397568227",
+    "created_at": "2026-04-20T10:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046178756583436514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1388202412977147904",
+          "start": 0,
+          "username": "Ai_Auroveil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046178756583436514",
+    "in_reply_to_user_id": "1388202412977147904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046171927786500251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ai_Auroveil 好有画面感的形容ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2046116004397568227",
+        "created_at": "2026-04-20T10:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046178756583436514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1388202412977147904",
+              "start": 0,
+              "username": "Ai_Auroveil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046178756583436514",
+        "in_reply_to_user_id": "1388202412977147904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046171927786500251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ai_Auroveil 好有画面感的形容ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388202412977147904",
+        "conversation_id": "2046116004397568227",
+        "created_at": "2026-04-20T10:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046171927786500251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046171927786500251",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "谢谢你嘿嘿嘿\n而且它好好闻喵！\n\n它不是传统意义上的海洋调\n没有棕榈树，椰子和沙滩\n\n更像日落时一片紫红色的光芒下，从昏暗海底慢慢浮起，飘在水面上荧荧闪着粉紫光的水母\n恍惚下分不清海与天的界限，像看着水母在半空中漂浮\n前调相当梦幻；\n\n中调的香草和盐既有着深海的微咸但又意外的甜美\n慢慢过渡到带着木质香气的龙涎香后调\n很温暖，很亲密 ☺️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046157164138659912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 谢谢你嘿嘿嘿\n而且它好好闻喵！\n\n它不是传统意义上的海洋调\n没有棕榈树，椰子和沙滩\n\n更像日落时一片紫红色的光芒下，从昏暗海底慢慢浮起，飘在水面上荧荧闪着粉紫光的水母\n恍惚下分不清海与天的界限，像看着水母在半空中漂浮\n前调相当梦幻；\n\n中调的香草和盐既有着深海的微咸但又意外的甜美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 186,
+          "like_count": 5371,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 1873
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-30T18:43:56.000Z",
+        "description": "Exploring all sorts of art before creating my own (CN/EN/DE)",
+        "id": "1388202412977147904",
+        "name": "Auroveil",
+        "pinned_tweet_id": "1989780067732336986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962190135371448320/3MVdTr0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 471,
+          "like_count": 20388,
+          "listed_count": 1,
+          "media_count": 1394,
+          "tweet_count": 4921
+        },
+        "username": "Ai_Auroveil",
+        "verified": true
+      }
+    ]
+  }
+}

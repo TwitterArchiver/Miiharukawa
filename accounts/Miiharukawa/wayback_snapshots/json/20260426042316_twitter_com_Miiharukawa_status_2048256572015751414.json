@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2048243399569093029",
+    "created_at": "2026-04-26T04:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T05:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048256572015751414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1654009281614876673",
+          "start": 0,
+          "username": "dttvj134915"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048256572015751414",
+    "in_reply_to_user_id": "1654009281614876673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048255884737101918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dttvj134915 不喝了🏳️ 禁酒令下来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2048243399569093029",
+        "created_at": "2026-04-26T04:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048256572015751414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1654009281614876673",
+              "start": 0,
+              "username": "dttvj134915"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048256572015751414",
+        "in_reply_to_user_id": "1654009281614876673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048255884737101918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dttvj134915 不喝了🏳️ 禁酒令下来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654009281614876673",
+        "conversation_id": "2048243399569093029",
+        "created_at": "2026-04-26T04:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048255884737101918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048255884737101918",
+        "in_reply_to_user_id": "1654009281614876673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048255129326149679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 不过你喜欢喝酒，酒精会干扰脂肪代谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "碎碎念bot\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 191,
+          "like_count": 5837,
+          "listed_count": 6,
+          "media_count": 235,
+          "tweet_count": 2159
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T06:25:25.000Z",
+        "description": "",
+        "id": "1654009281614876673",
+        "name": "影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003436653827002368/RGHSlmn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 231,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 58
+        },
+        "username": "dttvj134915",
+        "verified": false
+      }
+    ]
+  }
+}

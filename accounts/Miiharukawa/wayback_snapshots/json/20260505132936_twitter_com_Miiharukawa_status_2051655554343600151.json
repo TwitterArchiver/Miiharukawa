@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2051511577590084024",
+    "created_at": "2026-05-05T13:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T14:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051655554343600151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987421067884048384",
+          "start": 0,
+          "username": "yznb1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051655554343600151",
+    "in_reply_to_user_id": "1987421067884048384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051649603251167596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yznb1234 么么哒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2051511577590084024",
+        "created_at": "2026-05-05T13:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051655554343600151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987421067884048384",
+              "start": 0,
+              "username": "yznb1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051655554343600151",
+        "in_reply_to_user_id": "1987421067884048384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051649603251167596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yznb1234 么么哒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987421067884048384",
+        "conversation_id": "2051511577590084024",
+        "created_at": "2026-05-05T13:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051649603251167596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051649603251167596",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051511577590084024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 榜上有名🥴🤝🏻爱你小遥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 217,
+          "like_count": 6723,
+          "listed_count": 5,
+          "media_count": 259,
+          "tweet_count": 2595
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T07:24:57.000Z",
+        "description": "呵呵",
+        "id": "1987421067884048384",
+        "location": "707",
+        "name": "(＾ω＾)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040669525604212736/vauyoVIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 432,
+          "like_count": 4966,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1147
+        },
+        "username": "yznb1234",
+        "verified": false
+      }
+    ]
+  }
+}

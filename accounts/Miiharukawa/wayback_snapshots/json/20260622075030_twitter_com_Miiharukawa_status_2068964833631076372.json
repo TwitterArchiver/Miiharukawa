@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2068901251107229927",
+    "created_at": "2026-06-22T07:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068964833631076372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1975515958765887488",
+          "start": 0,
+          "username": "Russiaemperor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068964833631076372",
+    "in_reply_to_user_id": "1975515958765887488",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068952825170993245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Russiaemperor wtf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2068901251107229927",
+        "created_at": "2026-06-22T07:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068964833631076372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1975515958765887488",
+              "start": 0,
+              "username": "Russiaemperor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068964833631076372",
+        "in_reply_to_user_id": "1975515958765887488",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068952825170993245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Russiaemperor wtf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975515958765887488",
+        "conversation_id": "2068901251107229927",
+        "created_at": "2026-06-22T07:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068952825170993245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068952825170993245",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068901251107229927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 如果可以 可以录视频吗 我想看😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 241,
+          "like_count": 9542,
+          "listed_count": 6,
+          "media_count": 420,
+          "tweet_count": 3634
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T10:58:33.000Z",
+        "description": "秘传鹅基米主义/无专继革/一党极权/冷酷无情的↗️/不会尊重陆人民国派\n\n小号：@MeruNgManila ＋🛰️私小号，8964入🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "MeruNgManila"
+              }
+            ]
+          }
+        },
+        "id": "1975515958765887488",
+        "location": "军统天津站",
+        "name": "纯良基米鹅禁评😹",
+        "pinned_tweet_id": "2004910071063728634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012906569378168832/0M8MiMcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 1048,
+          "like_count": 52510,
+          "listed_count": 3,
+          "media_count": 454,
+          "tweet_count": 6501
+        },
+        "url": "",
+        "username": "Russiaemperor",
+        "verified": false
+      }
+    ]
+  }
+}

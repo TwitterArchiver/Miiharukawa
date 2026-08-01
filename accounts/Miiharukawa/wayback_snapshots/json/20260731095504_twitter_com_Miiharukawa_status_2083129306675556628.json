@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2083072829919224122",
+    "created_at": "2026-07-31T09:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083129306675556628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2051919325490274304",
+          "start": 0,
+          "username": "Sye2z1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083129306675556628",
+    "in_reply_to_user_id": "2051919325490274304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083072829919224122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sye2z1 咋又这样😭😭😭😭我的小云云"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083072829919224122].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083072829919224122",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083072829919224122"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2083072829919224122",
+        "created_at": "2026-07-31T09:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083129306675556628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2051919325490274304",
+              "start": 0,
+              "username": "Sye2z1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083129306675556628",
+        "in_reply_to_user_id": "2051919325490274304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083072829919224122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sye2z1 咋又这样😭😭😭😭我的小云云"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 253,
+          "like_count": 10864,
+          "listed_count": 10,
+          "media_count": 509,
+          "tweet_count": 4154
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T06:58:16.000Z",
+        "description": "云",
+        "id": "2051919325490274304",
+        "name": "嗦晕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075413458477322240/u-c3P9WY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 187,
+          "like_count": 3048,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 1177
+        },
+        "url": "",
+        "username": "Sye2z1",
+        "verified": false
+      }
+    ]
+  }
+}

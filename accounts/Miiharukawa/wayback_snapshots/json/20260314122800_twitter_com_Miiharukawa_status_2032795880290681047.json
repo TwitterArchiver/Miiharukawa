@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2032793742982394334",
+    "created_at": "2026-03-14T12:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T13:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032795880290681047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909852455082643456",
+          "start": 0,
+          "username": "livent_laughnt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032795880290681047",
+    "in_reply_to_user_id": "1909852455082643456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032794825943060743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@livent_laughnt 朕已登基！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2032793742982394334",
+        "created_at": "2026-03-14T12:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032795880290681047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909852455082643456",
+              "start": 0,
+              "username": "livent_laughnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032795880290681047",
+        "in_reply_to_user_id": "1909852455082643456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032794825943060743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@livent_laughnt 朕已登基！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909852455082643456",
+        "conversation_id": "2032793742982394334",
+        "created_at": "2026-03-14T12:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032794825943060743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032794825943060743",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032793742982394334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 反正上網就是來當皇帝的想發啥發啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 110,
+          "like_count": 1740,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T06:15:43.000Z",
+        "description": "休學結束了我一直在哭",
+        "id": "1909852455082643456",
+        "name": "阿猫阿狗",
+        "pinned_tweet_id": "1990423517578559756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910163047718453248/62LskUud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 308,
+          "like_count": 3968,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1310
+        },
+        "username": "livent_laughnt",
+        "verified": false
+      }
+    ]
+  }
+}

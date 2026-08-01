@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2046466943071449528",
+    "created_at": "2026-04-21T05:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T06:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046467344973844887"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046467344973844887",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046466943071449528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三十块钱不够让你腌一块新鲜鸡排炸给我吃吗😹\n一包咖喱一块冷冻鸡排两颗鸡蛋一碗饭自己做也就十块钱不到吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1789,
+        "media_key": "3_2046466931801432064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGaC1PKboAA3_0V.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2046466943071449528",
+        "created_at": "2026-04-21T05:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T06:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046467344973844887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046467344973844887",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046466943071449528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三十块钱不够让你腌一块新鲜鸡排炸给我吃吗😹\n一包咖喱一块冷冻鸡排两颗鸡蛋一碗饭自己做也就十块钱不到吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046466931801432064"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2046466943071449528",
+        "created_at": "2026-04-21T05:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T06:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046466943071449528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tizLnSuS3L",
+              "end": 86,
+              "expanded_url": "https://x.com/Miiharukawa/status/2046466943071449528/photo/1",
+              "media_key": "3_2046466931801432064",
+              "start": 63,
+              "url": "https://t.co/tizLnSuS3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046466943071449528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得有时候一无所知也是幸福……我今天吃三十块钱的咖喱鸡排蛋包饭\n厨师当我面掏出了冷冻鸡排😹妈逼的我突然觉得好难吃我好难过。 https://t.co/tizLnSuS3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 189,
+          "like_count": 5425,
+          "listed_count": 4,
+          "media_count": 212,
+          "tweet_count": 1904
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

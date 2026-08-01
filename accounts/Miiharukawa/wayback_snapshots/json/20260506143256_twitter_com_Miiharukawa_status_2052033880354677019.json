@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052027923922870274"
+      ],
+      "media_source_tweet_id": [
+        "2052028427553923466"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2052033880354677019",
+    "created_at": "2026-05-06T14:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052033880354677019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1946863961502298112",
+          "start": 3,
+          "username": "Chloris8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/km2AKLGHdi",
+          "end": 112,
+          "expanded_url": "https://x.com/Chloris8964/status/2052028427553923466/video/1",
+          "media_key": "13_2052027923922870274",
+          "start": 89,
+          "url": "https://t.co/km2AKLGHdi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052033880354677019",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052028427553923466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chloris8964: 聽說視頻能引流嗎，我最後再試試，要還沒流量我就卸掉了。\n彈的是自己喜歡的《風の詩》，但是因為一次過所以有的地方彈得不太好請多包容。\n大家晚安。 https://t.co/km2AKLGHdi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 198543,
+        "height": 644,
+        "media_key": "13_2052027923922870274",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052027923922870274/img/Ig6gDhA_qygkZWZ4.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052027923922870274/vid/avc1/536x270/Xup3gwoxjc7NMdFv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052027923922870274/vid/avc1/714x360/rcYV3QkjKTnPfgxU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052027923922870274/vid/avc1/1280x644/2xLDBj1mPZ33jTNq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052027923922870274/pl/tk_UzCPHb2NN8lRz.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052027923922870274"
+          ],
+          "media_source_tweet_id": [
+            "2052028427553923466"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2052033880354677019",
+        "created_at": "2026-05-06T14:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052033880354677019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1946863961502298112",
+              "start": 3,
+              "username": "Chloris8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/km2AKLGHdi",
+              "end": 112,
+              "expanded_url": "https://x.com/Chloris8964/status/2052028427553923466/video/1",
+              "media_key": "13_2052027923922870274",
+              "start": 89,
+              "url": "https://t.co/km2AKLGHdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052033880354677019",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052028427553923466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chloris8964: 聽說視頻能引流嗎，我最後再試試，要還沒流量我就卸掉了。\n彈的是自己喜歡的《風の詩》，但是因為一次過所以有的地方彈得不太好請多包容。\n大家晚安。 https://t.co/km2AKLGHdi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052027923922870274"
+          ]
+        },
+        "author_id": "1946863961502298112",
+        "conversation_id": "2052028427553923466",
+        "created_at": "2026-05-06T14:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052028427553923466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/km2AKLGHdi",
+              "end": 95,
+              "expanded_url": "https://x.com/Chloris8964/status/2052028427553923466/video/1",
+              "media_key": "13_2052027923922870274",
+              "start": 72,
+              "url": "https://t.co/km2AKLGHdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052028427553923466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "聽說視頻能引流嗎，我最後再試試，要還沒流量我就卸掉了。\n彈的是自己喜歡的《風の詩》，但是因為一次過所以有的地方彈得不太好請多包容。\n大家晚安。 https://t.co/km2AKLGHdi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 214,
+          "like_count": 6877,
+          "listed_count": 3,
+          "media_count": 268,
+          "tweet_count": 2675
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T09:25:27.000Z",
+        "description": "性別不明五颜六色的果冻鱼今天依然努力活著",
+        "id": "1946863961502298112",
+        "location": "| ♡˚₊‧꒰ა❤︎໒꒱ ‧₊♡|",
+        "name": "吃果冻的果冻鱼🪼",
+        "pinned_tweet_id": "2052028427553923466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052014657842614272/HgEUj0pS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7489,
+          "following_count": 126,
+          "like_count": 2589,
+          "listed_count": 15,
+          "media_count": 48,
+          "tweet_count": 694
+        },
+        "username": "Chloris8964",
+        "verified": false
+      }
+    ]
+  }
+}

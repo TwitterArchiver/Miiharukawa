@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2068969903114305994",
+    "created_at": "2026-06-22T14:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069058500525973653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1525826659982577665",
+          "start": 0,
+          "username": "loor97439955"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069058500525973653",
+    "in_reply_to_user_id": "1525826659982577665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069025908929990940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loor97439955 你最首要的是卸载星野"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1510,
+        "media_key": "3_2069025900994473984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaoGEPbsAAxVej.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2068969903114305994",
+        "created_at": "2026-06-22T14:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069058500525973653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1525826659982577665",
+              "start": 0,
+              "username": "loor97439955"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069058500525973653",
+        "in_reply_to_user_id": "1525826659982577665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069025908929990940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loor97439955 你最首要的是卸载星野"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069025900994473984"
+          ]
+        },
+        "author_id": "1525826659982577665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068969903114305994",
+        "created_at": "2026-06-22T11:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069025908929990940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vAL0aeip1S",
+              "end": 51,
+              "expanded_url": "https://x.com/loor97439955/status/2069025908929990940/photo/1",
+              "media_key": "3_2069025900994473984",
+              "start": 28,
+              "url": "https://t.co/vAL0aeip1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069025908929990940",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068969903114305994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 当我安慰别人时be like https://t.co/vAL0aeip1S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一遥 遥一遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1928,
+          "following_count": 241,
+          "like_count": 9595,
+          "listed_count": 6,
+          "media_count": 429,
+          "tweet_count": 3664
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T13:14:13.000Z",
+        "description": "不谈论种族和政治，我始终忠于革命忠于我党\n还有一件事，来聊天啊，我好无聊\n还有一件事！！本人的评论纯属玩梗，没有人身攻击的意思，不要太当回事，当个乐子就行",
+        "id": "1525826659982577665",
+        "location": "厕所",
+        "name": "天南羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066275774559305728/SkPnzE4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 203,
+          "listed_count": 4,
+          "media_count": 24,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "loor97439955",
+        "verified": false
+      }
+    ]
+  }
+}

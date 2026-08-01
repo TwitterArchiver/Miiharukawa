@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2055745019001061520",
+    "created_at": "2026-05-17T09:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055941143507161307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1864820482865795072",
+          "start": 0,
+          "username": "zZxy6987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055941143507161307",
+    "in_reply_to_user_id": "1864820482865795072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055745019001061520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zZxy6987 妈妈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2055745019001061520].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2055745019001061520",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2055745019001061520"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2055745019001061520",
+        "created_at": "2026-05-17T09:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055941143507161307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1864820482865795072",
+              "start": 0,
+              "username": "zZxy6987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055941143507161307",
+        "in_reply_to_user_id": "1864820482865795072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055745019001061520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zZxy6987 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 218,
+          "like_count": 7536,
+          "listed_count": 6,
+          "media_count": 306,
+          "tweet_count": 2920
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T23:53:55.000Z",
+        "description": "_(:3 」∠ )_",
+        "id": "1864820482865795072",
+        "location": "Hong Kong",
+        "name": "Camltst",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646070395236352/qo_UZeXm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 79,
+          "like_count": 1815,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2220
+        },
+        "username": "zZxy6987",
+        "verified": false
+      }
+    ]
+  }
+}

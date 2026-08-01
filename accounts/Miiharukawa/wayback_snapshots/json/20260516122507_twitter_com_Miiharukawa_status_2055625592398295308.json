@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2055613151601987807",
+    "created_at": "2026-05-16T12:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055625592398295308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1999008778579230720",
+          "start": 0,
+          "username": "Joey18888888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055625592398295308",
+    "in_reply_to_user_id": "1999008778579230720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055613151601987807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Joey18888888 好漂亮！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1897,
+        "media_key": "3_2055613132429803521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcBQLobQAECNNT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055613132463345664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcBQLwbEAAC4oK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055613132492742657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcBQL3boAErg3r.jpg",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2055613151601987807",
+        "created_at": "2026-05-16T12:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055625592398295308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1999008778579230720",
+              "start": 0,
+              "username": "Joey18888888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055625592398295308",
+        "in_reply_to_user_id": "1999008778579230720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055613151601987807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joey18888888 好漂亮！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055613132429803521",
+            "3_2055613132463345664",
+            "3_2055613132492742657"
+          ]
+        },
+        "author_id": "1999008778579230720",
+        "conversation_id": "2055613151601987807",
+        "created_at": "2026-05-16T11:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055613151601987807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjJNLHAN7x",
+              "end": 43,
+              "expanded_url": "https://x.com/Joey18888888/status/2055613151601987807/photo/1",
+              "media_key": "3_2055613132429803521",
+              "start": 20,
+              "url": "https://t.co/OjJNLHAN7x"
+            },
+            {
+              "display_url": "pic.x.com/OjJNLHAN7x",
+              "end": 43,
+              "expanded_url": "https://x.com/Joey18888888/status/2055613151601987807/photo/1",
+              "media_key": "3_2055613132463345664",
+              "start": 20,
+              "url": "https://t.co/OjJNLHAN7x"
+            },
+            {
+              "display_url": "pic.x.com/OjJNLHAN7x",
+              "end": 43,
+              "expanded_url": "https://x.com/Joey18888888/status/2055613151601987807/photo/1",
+              "media_key": "3_2055613132492742657",
+              "start": 20,
+              "url": "https://t.co/OjJNLHAN7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055613151601987807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又是上班日 不过染了新发色还是化个妆吧 https://t.co/OjJNLHAN7x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 218,
+          "like_count": 7479,
+          "listed_count": 6,
+          "media_count": 304,
+          "tweet_count": 2904
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:50:19.000Z",
+        "description": "静待花开 专心经营我的屌丝生活先咯\n（和论文死过中）",
+        "id": "1999008778579230720",
+        "name": "Joey",
+        "pinned_tweet_id": "2024401326340522457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038293659775582208/CVgT9jiE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 344,
+          "like_count": 15355,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 914
+        },
+        "username": "Joey18888888",
+        "verified": false
+      }
+    ]
+  }
+}

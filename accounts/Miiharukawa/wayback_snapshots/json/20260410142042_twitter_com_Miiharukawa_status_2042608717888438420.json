@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2042606517942391123",
+    "created_at": "2026-04-10T14:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042608717888438420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1817803292875083776",
+          "start": 0,
+          "username": "utlramanzero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042608717888438420",
+    "in_reply_to_user_id": "1817803292875083776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042607433747456395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@utlramanzero 草饲你们！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2042606517942391123",
+        "created_at": "2026-04-10T14:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042608717888438420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1817803292875083776",
+              "start": 0,
+              "username": "utlramanzero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042608717888438420",
+        "in_reply_to_user_id": "1817803292875083776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042607433747456395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utlramanzero 草饲你们！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817803292875083776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2042606517942391123",
+        "created_at": "2026-04-10T14:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042607433747456395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042607433747456395",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042606517942391123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 社会学上认为，在社交媒体发表任何言论都是社交欲求的表现，既“希望有人回应我的社交请求”，故此大抵是要输出吸引自己想要的对象的内容，便也要做顾虑，否则不如挖个坑撅着屁股对里面喊“皇帝的耳朵是驴子的耳朵！”~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 172,
+          "like_count": 4729,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 1572
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T06:04:20.000Z",
+        "description": "a big bear/非职业捧哏运动员/垃圾桶神功小成/顺直男老登/话唠",
+        "id": "1817803292875083776",
+        "location": "308669906@qq.com",
+        "name": "Mr.North",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869266250876243968/LLy6ZOXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 132,
+          "like_count": 6744,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 2806
+        },
+        "username": "utlramanzero",
+        "verified": false
+      }
+    ]
+  }
+}

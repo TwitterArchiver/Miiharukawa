@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2065224256351506923",
+    "created_at": "2026-06-12T11:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065398037644795958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1357176687318888448",
+          "start": 0,
+          "username": "FuckChina8964_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065398037644795958",
+    "in_reply_to_user_id": "1357176687318888448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065396275684798665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FuckChina8964_ 居然吗！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2065224256351506923",
+        "created_at": "2026-06-12T11:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065398037644795958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1357176687318888448",
+              "start": 0,
+              "username": "FuckChina8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065398037644795958",
+        "in_reply_to_user_id": "1357176687318888448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065396275684798665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuckChina8964_ 居然吗！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357176687318888448",
+        "conversation_id": "2065224256351506923",
+        "created_at": "2026-06-12T11:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065396275684798665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065396275684798665",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065224256351506923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 其实朋友圈多人就会推流，有些朋友圈是看不到的，说人躺列的感觉是列表太少了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336260852609024/hwUXUhmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 235,
+          "like_count": 9242,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 3530
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T03:58:47.000Z",
+        "description": "/顺直/土逼/精分/残疾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yaya383237",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yaya383237",
+                "start": 0,
+                "url": "https://t.co/TfJ4SRiVn1"
+              }
+            ]
+          }
+        },
+        "id": "1357176687318888448",
+        "location": "骂我的下辈子还是中国人",
+        "name": "集美猪蹄改花刀十三刀没出血",
+        "pinned_tweet_id": "2044412599518019682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796513060435496961/0u01y7cZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 398,
+          "like_count": 2231,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1201
+        },
+        "url": "https://t.co/TfJ4SRiVn1",
+        "username": "FuckChina8964_",
+        "verified": false
+      }
+    ]
+  }
+}

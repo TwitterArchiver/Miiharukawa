@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2082460261366243444",
+    "created_at": "2026-07-29T14:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082468245970579887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1991976361356124160",
+          "start": 0,
+          "username": "YUANccorz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082468245970579887",
+    "in_reply_to_user_id": "1991976361356124160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082460261366243444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUANccorz 可爱小天使去看电影呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082460252793118720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZikQqaoAAkerY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082460252730167297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZikQbaEAEUzmt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 778,
+        "media_key": "3_2082460252839243776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZikQ1acAAwoyK.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082460252784795648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZikQoboAAWWPH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2082460261366243444",
+        "created_at": "2026-07-29T14:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082468245970579887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1991976361356124160",
+              "start": 0,
+              "username": "YUANccorz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082468245970579887",
+        "in_reply_to_user_id": "1991976361356124160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082460261366243444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUANccorz 可爱小天使去看电影呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082460252793118720",
+            "3_2082460252730167297",
+            "3_2082460252839243776",
+            "3_2082460252784795648"
+          ]
+        },
+        "author_id": "1991976361356124160",
+        "conversation_id": "2082460261366243444",
+        "created_at": "2026-07-29T13:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082460261366243444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BpDh9Gbnq",
+              "end": 26,
+              "expanded_url": "https://x.com/YUANccorz/status/2082460261366243444/photo/1",
+              "media_key": "3_2082460252793118720",
+              "start": 3,
+              "url": "https://t.co/1BpDh9Gbnq"
+            },
+            {
+              "display_url": "pic.x.com/1BpDh9Gbnq",
+              "end": 26,
+              "expanded_url": "https://x.com/YUANccorz/status/2082460261366243444/photo/1",
+              "media_key": "3_2082460252730167297",
+              "start": 3,
+              "url": "https://t.co/1BpDh9Gbnq"
+            },
+            {
+              "display_url": "pic.x.com/1BpDh9Gbnq",
+              "end": 26,
+              "expanded_url": "https://x.com/YUANccorz/status/2082460261366243444/photo/1",
+              "media_key": "3_2082460252839243776",
+              "start": 3,
+              "url": "https://t.co/1BpDh9Gbnq"
+            },
+            {
+              "display_url": "pic.x.com/1BpDh9Gbnq",
+              "end": 26,
+              "expanded_url": "https://x.com/YUANccorz/status/2082460261366243444/photo/1",
+              "media_key": "3_2082460252784795648",
+              "start": 3,
+              "url": "https://t.co/1BpDh9Gbnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082460261366243444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦 https://t.co/1BpDh9Gbnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2137,
+          "following_count": 256,
+          "like_count": 10834,
+          "listed_count": 10,
+          "media_count": 506,
+          "tweet_count": 4135
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T21:05:55.000Z",
+        "description": "ㅂㅇㅂㅅㅂ",
+        "id": "1991976361356124160",
+        "name": "小缘",
+        "pinned_tweet_id": "2060546421284303112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075809190539644928/Wdu2bidb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 86,
+          "like_count": 9977,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 2015
+        },
+        "url": "",
+        "username": "YUANccorz",
+        "verified": false
+      }
+    ]
+  }
+}

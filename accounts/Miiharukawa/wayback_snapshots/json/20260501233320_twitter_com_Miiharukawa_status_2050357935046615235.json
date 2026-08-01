@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2050357935046615235",
+    "created_at": "2026-05-01T23:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T00:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050357935046615235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2043058360682209280",
+          "start": 3,
+          "username": "penguinecotmv0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050357935046615235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050072953061314781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @penguinecotmv0: 装深情的人都是表演型人格自私还容易破防"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2050357935046615235",
+        "created_at": "2026-05-01T23:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T00:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050357935046615235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2043058360682209280",
+              "start": 3,
+              "username": "penguinecotmv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050357935046615235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050072953061314781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @penguinecotmv0: 装深情的人都是表演型人格自私还容易破防"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043058360682209280",
+        "conversation_id": "2050072953061314781",
+        "created_at": "2026-05-01T04:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050072953061314781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050072953061314781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2478,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "装深情的人都是表演型人格自私还容易破防"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "重度百合豚  专发碎碎念\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 212,
+          "like_count": 6420,
+          "listed_count": 5,
+          "media_count": 251,
+          "tweet_count": 2445
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T20:07:56.000Z",
+        "description": "我只想有个地方能说一些平时不敢说的话",
+        "id": "2043058360682209280",
+        "name": "penguineco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043074678789672962/92dYhDNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 45,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 151
+        },
+        "username": "penguinecotmv0",
+        "verified": false
+      }
+    ]
+  }
+}

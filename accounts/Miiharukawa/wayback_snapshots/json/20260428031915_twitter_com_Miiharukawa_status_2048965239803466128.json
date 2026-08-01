@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2048795834742128797",
+    "created_at": "2026-04-28T03:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T04:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048965239803466128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1640395162953334786",
+          "start": 0,
+          "username": "GUYUAN81729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048965239803466128",
+    "in_reply_to_user_id": "1640395162953334786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048941990067515501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GUYUAN81729 我要向你学习。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2048795834742128797",
+        "created_at": "2026-04-28T03:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048965239803466128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1640395162953334786",
+              "start": 0,
+              "username": "GUYUAN81729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048965239803466128",
+        "in_reply_to_user_id": "1640395162953334786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048941990067515501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GUYUAN81729 我要向你学习。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640395162953334786",
+        "conversation_id": "2048795834742128797",
+        "created_at": "2026-04-28T01:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048941990067515501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048941990067515501",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048795834742128797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 因为不想根管靠甲硝唑和三黄片硬扛到牙髓炎消炎了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 194,
+          "like_count": 5983,
+          "listed_count": 6,
+          "media_count": 239,
+          "tweet_count": 2243
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T16:47:56.000Z",
+        "description": "珍惜天赋，保持悲悯✨‖普通想亖女大且同人女，内容随机掉落",
+        "id": "1640395162953334786",
+        "location": "中国CHINA",
+        "name": "故渊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640395727783497729/ov5N9xWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 70,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 108
+        },
+        "username": "GUYUAN81729",
+        "verified": false
+      }
+    ]
+  }
+}

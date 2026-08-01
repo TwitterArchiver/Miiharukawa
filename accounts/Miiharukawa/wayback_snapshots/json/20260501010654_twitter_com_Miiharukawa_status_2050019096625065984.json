@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050019086198063104"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2050019096625065984",
+    "created_at": "2026-05-01T01:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T02:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050019096625065984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FUexrez1FY",
+          "end": 43,
+          "expanded_url": "https://x.com/Miiharukawa/status/2050019096625065984/photo/1",
+          "media_key": "3_2050019086198063104",
+          "start": 20,
+          "url": "https://t.co/FUexrez1FY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050019096625065984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有五一想奢侈一把的，我这有个收款码 https://t.co/FUexrez1FY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_2050019086198063104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHMhf1ebQAAqQxw.jpg",
+        "width": 625
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050019086198063104"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2050019096625065984",
+        "created_at": "2026-05-01T01:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T02:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050019096625065984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FUexrez1FY",
+              "end": 43,
+              "expanded_url": "https://x.com/Miiharukawa/status/2050019096625065984/photo/1",
+              "media_key": "3_2050019086198063104",
+              "start": 20,
+              "url": "https://t.co/FUexrez1FY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050019096625065984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有五一想奢侈一把的，我这有个收款码 https://t.co/FUexrez1FY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "重度百合豚  专发碎碎念\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 210,
+          "like_count": 6341,
+          "listed_count": 5,
+          "media_count": 251,
+          "tweet_count": 2422
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

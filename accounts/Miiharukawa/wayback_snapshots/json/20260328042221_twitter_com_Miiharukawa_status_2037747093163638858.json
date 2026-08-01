@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2037509933252726894",
+    "created_at": "2026-03-28T04:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T05:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037747093163638858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2003562997604823040",
+          "start": 0,
+          "username": "chengorange777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037747093163638858",
+    "in_reply_to_user_id": "2003562997604823040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037509933252726894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengorange777 全身上下唯一的优点就是找学校给自己贴金了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2037509933252726894",
+        "created_at": "2026-03-28T04:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037747093163638858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2003562997604823040",
+              "start": 0,
+              "username": "chengorange777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037747093163638858",
+        "in_reply_to_user_id": "2003562997604823040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037509933252726894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengorange777 全身上下唯一的优点就是找学校给自己贴金了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003562997604823040",
+        "conversation_id": "2037509933252726894",
+        "created_at": "2026-03-27T12:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037509933252726894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037509933252726894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都墙外了，来跟我自我介绍为啥还要写学校啊😂并且也不是什么好学校…至少我学校比他好的多…实在是看不懂，喜欢优绩主义就在墙内呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 152,
+          "like_count": 3677,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 1137
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T20:27:16.000Z",
+        "description": "小桔🍊\n🔮搞点塔罗和水晶\n🖤生活离不开扔笔吊\n🩶爱听音声爱看文|可能的话会产出\n🤍嘴很毒 会预防性拉黑",
+        "id": "2003562997604823040",
+        "name": "小桔不是程子",
+        "pinned_tweet_id": "2025247323996258425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003567055929499648/4l09gn_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 89,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 227
+        },
+        "username": "chengorange777",
+        "verified": false
+      }
+    ]
+  }
+}

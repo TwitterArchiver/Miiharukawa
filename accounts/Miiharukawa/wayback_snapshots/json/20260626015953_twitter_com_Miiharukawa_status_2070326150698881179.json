@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2070326150698881179",
+    "created_at": "2026-06-26T01:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T02:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070326150698881179"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miiharukawa/st…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/miiharukawa/status/2070002128530395530",
+          "start": 32,
+          "url": "https://t.co/SVOfF1hkoO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070326150698881179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070002128530395530",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我只是在感慨。江西理科二本线412呢。我历史0分都有412了😢 https://t.co/SVOfF1hkoO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2070326150698881179",
+        "created_at": "2026-06-26T01:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070326150698881179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miiharukawa/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/miiharukawa/status/2070002128530395530",
+              "start": 32,
+              "url": "https://t.co/SVOfF1hkoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070326150698881179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070002128530395530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只是在感慨。江西理科二本线412呢。我历史0分都有412了😢 https://t.co/SVOfF1hkoO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2070002128530395530",
+        "created_at": "2026-06-25T04:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070002128530395530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070002128530395530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 55808,
+          "like_count": 1092,
+          "quote_count": 6,
+          "reply_count": 94,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "好想回到中世纪文科生可以烧死理科生的时候。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一遥 遥一遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2019,
+          "following_count": 245,
+          "like_count": 9844,
+          "listed_count": 6,
+          "media_count": 444,
+          "tweet_count": 3743
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

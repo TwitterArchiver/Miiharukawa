@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2031336542434897969",
+    "created_at": "2026-03-10T11:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T12:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031338983616295046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1169927656055300099",
+          "start": 0,
+          "username": "gwq6661"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031338983616295046",
+    "in_reply_to_user_id": "1169927656055300099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031338116930584639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gwq6661 想到之前有个闺蜜我请她喝星巴克她讲了半个小时的不好喝说还不如喝古茗 请她做美甲还怪我排在她前面让她久等……😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2031336542434897969",
+        "created_at": "2026-03-10T11:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031338983616295046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1169927656055300099",
+              "start": 0,
+              "username": "gwq6661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031338983616295046",
+        "in_reply_to_user_id": "1169927656055300099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031338116930584639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gwq6661 想到之前有个闺蜜我请她喝星巴克她讲了半个小时的不好喝说还不如喝古茗 请她做美甲还怪我排在她前面让她久等……😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1169927656055300099",
+        "conversation_id": "2031336542434897969",
+        "created_at": "2026-03-10T11:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031338116930584639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031338116930584639",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031336542434897969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 我去 我朋友对我付出我都会记在心里且会有回报的 当作理所当然的人不知道什么心理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 88,
+          "like_count": 921,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-06T10:57:51.000Z",
+        "description": "",
+        "id": "1169927656055300099",
+        "location": "NGC 2237  ",
+        "name": "JOJO（上班版）",
+        "pinned_tweet_id": "1734223763414372592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948787428992651264/yuJCXNth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3763,
+          "following_count": 751,
+          "like_count": 8827,
+          "listed_count": 16,
+          "media_count": 328,
+          "tweet_count": 13141
+        },
+        "username": "gwq6661",
+        "verified": false
+      }
+    ]
+  }
+}

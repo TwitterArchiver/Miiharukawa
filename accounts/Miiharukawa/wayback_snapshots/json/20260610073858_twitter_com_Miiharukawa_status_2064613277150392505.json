@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2064598774899683803",
+    "created_at": "2026-06-10T07:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064613277150392505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "《今天你卖的是什么腿？》是一款关于流量、诚信与校园烟火气的虚构讽刺经营游戏。",
+          "display_url": "stupid-students.pages.dev",
+          "end": 23,
+          "expanded_url": "https://stupid-students.pages.dev/",
+          "start": 0,
+          "status": 200,
+          "title": "今天你卖的是什么腿？",
+          "unwound_url": "https://stupid-students.pages.dev/",
+          "url": "https://t.co/FfhMwixaeT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064613277150392505",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064598774899683803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/FfhMwixaeT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 783,
+        "media_key": "3_2064598765202485248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbto2OasAAq7T6.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2064598774899683803",
+        "created_at": "2026-06-10T07:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064613277150392505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "《今天你卖的是什么腿？》是一款关于流量、诚信与校园烟火气的虚构讽刺经营游戏。",
+              "display_url": "stupid-students.pages.dev",
+              "end": 23,
+              "expanded_url": "https://stupid-students.pages.dev/",
+              "start": 0,
+              "status": 200,
+              "title": "今天你卖的是什么腿？",
+              "unwound_url": "https://stupid-students.pages.dev/",
+              "url": "https://t.co/FfhMwixaeT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064613277150392505",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064598774899683803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/FfhMwixaeT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064598765202485248"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2064598774899683803",
+        "created_at": "2026-06-10T06:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064598774899683803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tfZaDcMZrj",
+              "end": 50,
+              "expanded_url": "https://x.com/Miiharukawa/status/2064598774899683803/photo/1",
+              "media_key": "3_2064598765202485248",
+              "start": 27,
+              "url": "https://t.co/tfZaDcMZrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064598774899683803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鹅罗斯娜娜是有本事赚钱的👍 她说这是她拿蔬菜汁腌制的 https://t.co/tfZaDcMZrj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064206097993629696/hG17hldS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 238,
+          "like_count": 9107,
+          "listed_count": 6,
+          "media_count": 396,
+          "tweet_count": 3483
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

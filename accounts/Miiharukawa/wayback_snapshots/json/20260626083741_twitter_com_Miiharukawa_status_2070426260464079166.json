@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2070421661007192277",
+    "created_at": "2026-06-26T08:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070426260464079166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031363005557211136",
+          "start": 0,
+          "username": "Maruitikyuutan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070426260464079166",
+    "in_reply_to_user_id": "2031363005557211136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070421661007192277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maruitikyuutan 如此萌萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070421645412782080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLudhFYb0AAcMUb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2070421661007192277",
+        "created_at": "2026-06-26T08:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070426260464079166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031363005557211136",
+              "start": 0,
+              "username": "Maruitikyuutan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070426260464079166",
+        "in_reply_to_user_id": "2031363005557211136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070421661007192277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maruitikyuutan 如此萌萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070421645412782080"
+          ]
+        },
+        "author_id": "2031363005557211136",
+        "conversation_id": "2070421661007192277",
+        "created_at": "2026-06-26T08:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070421661007192277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T4afHK07Ld",
+              "end": 30,
+              "expanded_url": "https://x.com/Maruitikyuutan/status/2070421661007192277/photo/1",
+              "media_key": "3_2070421645412782080",
+              "start": 7,
+              "url": "https://t.co/T4afHK07Ld"
+            },
+            {
+              "display_url": "x.com/maruitikyuutan…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/maruitikyuutan/status/2070376940666782115",
+              "start": 31,
+              "url": "https://t.co/7LVsLZanfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070421661007192277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070376940666782115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天是这个🐰 https://t.co/T4afHK07Ld https://t.co/7LVsLZanfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一遥 遥一遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2023,
+          "following_count": 245,
+          "like_count": 9869,
+          "listed_count": 7,
+          "media_count": 447,
+          "tweet_count": 3751
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T13:36:00.000Z",
+        "description": "中国語日本語⭕️｜人間女| maimaiオンゲキ プロセカ Apex Overwatch cosplay イラスト｜20歳↓|関東|夏色花梨推しです。ぜひ！仲良くなってください🎵日本語垢@Tikyumaru 婚前财产@creeper_tcd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Tikyumaru"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "creeper_tcd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/03861a82-a24b-…",
+                "end": 23,
+                "expanded_url": "https://lit.link/03861a82-a24b-48f3-805c-56d10e6aeba8",
+                "start": 0,
+                "url": "https://t.co/IhCzB5rHu3"
+              }
+            ]
+          }
+        },
+        "id": "2031363005557211136",
+        "name": "地球丸（草莓牛奶版）",
+        "pinned_tweet_id": "2068747330707460547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033983240986669057/ij9VUtk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 126,
+          "like_count": 1647,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/IhCzB5rHu3",
+        "username": "Maruitikyuutan",
+        "verified": false
+      }
+    ]
+  }
+}

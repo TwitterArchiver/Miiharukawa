@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069015812254687232",
+        "3_2069015812271456256"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2068968549419450652",
+    "created_at": "2026-06-22T11:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069015819846328557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1652200117494231043",
+          "start": 0,
+          "username": "OuO_QwQg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fEAt1utIGx",
+          "end": 47,
+          "expanded_url": "https://x.com/Miiharukawa/status/2069015819846328557/photo/1",
+          "media_key": "3_2069015812254687232",
+          "start": 24,
+          "url": "https://t.co/fEAt1utIGx"
+        },
+        {
+          "display_url": "pic.x.com/fEAt1utIGx",
+          "end": 47,
+          "expanded_url": "https://x.com/Miiharukawa/status/2069015819846328557/photo/1",
+          "media_key": "3_2069015812271456256",
+          "start": 24,
+          "url": "https://t.co/fEAt1utIGx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069015819846328557",
+    "in_reply_to_user_id": "1652200117494231043",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069011502837957100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO_QwQg 懒惰害了我_(:з」∠)_ https://t.co/fEAt1utIGx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_2069015812254687232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLae60wbYAAmN1p.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1554,
+        "media_key": "3_2069015812271456256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLae600bQAA5mj8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069015812254687232",
+            "3_2069015812271456256"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2068968549419450652",
+        "created_at": "2026-06-22T11:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069015819846328557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1652200117494231043",
+              "start": 0,
+              "username": "OuO_QwQg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEAt1utIGx",
+              "end": 47,
+              "expanded_url": "https://x.com/Miiharukawa/status/2069015819846328557/photo/1",
+              "media_key": "3_2069015812254687232",
+              "start": 24,
+              "url": "https://t.co/fEAt1utIGx"
+            },
+            {
+              "display_url": "pic.x.com/fEAt1utIGx",
+              "end": 47,
+              "expanded_url": "https://x.com/Miiharukawa/status/2069015819846328557/photo/1",
+              "media_key": "3_2069015812271456256",
+              "start": 24,
+              "url": "https://t.co/fEAt1utIGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069015819846328557",
+        "in_reply_to_user_id": "1652200117494231043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069011502837957100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO_QwQg 懒惰害了我_(:з」∠)_ https://t.co/fEAt1utIGx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2068968549419450652",
+        "created_at": "2026-06-22T10:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069011502837957100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069011502837957100",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068968549419450652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 想看看你画的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1928,
+          "following_count": 241,
+          "like_count": 9560,
+          "listed_count": 6,
+          "media_count": 425,
+          "tweet_count": 3644
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027768091149840384/B-OhTElb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 69,
+          "like_count": 12042,
+          "listed_count": 4,
+          "media_count": 398,
+          "tweet_count": 4877
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "OuO_QwQg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2069016125652992352",
+    "created_at": "2026-06-25T05:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070015579352879399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2004942307062415364",
+          "start": 0,
+          "username": "Kirara09i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070015579352879399",
+    "in_reply_to_user_id": "2004942307062415364",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070003136237068367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirara09i 哼哧哼哧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2069016125652992352",
+        "created_at": "2026-06-25T05:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070015579352879399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2004942307062415364",
+              "start": 0,
+              "username": "Kirara09i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070015579352879399",
+        "in_reply_to_user_id": "2004942307062415364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070003136237068367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirara09i 哼哧哼哧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004942307062415364",
+        "conversation_id": "2069016125652992352",
+        "created_at": "2026-06-25T04:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070003136237068367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070003136237068367",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069016125652992352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 小猪小猪呼噜噜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一遥 遥一遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 243,
+          "like_count": 9816,
+          "listed_count": 6,
+          "media_count": 443,
+          "tweet_count": 3734
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T15:48:10.000Z",
+        "description": "🇨🇳中国人、日本語初心者。アニメ・漫画好きです。",
+        "id": "2004942307062415364",
+        "name": "Kirara",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016073702849249280/DvUs392F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 48,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 481
+        },
+        "url": "",
+        "username": "Kirara09i",
+        "verified": false
+      }
+    ]
+  }
+}

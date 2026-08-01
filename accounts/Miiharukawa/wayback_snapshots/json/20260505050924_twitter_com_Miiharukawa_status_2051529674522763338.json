@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2051529196435034594",
+    "created_at": "2026-05-05T05:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T06:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051529674522763338"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051529674522763338",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051529196435034594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也不是真的完全没朋友，是没有适合一起吃饭的朋友🏳️\n和聊不来或者气氛不融洽的朋友出去吃饭会很煎熬的\n聊得来的朋友又有胃病经常吃一半倒下了不敢约"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2051529196435034594",
+        "created_at": "2026-05-05T05:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051529674522763338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051529674522763338",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051529196435034594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也不是真的完全没朋友，是没有适合一起吃饭的朋友🏳️\n和聊不来或者气氛不融洽的朋友出去吃饭会很煎熬的\n聊得来的朋友又有胃病经常吃一半倒下了不敢约"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2051529196435034594",
+        "created_at": "2026-05-05T05:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051529196435034594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051529196435034594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥肉蟹煲不能做个单人餐……点开团购发现周围的都是双人餐，翻来翻去发现我们这些没有朋友的只适合吃快餐。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 215,
+          "like_count": 6670,
+          "listed_count": 5,
+          "media_count": 256,
+          "tweet_count": 2569
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

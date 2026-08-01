@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2050383000421167539",
+    "created_at": "2026-05-02T01:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T02:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050383000421167539"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050383000421167539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "东亚父母的爱实在是太重力。他们只会把一切认为对你好的东西都塞给你，不问你想不想要愿不愿意。希望你懂他们的良苦用心。于是在这样环境下长大的小孩也潜移默化，用他们觉得“为对方好”的方式去爱别人。有些时候并不能批评他们，毕竟他们从小感受到的爱就是这样的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2050383000421167539",
+        "created_at": "2026-05-02T01:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T02:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050383000421167539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050383000421167539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "东亚父母的爱实在是太重力。他们只会把一切认为对你好的东西都塞给你，不问你想不想要愿不愿意。希望你懂他们的良苦用心。于是在这样环境下长大的小孩也潜移默化，用他们觉得“为对方好”的方式去爱别人。有些时候并不能批评他们，毕竟他们从小感受到的爱就是这样的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "Infp 重度百合豚 专发碎碎念\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 212,
+          "like_count": 6424,
+          "listed_count": 5,
+          "media_count": 251,
+          "tweet_count": 2449
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

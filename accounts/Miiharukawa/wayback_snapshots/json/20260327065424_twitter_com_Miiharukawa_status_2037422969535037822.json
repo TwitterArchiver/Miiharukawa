@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2037406018880393582",
+    "created_at": "2026-03-27T06:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T07:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037422969535037822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1742117453809725440",
+          "start": 0,
+          "username": "eclia121739922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037422969535037822",
+    "in_reply_to_user_id": "1742117453809725440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037406018880393582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eclia121739922 我没有这个贴纸（打滚）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2037405965029650432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZR7jjasAAYcZM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037405965000351744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZR7jcboAAt3w0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2037405964991950848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZR7jabcAATIeC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037405964979343360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZR7jXbEAA68g6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2037406018880393582",
+        "created_at": "2026-03-27T06:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037422969535037822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1742117453809725440",
+              "start": 0,
+              "username": "eclia121739922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037422969535037822",
+        "in_reply_to_user_id": "1742117453809725440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037406018880393582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eclia121739922 我没有这个贴纸（打滚）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037405965029650432",
+            "3_2037405965000351744",
+            "3_2037405964991950848",
+            "3_2037405964979343360"
+          ]
+        },
+        "author_id": "1742117453809725440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037406018880393582",
+        "created_at": "2026-03-27T05:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037406018880393582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IrVcMTTuTO",
+              "end": 48,
+              "expanded_url": "https://x.com/eclia121739922/status/2037406018880393582/photo/1",
+              "media_key": "3_2037405965029650432",
+              "start": 25,
+              "url": "https://t.co/IrVcMTTuTO"
+            },
+            {
+              "display_url": "pic.x.com/IrVcMTTuTO",
+              "end": 48,
+              "expanded_url": "https://x.com/eclia121739922/status/2037406018880393582/photo/1",
+              "media_key": "3_2037405965000351744",
+              "start": 25,
+              "url": "https://t.co/IrVcMTTuTO"
+            },
+            {
+              "display_url": "pic.x.com/IrVcMTTuTO",
+              "end": 48,
+              "expanded_url": "https://x.com/eclia121739922/status/2037406018880393582/photo/1",
+              "media_key": "3_2037405964991950848",
+              "start": 25,
+              "url": "https://t.co/IrVcMTTuTO"
+            },
+            {
+              "display_url": "pic.x.com/IrVcMTTuTO",
+              "end": 48,
+              "expanded_url": "https://x.com/eclia121739922/status/2037406018880393582/photo/1",
+              "media_key": "3_2037405964979343360",
+              "start": 25,
+              "url": "https://t.co/IrVcMTTuTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037406018880393582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请假只为吃烤联动（\n顺便必胜客的汉堡居然意的好吃 https://t.co/IrVcMTTuTO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 150,
+          "like_count": 3596,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T09:35:55.000Z",
+        "description": "玉玉/精分/08/我是冰西瓜/女子高中生（上学ing/",
+        "id": "1742117453809725440",
+        "name": "eclia1217🦊（万达附近版）",
+        "pinned_tweet_id": "1935795793702891698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923369878775603200/ifhistqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 234,
+          "like_count": 324,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 415
+        },
+        "username": "eclia121739922",
+        "verified": false
+      }
+    ]
+  }
+}

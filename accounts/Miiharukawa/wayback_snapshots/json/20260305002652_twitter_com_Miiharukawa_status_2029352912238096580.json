@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2029352912238096580",
+    "created_at": "2026-03-05T00:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T01:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029352912238096580"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029352912238096580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为小时候总是没有能力去得到想要的东西，总是特别弱小，生病了总是要等妈妈带我去看，难过的时候也希望妈妈发现。她是我小小世界里唯一可以依靠的大人。\n不知不觉产生了依赖性吧。\n但即使母亲在身边也依旧缺失母爱呢，总是被忽视。在独立的同时渴望着依赖“妈妈”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2029352912238096580",
+        "created_at": "2026-03-05T00:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T01:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029352912238096580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029352912238096580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为小时候总是没有能力去得到想要的东西，总是特别弱小，生病了总是要等妈妈带我去看，难过的时候也希望妈妈发现。她是我小小世界里唯一可以依靠的大人。\n不知不觉产生了依赖性吧。\n但即使母亲在身边也依旧缺失母爱呢，总是被忽视。在独立的同时渴望着依赖“妈妈”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2028818677131559381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 28,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 41
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

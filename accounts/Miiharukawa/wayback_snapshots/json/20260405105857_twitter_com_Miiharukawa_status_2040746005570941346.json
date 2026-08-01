@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2040746005570941346",
+    "created_at": "2026-04-05T10:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T11:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040746005570941346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chengorange777…",
+          "end": 138,
+          "expanded_url": "https://twitter.com/chengorange777/status/2040740185588281844",
+          "start": 115,
+          "url": "https://t.co/QCJbpH7x40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040746005570941346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040740185588281844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "防止我塌房我先说\n本人提前说一下聊骚、钓鱼、忘本、聊h、死装、吃里扒外，装纯情，立人设、搞暧昧、高p、爱看擦边、拜金、PUA、冷暴力、自私、虚伪、好吃懒做、素质低下、爱耍流氓、好色哭穷，看别人长得漂亮就骚扰人家，我全干过这是真的 https://t.co/QCJbpH7x40"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2040746005570941346",
+        "created_at": "2026-04-05T10:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040746005570941346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chengorange777…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/chengorange777/status/2040740185588281844",
+              "start": 115,
+              "url": "https://t.co/QCJbpH7x40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040746005570941346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040740185588281844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "防止我塌房我先说\n本人提前说一下聊骚、钓鱼、忘本、聊h、死装、吃里扒外，装纯情，立人设、搞暧昧、高p、爱看擦边、拜金、PUA、冷暴力、自私、虚伪、好吃懒做、素质低下、爱耍流氓、好色哭穷，看别人长得漂亮就骚扰人家，我全干过这是真的 https://t.co/QCJbpH7x40"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003562997604823040",
+        "conversation_id": "2040740185588281844",
+        "created_at": "2026-04-05T10:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040740185588281844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yigetangxindan…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/yigetangxindan/status/2038676057692188814",
+              "start": 115,
+              "url": "https://t.co/m35IKlU8w9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040740185588281844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038676057692188814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "防止我塌房我先说\n本人提前说一下聊骚、钓鱼、忘本、聊h、死装、吃里扒外，装纯情，立人设、搞暧昧、高p、爱看擦边、拜金、PUA、冷暴力、自私、虚伪、好吃懒做、素质低下、爱耍流氓、好色哭穷，看别人长得漂亮就骚扰人家，我全干过这是真的 https://t.co/m35IKlU8w9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 167,
+          "like_count": 4312,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 1366
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T20:27:16.000Z",
+        "description": "CN/EN. 小桔Orange🍊\n🔮塔罗&水晶个人玩家\n🖤喜欢音声|可能产出\n🩶嘴很毒 会预防性拉黑\n🤍https://t.co/zMlI8nnTxW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chengorange",
+                "end": 75,
+                "expanded_url": "https://ngl.link/chengorange",
+                "start": 52,
+                "url": "https://t.co/zMlI8nnTxW"
+              }
+            ]
+          }
+        },
+        "id": "2003562997604823040",
+        "name": "小桔不是程子",
+        "pinned_tweet_id": "2038321485992140951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003567055929499648/4l09gn_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 162,
+          "like_count": 1031,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 567
+        },
+        "username": "chengorange777",
+        "verified": false
+      }
+    ]
+  }
+}

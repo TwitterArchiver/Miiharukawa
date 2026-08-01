@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2044622391717101736",
+    "created_at": "2026-04-17T02:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T03:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044966040078356855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1707825450532352000",
+          "start": 0,
+          "username": "xiayezileaf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044966040078356855",
+    "in_reply_to_user_id": "1707825450532352000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044965463713882323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiayezileaf 屁！原味鸡是最咸的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2044622391717101736",
+        "created_at": "2026-04-17T02:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T03:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044966040078356855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707825450532352000",
+              "start": 0,
+              "username": "xiayezileaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044966040078356855",
+        "in_reply_to_user_id": "1707825450532352000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044965463713882323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiayezileaf 屁！原味鸡是最咸的😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707825450532352000",
+        "conversation_id": "2044622391717101736",
+        "created_at": "2026-04-17T02:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T03:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044965463713882323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044965463713882323",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044622391717101736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 不好次，原味鸡太淡了感觉，没味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 177,
+          "like_count": 5067,
+          "listed_count": 4,
+          "media_count": 201,
+          "tweet_count": 1754
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-29T18:31:53.000Z",
+        "description": "可以一起打游戏吗（ps:玩电脑）\n单纯无聊刷推，感觉有意思，主国内平台\n翻墙是为了看h，还有好看的cos，等等\n还有，我只是个打游戏，看动漫的普通宅男，不要骂我，说不定我人还不错呢",
+        "id": "1707825450532352000",
+        "name": "夏叶子57",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044382125240303616/ZrFTl34t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 144,
+          "like_count": 883,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 546
+        },
+        "username": "xiayezileaf",
+        "verified": false
+      }
+    ]
+  }
+}

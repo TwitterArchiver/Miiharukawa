@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2074877475272982669",
+    "created_at": "2026-07-09T11:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075178260112257531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1813894970744430592",
+          "start": 0,
+          "username": "Verrrrse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075178260112257531",
+    "in_reply_to_user_id": "1813894970744430592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074877475272982669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Verrrrse 萌萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2074877441873698817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtyCktaYAEQwfk.jpg",
+        "width": 2266
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2074877460383137793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtyDpqaAAEuoMA.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2074877475272982669",
+        "created_at": "2026-07-09T11:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075178260112257531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1813894970744430592",
+              "start": 0,
+              "username": "Verrrrse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075178260112257531",
+        "in_reply_to_user_id": "1813894970744430592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074877475272982669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verrrrse 萌萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074877441873698817",
+            "3_2074877460383137793"
+          ]
+        },
+        "author_id": "1813894970744430592",
+        "conversation_id": "2074877475272982669",
+        "created_at": "2026-07-08T15:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074877475272982669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXbdGOO1K9",
+              "end": 40,
+              "expanded_url": "https://x.com/Verrrrse/status/2074877475272982669/photo/1",
+              "media_key": "3_2074877441873698817",
+              "start": 17,
+              "url": "https://t.co/JXbdGOO1K9"
+            },
+            {
+              "display_url": "pic.x.com/JXbdGOO1K9",
+              "end": 40,
+              "expanded_url": "https://x.com/Verrrrse/status/2074877475272982669/photo/1",
+              "media_key": "3_2074877460383137793",
+              "start": 17,
+              "url": "https://t.co/JXbdGOO1K9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074877475272982669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此人终于想到试穿她的女仆装了。。 https://t.co/JXbdGOO1K9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一摇 遥一摇",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 251,
+          "like_count": 10265,
+          "listed_count": 10,
+          "media_count": 468,
+          "tweet_count": 3922
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T11:14:34.000Z",
+        "description": "bio | https://t.co/OMCRCZuaUQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/verrse",
+                "end": 29,
+                "expanded_url": "https://ngl.link/verrse",
+                "start": 6,
+                "url": "https://t.co/OMCRCZuaUQ"
+              }
+            ]
+          }
+        },
+        "id": "1813894970744430592",
+        "name": "Verse",
+        "pinned_tweet_id": "2075161547689849233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069415422643040256/qWDyX4QB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 366,
+          "like_count": 8692,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 4159
+        },
+        "url": "",
+        "username": "Verrrrse",
+        "verified": false
+      }
+    ]
+  }
+}

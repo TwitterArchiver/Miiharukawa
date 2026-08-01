@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2052052592893825431",
+    "created_at": "2026-05-06T16:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052060244759691362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822380396497313792",
+          "start": 0,
+          "username": "FascinatingAnon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052060244759691362",
+    "in_reply_to_user_id": "1822380396497313792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052052592893825431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FascinatingAnon 原来不可以吗🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2052052592893825431",
+        "created_at": "2026-05-06T16:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052060244759691362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822380396497313792",
+              "start": 0,
+              "username": "FascinatingAnon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052060244759691362",
+        "in_reply_to_user_id": "1822380396497313792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052052592893825431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FascinatingAnon 原来不可以吗🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822380396497313792",
+        "conversation_id": "2052052592893825431",
+        "created_at": "2026-05-06T15:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052052592893825431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FascinatingAno…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/FascinatingAnon/status/2052016436873494945",
+              "start": 11,
+              "url": "https://t.co/9IC7eIWMej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052052592893825431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052016436873494945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等会怎么还有人转发😡 https://t.co/9IC7eIWMej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 213,
+          "like_count": 6887,
+          "listed_count": 3,
+          "media_count": 268,
+          "tweet_count": 2679
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T21:12:13.000Z",
+        "description": "バンドリ/プロセカ/maimai | 中/Eng/日本語（まだ勉強中） | 备用账号：@M1ku_02 | 裏@Minami_Hana_25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "M1ku_02"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "Minami_Hana_25"
+              }
+            ]
+          }
+        },
+        "id": "1822380396497313792",
+        "location": "110m",
+        "name": "Akari.",
+        "pinned_tweet_id": "2052016436873494945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048441004446167040/iGV9QXgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 983,
+          "like_count": 21828,
+          "listed_count": 3,
+          "media_count": 2013,
+          "tweet_count": 11913
+        },
+        "username": "FascinatingAnon",
+        "verified": false
+      }
+    ]
+  }
+}

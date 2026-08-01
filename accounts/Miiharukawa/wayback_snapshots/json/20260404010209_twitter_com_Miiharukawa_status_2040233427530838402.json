@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2040153763261137270",
+    "created_at": "2026-04-04T01:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T02:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040233427530838402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1958590105523806208",
+          "start": 0,
+          "username": "pupullz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040233427530838402",
+    "in_reply_to_user_id": "1958590105523806208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040153763261137270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pupullz 🤤🤤🤤妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040153748195209216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFAVBlhbcAAmvLr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2040153763261137270",
+        "created_at": "2026-04-04T01:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040233427530838402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1958590105523806208",
+              "start": 0,
+              "username": "pupullz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040233427530838402",
+        "in_reply_to_user_id": "1958590105523806208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040153763261137270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pupullz 🤤🤤🤤妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040153748195209216"
+          ]
+        },
+        "author_id": "1958590105523806208",
+        "conversation_id": "2040153763261137270",
+        "created_at": "2026-04-03T19:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T20:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040153763261137270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f7wG8JrHxp",
+              "end": 37,
+              "expanded_url": "https://x.com/pupullz/status/2040153763261137270/photo/1",
+              "media_key": "3_2040153748195209216",
+              "start": 14,
+              "url": "https://t.co/f7wG8JrHxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040153763261137270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只能说和自己画的一模一样… https://t.co/f7wG8JrHxp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 167,
+          "like_count": 4232,
+          "listed_count": 3,
+          "media_count": 156,
+          "tweet_count": 1335
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T18:01:01.000Z",
+        "description": "色情点很高的m系小画家 当朋友圈发 无门槛 不➕v   ps:熟人看到请绕道。",
+        "id": "1958590105523806208",
+        "name": "pupu 66z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000612136532512768/QVJg-kjM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 238,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 226
+        },
+        "username": "pupullz",
+        "verified": false
+      }
+    ]
+  }
+}

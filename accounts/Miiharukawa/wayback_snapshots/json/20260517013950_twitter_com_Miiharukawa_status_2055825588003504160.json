@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2055329636490629175",
+    "created_at": "2026-05-17T01:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T02:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055825588003504160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906339730511560704",
+          "start": 0,
+          "username": "wuaichun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055825588003504160",
+    "in_reply_to_user_id": "1906339730511560704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055720082421211579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuaichun 她就买这么一点点 够吃几次嘛，她还说她自己也有养猫。我们学校流浪猫互助组每次都买老大一包了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2055329636490629175",
+        "created_at": "2026-05-17T01:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T02:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055825588003504160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906339730511560704",
+              "start": 0,
+              "username": "wuaichun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055825588003504160",
+        "in_reply_to_user_id": "1906339730511560704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055720082421211579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuaichun 她就买这么一点点 够吃几次嘛，她还说她自己也有养猫。我们学校流浪猫互助组每次都买老大一包了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906339730511560704",
+        "conversation_id": "2055329636490629175",
+        "created_at": "2026-05-16T18:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055720082421211579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055720082421211579",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055329636490629175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 那个冻干猫粮其实还好毕竟才一百g，网易的也不算杂牌，算下来一斤也要20挺贵了，但是猫咪平时要抓咬的东西太便宜了真的不行，很难想象这么便宜的售价，成本要用什么垃圾东西做的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 218,
+          "like_count": 7505,
+          "listed_count": 6,
+          "media_count": 304,
+          "tweet_count": 2909
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T13:36:34.000Z",
+        "description": "找个地方说话｜",
+        "id": "1906339730511560704",
+        "name": "大智",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974162252283719680/hCgbgySF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 106,
+          "like_count": 3384,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 860
+        },
+        "username": "wuaichun",
+        "verified": false
+      }
+    ]
+  }
+}

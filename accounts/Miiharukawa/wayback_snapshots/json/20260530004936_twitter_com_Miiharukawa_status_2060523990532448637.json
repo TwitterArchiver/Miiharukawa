@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2060523990532448637",
+    "created_at": "2026-05-30T00:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T01:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060523990532448637"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060523990532448637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "给女角色画乳沟是不行的，这是性化，是对女性的凝视。你不能给她画纤细的手臂，这是弱化女性。\n所以这群傻逼给女角色裹上布条画成平胸加上吓死人的肌肉，这就是她们所谓的爱女，把女性画成男性怎么不算一种变相弱化。\n为了一个虚拟女性而攻击一个真实女性。老冯死了的人讲话就是带劲。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2060523990532448637",
+        "created_at": "2026-05-30T00:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060523990532448637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060523990532448637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "给女角色画乳沟是不行的，这是性化，是对女性的凝视。你不能给她画纤细的手臂，这是弱化女性。\n所以这群傻逼给女角色裹上布条画成平胸加上吓死人的肌肉，这就是她们所谓的爱女，把女性画成男性怎么不算一种变相弱化。\n为了一个虚拟女性而攻击一个真实女性。老冯死了的人讲话就是带劲。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 233,
+          "like_count": 8425,
+          "listed_count": 6,
+          "media_count": 347,
+          "tweet_count": 3214
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

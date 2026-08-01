@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2078181615797424498",
+    "created_at": "2026-07-18T05:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T06:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078356697291301337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2004942307062415364",
+          "start": 0,
+          "username": "Kirara09i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078356697291301337",
+    "in_reply_to_user_id": "2004942307062415364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078335259247264051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirara09i 别这样别这样✋😭🤚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2078181615797424498",
+        "created_at": "2026-07-18T05:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078356697291301337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2004942307062415364",
+              "start": 0,
+              "username": "Kirara09i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078356697291301337",
+        "in_reply_to_user_id": "2004942307062415364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078335259247264051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirara09i 别这样别这样✋😭🤚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004942307062415364",
+        "conversation_id": "2078181615797424498",
+        "created_at": "2026-07-18T04:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078335259247264051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078335259247264051",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078181615797424498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 线路一繁忙\n线路二网络错误\n线路三异常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一摇 遥一摇",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 253,
+          "like_count": 10579,
+          "listed_count": 10,
+          "media_count": 492,
+          "tweet_count": 4021
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T15:48:10.000Z",
+        "description": "🇨🇳中国人、日本語初心者。アニメ・漫画好きです。",
+        "id": "2004942307062415364",
+        "name": "Kirara",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016073702849249280/DvUs392F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 55,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 499
+        },
+        "url": "",
+        "username": "Kirara09i",
+        "verified": false
+      }
+    ]
+  }
+}

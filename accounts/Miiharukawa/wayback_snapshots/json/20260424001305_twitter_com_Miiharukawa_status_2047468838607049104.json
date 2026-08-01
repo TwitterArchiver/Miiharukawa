@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2047468733913059370",
+    "created_at": "2026-04-24T00:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T01:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047468838607049104"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047468838607049104",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047468733913059370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们都别玩了……那个游戏是…我原价买的……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 841,
+        "media_key": "3_2047468725402791936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoR9TJa8AA5j43.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2047468733913059370",
+        "created_at": "2026-04-24T00:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T01:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047468838607049104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047468838607049104",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047468733913059370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们都别玩了……那个游戏是…我原价买的……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047468725402791936"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2047468733913059370",
+        "created_at": "2026-04-24T00:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T01:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047468733913059370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/haoxWtWROO",
+              "end": 40,
+              "expanded_url": "https://x.com/Miiharukawa/status/2047468733913059370/photo/1",
+              "media_key": "3_2047468725402791936",
+              "start": 17,
+              "url": "https://t.co/haoxWtWROO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047468733913059370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯对 打折买的都有病毒你们不许玩 https://t.co/haoxWtWROO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "怨是用希\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 189,
+          "like_count": 5646,
+          "listed_count": 6,
+          "media_count": 227,
+          "tweet_count": 2041
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

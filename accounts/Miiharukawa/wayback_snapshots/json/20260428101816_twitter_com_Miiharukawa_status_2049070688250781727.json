@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2049031038513619075",
+    "created_at": "2026-04-28T10:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T11:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049070688250781727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1513898402366439427",
+          "start": 0,
+          "username": "tired_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049070688250781727",
+    "in_reply_to_user_id": "1513898402366439427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049070179821523424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tired_8964 我也感觉是被宰了但是来都来了🏳️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2049031038513619075",
+        "created_at": "2026-04-28T10:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049070688250781727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513898402366439427",
+              "start": 0,
+              "username": "tired_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049070688250781727",
+        "in_reply_to_user_id": "1513898402366439427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049070179821523424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tired_8964 我也感觉是被宰了但是来都来了🏳️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513898402366439427",
+        "conversation_id": "2049031038513619075",
+        "created_at": "2026-04-28T10:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049070179821523424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049070179821523424",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049031038513619075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 被宰了宝贝 现在根管价格k内就能拿下好像"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 193,
+          "like_count": 6014,
+          "listed_count": 6,
+          "media_count": 239,
+          "tweet_count": 2266
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T15:14:50.000Z",
+        "description": "我很脆弱。梦到啥说啥。匿名问答：https://t.co/02AmJFCDEU。关你屁事  叉出去。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amaya_ovo",
+                "end": 39,
+                "expanded_url": "https://ngl.link/amaya_ovo",
+                "start": 16,
+                "url": "https://t.co/02AmJFCDEU"
+              }
+            ]
+          }
+        },
+        "id": "1513898402366439427",
+        "location": "抱抱",
+        "name": "烦烦",
+        "pinned_tweet_id": "1999365860356759785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004997128914149376/V6jWbjSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2542,
+          "following_count": 312,
+          "like_count": 7974,
+          "listed_count": 4,
+          "media_count": 331,
+          "tweet_count": 3921
+        },
+        "username": "tired_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2032691504242978825",
+    "created_at": "2026-03-14T05:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T06:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032694290888142917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "972375354168950784",
+          "start": 0,
+          "username": "LELF67276063"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032694290888142917",
+    "in_reply_to_user_id": "972375354168950784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032693745641263498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LELF67276063 我在教室里除了卷子啥都做。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2032691504242978825",
+        "created_at": "2026-03-14T05:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T06:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032694290888142917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "972375354168950784",
+              "start": 0,
+              "username": "LELF67276063"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032694290888142917",
+        "in_reply_to_user_id": "972375354168950784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032693745641263498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LELF67276063 我在教室里除了卷子啥都做。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "972375354168950784",
+        "conversation_id": "2032691504242978825",
+        "created_at": "2026-03-14T05:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T06:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032693745641263498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032693745641263498",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032691504242978825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 我觉得玩游戏的时候也很有耐心了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 106,
+          "like_count": 1591,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 430
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-10T07:35:25.000Z",
+        "description": "社畜，粥游全图鉴但是B服",
+        "id": "972375354168950784",
+        "location": "成都",
+        "name": "L_ELF",
+        "pinned_tweet_id": "2014735771601928568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023998944225992704/yfGtdvzU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 23,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 128
+        },
+        "username": "LELF67276063",
+        "verified": false
+      }
+    ]
+  }
+}

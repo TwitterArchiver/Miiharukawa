@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2056064441406706168",
+    "created_at": "2026-05-17T17:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T18:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056064441406706168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pearl0812lucky…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/pearl0812lucky/status/2055648148329243060",
+          "start": 4,
+          "url": "https://t.co/1MbaMmafkv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056064441406706168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055648148329243060",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "码住了 https://t.co/1MbaMmafkv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2056064441406706168",
+        "created_at": "2026-05-17T17:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056064441406706168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pearl0812lucky…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/pearl0812lucky/status/2055648148329243060",
+              "start": 4,
+              "url": "https://t.co/1MbaMmafkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056064441406706168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055648148329243060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "码住了 https://t.co/1MbaMmafkv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2055648148329243060",
+        "created_at": "2026-05-16T13:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055648148329243060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055648148329243060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 20476,
+          "like_count": 780,
+          "quote_count": 15,
+          "reply_count": 107,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "我忏悔\n我不该把你的电话号写在公共厕所\n不该把你的微信挂到男同网站\n不该用你的生辰八字扎小人\n不该给你和我仇人配阴婚\n不该打印你的照片贴寻狗启示\n不该挂你的照片开追悼会\n不该找死刑犯视频用ai换成你的脸\n不该用红油漆在你家防盗门画辟\n不该把你照片和八字关在一起扔在黄河\n不该把你照片压坟头下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 218,
+          "like_count": 7604,
+          "listed_count": 6,
+          "media_count": 307,
+          "tweet_count": 2936
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7720,
+          "following_count": 68,
+          "like_count": 7241,
+          "listed_count": 7,
+          "media_count": 159,
+          "tweet_count": 1749
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2050777585878175845",
+    "created_at": "2026-05-04T03:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T04:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051136708302041116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "750565623265128448",
+          "start": 0,
+          "username": "_zeathing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051136708302041116",
+    "in_reply_to_user_id": "750565623265128448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051124386321887353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_zeathing 你也会勇敢起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2050777585878175845",
+        "created_at": "2026-05-04T03:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051136708302041116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "750565623265128448",
+              "start": 0,
+              "username": "_zeathing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051136708302041116",
+        "in_reply_to_user_id": "750565623265128448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051124386321887353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_zeathing 你也会勇敢起来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "750565623265128448",
+        "conversation_id": "2050777585878175845",
+        "created_at": "2026-05-04T02:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T03:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051124386321887353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051124386321887353",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050777585878175845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 我因為簡單的四格漫畫流淚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 216,
+          "like_count": 6517,
+          "listed_count": 5,
+          "media_count": 253,
+          "tweet_count": 2496
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-06T05:42:44.000Z",
+        "description": "顏料販售商",
+        "id": "750565623265128448",
+        "name": "退休",
+        "pinned_tweet_id": "1064685880198160384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979268543305625600/mO5VIAL7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 2448,
+          "like_count": 24324,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 856
+        },
+        "username": "_zeathing",
+        "verified": false
+      }
+    ]
+  }
+}

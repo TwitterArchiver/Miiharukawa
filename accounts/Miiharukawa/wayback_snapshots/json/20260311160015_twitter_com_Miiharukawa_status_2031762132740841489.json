@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2031755418951675950",
+    "created_at": "2026-03-11T16:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T17:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031762132740841489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1959230145623138304",
+          "start": 0,
+          "username": "oouki_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031762132740841489",
+    "in_reply_to_user_id": "1959230145623138304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031755418951675950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oouki_o 我也是❗️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2031755418951675950",
+        "created_at": "2026-03-11T16:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T17:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031762132740841489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1959230145623138304",
+              "start": 0,
+              "username": "oouki_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031762132740841489",
+        "in_reply_to_user_id": "1959230145623138304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031755418951675950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oouki_o 我也是❗️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959230145623138304",
+        "conversation_id": "2031755418951675950",
+        "created_at": "2026-03-11T15:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T16:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031755418951675950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031755418951675950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的互关又无了一个阿巴阿巴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 96,
+          "like_count": 1145,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 313
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T12:24:14.000Z",
+        "description": "REST-A ｜华籍美人｜厌蠢没耐心 脾气不好｜🔞｜私信只回粉➕口令｜匿名信箱📮：https://t.co/6NpukbDkcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/oouki.hello",
+                "end": 64,
+                "expanded_url": "https://tellonym.me/oouki.hello",
+                "start": 41,
+                "url": "https://t.co/6NpukbDkcW"
+              }
+            ]
+          }
+        },
+        "id": "1959230145623138304",
+        "name": "ค 奈᳐奈᳐ ฅ ੭ﾞ",
+        "pinned_tweet_id": "2022983209760514506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001087386701475840/00JAfx-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7087,
+          "following_count": 38,
+          "like_count": 6244,
+          "listed_count": 16,
+          "media_count": 97,
+          "tweet_count": 637
+        },
+        "username": "oouki_o",
+        "verified": false
+      }
+    ]
+  }
+}

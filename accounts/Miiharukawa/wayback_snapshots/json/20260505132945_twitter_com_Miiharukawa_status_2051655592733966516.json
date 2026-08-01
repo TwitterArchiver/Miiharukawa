@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2051471686017634456",
+    "created_at": "2026-05-05T13:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T14:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051655592733966516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2039995815310102528",
+          "start": 0,
+          "username": "Akane_051218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051655592733966516",
+    "in_reply_to_user_id": "2039995815310102528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051643977032474698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akane_051218 我也是！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2051471686017634456",
+        "created_at": "2026-05-05T13:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051655592733966516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2039995815310102528",
+              "start": 0,
+              "username": "Akane_051218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051655592733966516",
+        "in_reply_to_user_id": "2039995815310102528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051643977032474698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akane_051218 我也是！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039995815310102528",
+        "conversation_id": "2051471686017634456",
+        "created_at": "2026-05-05T12:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051643977032474698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051643977032474698",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051471686017634456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 发发发，我都是想发什么发什么。但是我话特别多，喜欢碎碎念吧啦吧啦的，这种发多了我怕好友烦，所以现在推都成我的树洞了，还有各种小猫我也往这发🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 217,
+          "like_count": 6723,
+          "listed_count": 5,
+          "media_count": 259,
+          "tweet_count": 2596
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T09:18:12.000Z",
+        "description": "🇨🇳/20代/INFP/エネルギー低め/高速ネットサーフィン/乙女向けにどっぷり夢中/ふわふわもこもこ小動物大好き/おしゃべり大好き超話し好き/翻訳機でおしゃべり、不自然な表現あったら優しく許してね🙇🏻💤",
+        "id": "2039995815310102528",
+        "name": "Akane ^^",
+        "pinned_tweet_id": "2051566048579588494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050794848207376384/hNCSVqg9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 59
+        },
+        "username": "Akane_051218",
+        "verified": false
+      }
+    ]
+  }
+}

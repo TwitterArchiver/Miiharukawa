@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2058543906669953369",
+    "created_at": "2026-05-24T13:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058545041233305653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1875930017781456896",
+          "start": 0,
+          "username": "ccckiio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058545041233305653",
+    "in_reply_to_user_id": "1875930017781456896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058543906669953369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccckiio 这样也好适合你哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2058543866249408512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFqvV5a8AAyp4c.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2058543906669953369",
+        "created_at": "2026-05-24T13:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058545041233305653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1875930017781456896",
+              "start": 0,
+              "username": "ccckiio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058545041233305653",
+        "in_reply_to_user_id": "1875930017781456896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058543906669953369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccckiio 这样也好适合你哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058543866249408512"
+          ]
+        },
+        "author_id": "1875930017781456896",
+        "conversation_id": "2058543906669953369",
+        "created_at": "2026-05-24T13:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058543906669953369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BAvIHE6TuK",
+              "end": 27,
+              "expanded_url": "https://x.com/ccckiio/status/2058543906669953369/photo/1",
+              "media_key": "3_2058543866249408512",
+              "start": 4,
+              "url": "https://t.co/BAvIHE6TuK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058543906669953369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剪短了 https://t.co/BAvIHE6TuK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 223,
+          "like_count": 8077,
+          "listed_count": 6,
+          "media_count": 330,
+          "tweet_count": 3109
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T15:39:14.000Z",
+        "description": "04｜美术生｜bi｜kpop｜本命TXT/STAYC/I-DLE｜🤍崔杋圭崔秀彬🤍｜💣TNT｜不加v｜2026年的愿望是多看几场演唱会｜防走丢小号@ccckiioo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 73,
+                "username": "ccckiioo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akmbjsq.com/auth/register?…",
+                "end": 23,
+                "expanded_url": "https://www.akmbjsq.com/auth/register?code=crOw",
+                "start": 0,
+                "url": "https://t.co/cQtB2X16gi"
+              }
+            ]
+          }
+        },
+        "id": "1875930017781456896",
+        "location": "自用vpn",
+        "name": "PL",
+        "pinned_tweet_id": "2011669024007241896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901906907155341313/XnYP5CuQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 498,
+          "like_count": 2626,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1141
+        },
+        "url": "https://t.co/cQtB2X16gi",
+        "username": "ccckiio",
+        "verified": false
+      }
+    ]
+  }
+}

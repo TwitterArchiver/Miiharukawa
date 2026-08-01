@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2052656047794594216",
+    "created_at": "2026-05-09T01:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T02:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052917757436727625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2003562997604823040",
+          "start": 0,
+          "username": "chengorange777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052917757436727625",
+    "in_reply_to_user_id": "2003562997604823040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052656047794594216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengorange777 没关系的宝宝 大家第一次都会做不好呀，愿意去尝试已经很厉害了！做得不好看卸掉重来就好了，没关系的，如果不想再试了也可以出二手回血的，去美甲店排队等候也累累的 你已经很棒啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2052656047794594216",
+        "created_at": "2026-05-09T01:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052917757436727625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2003562997604823040",
+              "start": 0,
+              "username": "chengorange777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052917757436727625",
+        "in_reply_to_user_id": "2003562997604823040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052656047794594216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengorange777 没关系的宝宝 大家第一次都会做不好呀，愿意去尝试已经很厉害了！做得不好看卸掉重来就好了，没关系的，如果不想再试了也可以出二手回血的，去美甲店排队等候也累累的 你已经很棒啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003562997604823040",
+        "conversation_id": "2052656047794594216",
+        "created_at": "2026-05-08T07:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052656047794594216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052656047794594216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己做美甲，拇指做的好失败…我真得不适合做这种事情，我为什么要觉得自己可以，为什么要买这么多东西结果什么都做不了，为什么不选择花钱去美甲店 我真的好失败"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 215,
+          "like_count": 7074,
+          "listed_count": 4,
+          "media_count": 273,
+          "tweet_count": 2746
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T20:27:16.000Z",
+        "description": "CN/EN. 小桔Orange🍊\n🔮塔罗&水晶个人玩家\n🖤喜欢音声|可能产出\n🩶嘴很毒 会预防性拉黑\n🤍https://t.co/zMlI8nnTxW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chengorange",
+                "end": 75,
+                "expanded_url": "https://ngl.link/chengorange",
+                "start": 52,
+                "url": "https://t.co/zMlI8nnTxW"
+              }
+            ]
+          }
+        },
+        "id": "2003562997604823040",
+        "name": "小桔不是程子",
+        "pinned_tweet_id": "2038321485992140951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003567055929499648/4l09gn_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 219,
+          "like_count": 2010,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 939
+        },
+        "username": "chengorange777",
+        "verified": false
+      }
+    ]
+  }
+}

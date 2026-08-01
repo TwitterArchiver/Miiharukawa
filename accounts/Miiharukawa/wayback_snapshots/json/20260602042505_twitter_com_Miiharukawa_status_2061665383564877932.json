@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2061495842150961556",
+    "created_at": "2026-06-02T04:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061665383564877932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936351595018747904",
+          "start": 0,
+          "username": "Sqqlcyy6037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061665383564877932",
+    "in_reply_to_user_id": "1936351595018747904",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061658206255153325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sqqlcyy6037 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2061495842150961556",
+        "created_at": "2026-06-02T04:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061665383564877932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936351595018747904",
+              "start": 0,
+              "username": "Sqqlcyy6037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061665383564877932",
+        "in_reply_to_user_id": "1936351595018747904",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061658206255153325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sqqlcyy6037 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936351595018747904",
+        "conversation_id": "2061495842150961556",
+        "created_at": "2026-06-02T03:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061658206255153325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061658206255153325",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061495842150961556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 打成or9会显得唧唧很长"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 234,
+          "like_count": 8726,
+          "listed_count": 6,
+          "media_count": 354,
+          "tweet_count": 3295
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T09:57:06.000Z",
+        "description": "",
+        "id": "1936351595018747904",
+        "name": "某不知名的草蒹www",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936369727829315584/xrME-azk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 1607,
+          "like_count": 7683,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1789
+        },
+        "username": "Sqqlcyy6037",
+        "verified": false
+      }
+    ]
+  }
+}

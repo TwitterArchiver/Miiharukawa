@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2028882341184323995",
+    "created_at": "2026-03-04T12:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T13:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029173890543661459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1991976361356124160",
+          "start": 0,
+          "username": "YUANccorz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029173890543661459",
+    "in_reply_to_user_id": "1991976361356124160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028882341184323995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUANccorz 女神米米嘟💖💖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2028882334041423875",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgJu7uawAMsR5o.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2028882341184323995",
+        "created_at": "2026-03-04T12:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029173890543661459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1991976361356124160",
+              "start": 0,
+              "username": "YUANccorz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029173890543661459",
+        "in_reply_to_user_id": "1991976361356124160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028882341184323995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUANccorz 女神米米嘟💖💖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028882334041423875"
+          ]
+        },
+        "author_id": "1991976361356124160",
+        "conversation_id": "2028882341184323995",
+        "created_at": "2026-03-03T17:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028882341184323995"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bez8IERKty",
+              "end": 37,
+              "expanded_url": "https://x.com/YUANccorz/status/2028882341184323995/photo/1",
+              "media_key": "3_2028882334041423875",
+              "start": 14,
+              "url": "https://t.co/Bez8IERKty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028882341184323995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最后一张✌️ #自撮り界隈 https://t.co/Bez8IERKty"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2028818677131559381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 21,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T21:05:55.000Z",
+        "description": "𑙕◍ᗒꈊᗕ◍᠔",
+        "id": "1991976361356124160",
+        "location": "小狗男你把我毁了",
+        "name": "小缘",
+        "pinned_tweet_id": "2014852228012789824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014425009054478336/9nbs5otj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 78,
+          "like_count": 4563,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 674
+        },
+        "username": "YUANccorz",
+        "verified": false
+      }
+    ]
+  }
+}

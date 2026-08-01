@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050105379972063232"
+      ],
+      "media_source_tweet_id": [
+        "2051240427848925359"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "2051357213181243532",
+    "created_at": "2026-05-04T17:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T18:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051357213181243532"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 21,
+          "tag": "きみ死ぬアニメ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1896162868065898496",
+          "start": 3,
+          "username": "anime_kimishinu"
+        }
+      ],
+      "urls": [
+        {
+          "description": "10K likes, 370 comments. \"【7月放送開始】「きみが死ぬまで恋をしたい」PV第1弾\"",
+          "display_url": "youtube.com/watch?v=OYIv6-…",
+          "end": 86,
+          "expanded_url": "https://youtube.com/watch?v=OYIv6-LQGCY",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2049447425635680256/0Vd-bpG6?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2049447425635680256/0Vd-bpG6?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 63,
+          "status": 200,
+          "title": "KADOKAWAanime",
+          "unwound_url": "https://www.youtube.com/watch?v=OYIv6-LQGCY",
+          "url": "https://t.co/QvsE3ZDYod"
+        },
+        {
+          "display_url": "pic.x.com/hkDs6f0xN2",
+          "end": 110,
+          "expanded_url": "https://x.com/anime_kimishinu/status/2051240427848925359/video/1",
+          "media_key": "13_2050105379972063232",
+          "start": 87,
+          "url": "https://t.co/hkDs6f0xN2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051357213181243532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 656
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051240427848925359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anime_kimishinu: #きみ死ぬアニメ\n\n💐第1弾PV 公開中💐\n2026年7月よりTVアニメ放送開始！\nhttps://t.co/QvsE3ZDYod https://t.co/hkDs6f0xN2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2419,
+        "height": 1080,
+        "media_key": "13_2050105379972063232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050105379972063232/img/w_jjxUvoCR1eQ0IS.jpg",
+        "public_metrics": {
+          "view_count": 15669
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050105379972063232/pl/TtWE-RCErYVKospl.m3u8?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050105379972063232/vid/avc1/1280x720/RQoHVDMqk6kItPdp.mp4?tag=27"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050105379972063232/vid/avc1/480x270/ceM5CrPLa7ma7Hot.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050105379972063232/vid/avc1/640x360/UCL53wRT_tKcmWN8.mp4?tag=27"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050105379972063232/vid/avc1/1920x1080/qtc-IiSZzCWerfVo.mp4?tag=27"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050105379972063232"
+          ],
+          "media_source_tweet_id": [
+            "2051240427848925359"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2051357213181243532",
+        "created_at": "2026-05-04T17:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051357213181243532"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "きみ死ぬアニメ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1896162868065898496",
+              "start": 3,
+              "username": "anime_kimishinu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "10K likes, 370 comments. \"【7月放送開始】「きみが死ぬまで恋をしたい」PV第1弾\"",
+              "display_url": "youtube.com/watch?v=OYIv6-…",
+              "end": 86,
+              "expanded_url": "https://youtube.com/watch?v=OYIv6-LQGCY",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2049447425635680256/0Vd-bpG6?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049447425635680256/0Vd-bpG6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 63,
+              "status": 200,
+              "title": "KADOKAWAanime",
+              "unwound_url": "https://www.youtube.com/watch?v=OYIv6-LQGCY",
+              "url": "https://t.co/QvsE3ZDYod"
+            },
+            {
+              "display_url": "pic.x.com/hkDs6f0xN2",
+              "end": 110,
+              "expanded_url": "https://x.com/anime_kimishinu/status/2051240427848925359/video/1",
+              "media_key": "13_2050105379972063232",
+              "start": 87,
+              "url": "https://t.co/hkDs6f0xN2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051357213181243532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 656
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051240427848925359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anime_kimishinu: #きみ死ぬアニメ\n\n💐第1弾PV 公開中💐\n2026年7月よりTVアニメ放送開始！\nhttps://t.co/QvsE3ZDYod https://t.co/hkDs6f0xN2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050105379972063232"
+          ]
+        },
+        "author_id": "1896162868065898496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2051240427848925359",
+        "created_at": "2026-05-04T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051240427848925359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "きみ死ぬアニメ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "10K likes, 370 comments. \"【7月放送開始】「きみが死ぬまで恋をしたい」PV第1弾\"",
+              "display_url": "youtube.com/watch?v=OYIv6-…",
+              "end": 65,
+              "expanded_url": "https://youtube.com/watch?v=OYIv6-LQGCY",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2049447425635680256/0Vd-bpG6?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049447425635680256/0Vd-bpG6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "KADOKAWAanime",
+              "unwound_url": "https://www.youtube.com/watch?v=OYIv6-LQGCY",
+              "url": "https://t.co/QvsE3ZDYod"
+            },
+            {
+              "display_url": "pic.x.com/hkDs6f0xN2",
+              "end": 89,
+              "expanded_url": "https://x.com/anime_kimishinu/status/2051240427848925359/video/1",
+              "media_key": "13_2050105379972063232",
+              "start": 66,
+              "url": "https://t.co/hkDs6f0xN2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051240427848925359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 59555,
+          "like_count": 3422,
+          "quote_count": 54,
+          "reply_count": 1,
+          "retweet_count": 656
+        },
+        "reply_settings": "everyone",
+        "text": "#きみ死ぬアニメ\n\n💐第1弾PV 公開中💐\n2026年7月よりTVアニメ放送開始！\nhttps://t.co/QvsE3ZDYod https://t.co/hkDs6f0xN2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 215,
+          "like_count": 6611,
+          "listed_count": 5,
+          "media_count": 254,
+          "tweet_count": 2535
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T11:37:16.000Z",
+        "description": "「生きたい」なんて、知らなかった。常に死が隣り合わせの世界で生きる少女たちの、あどけない願いの物語。\n「一迅プラス」にて好評連載中『きみが死ぬまで恋をしたい』が待望のTVアニメ化💐\n原作：あおのなち／アニメーション制作：ROLL2／推奨ハッシュタグ：#きみ死ぬアニメ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 125,
+                "tag": "きみ死ぬアニメ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kimishinu-anime.com",
+                "end": 23,
+                "expanded_url": "https://kimishinu-anime.com/",
+                "start": 0,
+                "url": "https://t.co/QWPErrzlaP"
+              }
+            ]
+          }
+        },
+        "id": "1896162868065898496",
+        "name": "TVアニメ「きみが死ぬまで恋をしたい」公式💐",
+        "pinned_tweet_id": "2024046241567441041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899000087944282112/FJUZmD5L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75596,
+          "following_count": 15,
+          "like_count": 8,
+          "listed_count": 208,
+          "media_count": 180,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/QWPErrzlaP",
+        "username": "anime_kimishinu",
+        "verified": true
+      }
+    ]
+  }
+}

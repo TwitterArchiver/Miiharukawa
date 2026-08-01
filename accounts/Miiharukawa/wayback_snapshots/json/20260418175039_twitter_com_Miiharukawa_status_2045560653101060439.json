@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045559851057856512"
+      ],
+      "media_source_tweet_id": [
+        "2045559855654785117"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2045560653101060439",
+    "created_at": "2026-04-18T17:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T18:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045560653101060439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1959035687011065857",
+          "start": 3,
+          "username": "FangX79807"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w7c4LAxXrH",
+          "end": 106,
+          "expanded_url": "https://x.com/FangX79807/status/2045559855654785117/photo/1",
+          "media_key": "3_2045559851057856512",
+          "start": 83,
+          "url": "https://t.co/w7c4LAxXrH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045560653101060439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045559855654785117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FangX79807: 给女宝们搞个小小抽奖\n【奖品】苏菲日夜用＋安睡裤＋护垫\n【参与条件】点赞转发评论关注\n【开奖时间】4.22\n（只限女生参与，男的滚） https://t.co/w7c4LAxXrH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2116,
+        "media_key": "3_2045559851057856512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGNJ2MEawAA1w58.jpg",
+        "width": 1210
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045559851057856512"
+          ],
+          "media_source_tweet_id": [
+            "2045559855654785117"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2045560653101060439",
+        "created_at": "2026-04-18T17:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045560653101060439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1959035687011065857",
+              "start": 3,
+              "username": "FangX79807"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w7c4LAxXrH",
+              "end": 106,
+              "expanded_url": "https://x.com/FangX79807/status/2045559855654785117/photo/1",
+              "media_key": "3_2045559851057856512",
+              "start": 83,
+              "url": "https://t.co/w7c4LAxXrH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045560653101060439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045559855654785117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FangX79807: 给女宝们搞个小小抽奖\n【奖品】苏菲日夜用＋安睡裤＋护垫\n【参与条件】点赞转发评论关注\n【开奖时间】4.22\n（只限女生参与，男的滚） https://t.co/w7c4LAxXrH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045559851057856512"
+          ]
+        },
+        "author_id": "1959035687011065857",
+        "conversation_id": "2045559855654785117",
+        "created_at": "2026-04-18T17:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045559855654785117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w7c4LAxXrH",
+              "end": 90,
+              "expanded_url": "https://x.com/FangX79807/status/2045559855654785117/photo/1",
+              "media_key": "3_2045559851057856512",
+              "start": 67,
+              "url": "https://t.co/w7c4LAxXrH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045559855654785117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "给女宝们搞个小小抽奖\n【奖品】苏菲日夜用＋安睡裤＋护垫\n【参与条件】点赞转发评论关注\n【开奖时间】4.22\n（只限女生参与，男的滚） https://t.co/w7c4LAxXrH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 183,
+          "like_count": 5251,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 1826
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T23:32:19.000Z",
+        "description": "4i 可以叫我乐乐  想要做一只小猫黏在对方身边https://t.co/h4B4lu9iWu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lele1207",
+                "end": 47,
+                "expanded_url": "https://ngl.link/lele1207",
+                "start": 24,
+                "url": "https://t.co/h4B4lu9iWu"
+              }
+            ]
+          }
+        },
+        "id": "1959035687011065857",
+        "name": "Xanny.",
+        "pinned_tweet_id": "1964760195453857998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016753831900852225/7AfwPheL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 193,
+          "like_count": 3968,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1805
+        },
+        "username": "FangX79807",
+        "verified": false
+      }
+    ]
+  }
+}

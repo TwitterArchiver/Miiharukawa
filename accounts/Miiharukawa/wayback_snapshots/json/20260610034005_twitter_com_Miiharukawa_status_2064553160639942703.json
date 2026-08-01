@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2064553160639942703",
+    "created_at": "2026-06-10T03:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:39:49.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064553092092457465",
+      "2064553160639942703"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064553160639942703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现只要发言里带一个性别内容就会有啥子跑过来搞对立。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2064553092092457465",
+        "created_at": "2026-06-10T03:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:39:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064553092092457465",
+          "2064553160639942703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064553092092457465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现只要你的发言里带一个性别内容就会有啥子跑过来搞对立。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2064553160639942703",
+        "created_at": "2026-06-10T03:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:39:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064553092092457465",
+          "2064553160639942703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064553160639942703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现只要发言里带一个性别内容就会有啥子跑过来搞对立。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064206097993629696/hG17hldS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 238,
+          "like_count": 9080,
+          "listed_count": 6,
+          "media_count": 392,
+          "tweet_count": 3469
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

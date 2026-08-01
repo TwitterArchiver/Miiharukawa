@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2050383000421167539",
+    "created_at": "2026-05-02T05:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T06:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050446030848860507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1654009281614876673",
+          "start": 0,
+          "username": "dttvj134915"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050446030848860507",
+    "in_reply_to_user_id": "1654009281614876673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050440219527463265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dttvj134915 我不觉得应该把自己没有自律性这件事怪在父母身上，这种情况和我说的也不是同一种，我父母曾经说“为我好”在我高三时给我找了个三十岁瘫痪的人打算把我卖给他做媳妇这也是为我好吗。我不是说不作为和约束的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2050383000421167539",
+        "created_at": "2026-05-02T05:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050446030848860507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1654009281614876673",
+              "start": 0,
+              "username": "dttvj134915"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050446030848860507",
+        "in_reply_to_user_id": "1654009281614876673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050440219527463265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dttvj134915 我不觉得应该把自己没有自律性这件事怪在父母身上，这种情况和我说的也不是同一种，我父母曾经说“为我好”在我高三时给我找了个三十岁瘫痪的人打算把我卖给他做媳妇这也是为我好吗。我不是说不作为和约束的问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654009281614876673",
+        "conversation_id": "2050383000421167539",
+        "created_at": "2026-05-02T05:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050440219527463265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050440219527463265",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050383000421167539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 可是小孩子想要什么呢。我想吃很多糖，哪怕搞坏牙齿也不愿意拔牙。现在牙齿歪七扭八，要怪他们给我选择的机会吗。想打游戏不想学习，晚上玩白天睡觉，老师打骂了六年，大四还在做高中的噩梦。可是没有他们督促，我也考不上大学，是该感恩还是憎恨呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "Infp 重度百合豚 专发碎碎念\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 212,
+          "like_count": 6443,
+          "listed_count": 5,
+          "media_count": 252,
+          "tweet_count": 2459
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T06:25:25.000Z",
+        "description": "",
+        "id": "1654009281614876673",
+        "name": "影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003436653827002368/RGHSlmn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 236,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 71
+        },
+        "username": "dttvj134915",
+        "verified": false
+      }
+    ]
+  }
+}

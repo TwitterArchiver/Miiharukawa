@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049150464126828544"
+      ],
+      "media_source_tweet_id": [
+        "2049150482174935463"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2049477558291636520",
+    "created_at": "2026-04-29T13:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T14:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049477558291636520"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 13,
+          "tag": "上伊那ぼたん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1973343071648751617",
+          "start": 3,
+          "username": "riiyumy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QevTobgsHK",
+          "end": 44,
+          "expanded_url": "https://x.com/riiyumy/status/2049150482174935463/photo/1",
+          "media_key": "3_2049150464126828544",
+          "start": 21,
+          "url": "https://t.co/QevTobgsHK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049477558291636520",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1215
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049150482174935463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @riiyumy: #上伊那ぼたん https://t.co/QevTobgsHK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3110,
+        "media_key": "3_2049150464126828544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHALfYGbQAA33Kt.jpg",
+        "width": 3333
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049150464126828544"
+          ],
+          "media_source_tweet_id": [
+            "2049150482174935463"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2049477558291636520",
+        "created_at": "2026-04-29T13:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049477558291636520"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "上伊那ぼたん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1973343071648751617",
+              "start": 3,
+              "username": "riiyumy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QevTobgsHK",
+              "end": 44,
+              "expanded_url": "https://x.com/riiyumy/status/2049150482174935463/photo/1",
+              "media_key": "3_2049150464126828544",
+              "start": 21,
+              "url": "https://t.co/QevTobgsHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049477558291636520",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1215
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049150482174935463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @riiyumy: #上伊那ぼたん https://t.co/QevTobgsHK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049150464126828544"
+          ]
+        },
+        "author_id": "1973343071648751617",
+        "conversation_id": "2049150482174935463",
+        "created_at": "2026-04-28T15:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049150482174935463"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "上伊那ぼたん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QevTobgsHK",
+              "end": 31,
+              "expanded_url": "https://x.com/riiyumy/status/2049150482174935463/photo/1",
+              "media_key": "3_2049150464126828544",
+              "start": 8,
+              "url": "https://t.co/QevTobgsHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049150482174935463",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1988,
+          "impression_count": 168992,
+          "like_count": 13356,
+          "quote_count": 47,
+          "reply_count": 21,
+          "retweet_count": 1215
+        },
+        "reply_settings": "everyone",
+        "text": "#上伊那ぼたん https://t.co/QevTobgsHK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 199,
+          "like_count": 6162,
+          "listed_count": 5,
+          "media_count": 245,
+          "tweet_count": 2340
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T11:03:55.000Z",
+        "description": "Illustrator. Reposting with credits is OK. \nCommissions open ⬇️⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/riiyumy",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/riiyumy",
+                "start": 0,
+                "url": "https://t.co/IkBB0yddCz"
+              }
+            ]
+          }
+        },
+        "id": "1973343071648751617",
+        "location": "18+ 🔞",
+        "name": "riiyu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997975538313650176/rghQI49l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3197,
+          "following_count": 362,
+          "like_count": 14442,
+          "listed_count": 13,
+          "media_count": 60,
+          "tweet_count": 1383
+        },
+        "url": "https://t.co/IkBB0yddCz",
+        "username": "riiyumy",
+        "verified": false
+      }
+    ]
+  }
+}

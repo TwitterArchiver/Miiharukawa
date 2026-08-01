@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2031086056993624406",
+    "created_at": "2026-03-17T16:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T17:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033944086370259247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1328922423438303234",
+          "start": 0,
+          "username": "2r3mm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033944086370259247",
+    "in_reply_to_user_id": "1328922423438303234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033944011619307965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2r3mm 素 炸了三个了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2031086056993624406",
+        "created_at": "2026-03-17T16:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T17:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033944086370259247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1328922423438303234",
+              "start": 0,
+              "username": "2r3mm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033944086370259247",
+        "in_reply_to_user_id": "1328922423438303234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033944011619307965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2r3mm 素 炸了三个了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1328922423438303234",
+        "conversation_id": "2031086056993624406",
+        "created_at": "2026-03-17T16:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T17:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033944011619307965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033944011619307965",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031086056993624406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 之前那个号是炸了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 130,
+          "like_count": 2579,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 716
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-18T04:46:19.000Z",
+        "description": "说实话我觉得简介写那么一大串挺无聊的",
+        "id": "1328922423438303234",
+        "location": "未知之境",
+        "name": "🪶✒️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031045940161982464/WSjCBOff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 262,
+          "like_count": 2060,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 3078
+        },
+        "username": "2r3mm",
+        "verified": false
+      }
+    ]
+  }
+}

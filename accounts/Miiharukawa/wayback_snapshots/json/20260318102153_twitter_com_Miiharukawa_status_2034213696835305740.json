@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2034213696835305740",
+    "created_at": "2026-03-18T10:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T11:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034213696835305740"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuanccorz/stat…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/yuanccorz/status/2033956259163214118",
+          "start": 58,
+          "url": "https://t.co/6SoHfZJ2zL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034213696835305740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033956259163214118",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "收一台0r左右的switch2，本人钱不多，但真的很想要，会好好对待的，不会拿去卖掉，会好好珍惜的，希望来个有缘人 https://t.co/6SoHfZJ2zL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2034213696835305740",
+        "created_at": "2026-03-18T10:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T11:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034213696835305740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuanccorz/stat…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/yuanccorz/status/2033956259163214118",
+              "start": 58,
+              "url": "https://t.co/6SoHfZJ2zL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034213696835305740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033956259163214118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收一台0r左右的switch2，本人钱不多，但真的很想要，会好好对待的，不会拿去卖掉，会好好珍惜的，希望来个有缘人 https://t.co/6SoHfZJ2zL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991976361356124160",
+        "conversation_id": "2033956259163214118",
+        "created_at": "2026-03-17T17:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T18:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033956259163214118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0twt012/status…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/0twt012/status/2033819987773898833",
+              "start": 58,
+              "url": "https://t.co/0RKy89Fad1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033956259163214118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033819987773898833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收一台0r左右的switch2，本人钱不多，但真的很想要，会好好对待的，不会拿去卖掉，会好好珍惜的，希望来个有缘人 https://t.co/0RKy89Fad1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 134,
+          "like_count": 2725,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T21:05:55.000Z",
+        "description": "烦烦烦＇＇丿丶ーノ冖丿丶对人没兴趣中",
+        "id": "1991976361356124160",
+        "location": "小狗男你把我毁了",
+        "name": "小缘",
+        "pinned_tweet_id": "2014852228012789824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033852675838906372/g2Q5EdWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 80,
+          "like_count": 5301,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 920
+        },
+        "username": "YUANccorz",
+        "verified": false
+      }
+    ]
+  }
+}

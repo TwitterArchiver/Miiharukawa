@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2078141358590800250",
+    "created_at": "2026-07-19T05:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T06:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078721040260501985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1899704475880751104",
+          "start": 0,
+          "username": "D4ncingc4p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078721040260501985",
+    "in_reply_to_user_id": "1899704475880751104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078702366149464282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D4ncingc4p 这张图看起来不聪明"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_2078702355412119552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkIx2AbcAAqXNM.jpg",
+        "width": 727
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2078141358590800250",
+        "created_at": "2026-07-19T05:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078721040260501985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1899704475880751104",
+              "start": 0,
+              "username": "D4ncingc4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078721040260501985",
+        "in_reply_to_user_id": "1899704475880751104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078702366149464282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D4ncingc4p 这张图看起来不聪明"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078702355412119552"
+          ]
+        },
+        "author_id": "1899704475880751104",
+        "conversation_id": "2078141358590800250",
+        "created_at": "2026-07-19T04:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078702366149464282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3FYtP62ZkD",
+              "end": 74,
+              "expanded_url": "https://x.com/D4ncingc4p/status/2078702366149464282/photo/1",
+              "media_key": "3_2078702355412119552",
+              "start": 51,
+              "url": "https://t.co/3FYtP62ZkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078702366149464282",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078141358590800250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 换个思路，这个时间点的其他时间段都是“智力不这么差的时候”，听起来聪明多了 https://t.co/3FYtP62ZkD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一摇 遥一摇",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 254,
+          "like_count": 10602,
+          "listed_count": 10,
+          "media_count": 492,
+          "tweet_count": 4032
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T06:10:46.000Z",
+        "description": "什么都发",
+        "id": "1899704475880751104",
+        "location": "床上",
+        "name": "Joe Barbarian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025839336336265216/Z4tZWELa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 20,
+          "like_count": 2090,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 794
+        },
+        "url": "",
+        "username": "D4ncingc4p",
+        "verified": false
+      }
+    ]
+  }
+}

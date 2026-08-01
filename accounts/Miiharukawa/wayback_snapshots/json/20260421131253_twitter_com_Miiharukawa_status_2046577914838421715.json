@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2046577914838421715",
+    "created_at": "2026-04-21T13:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T14:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046577914838421715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ryqr116/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/ryqr116/status/2046547678465609880",
+          "start": 24,
+          "url": "https://t.co/OqsqKeBGIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046577914838421715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046547678465609880",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到底在感叹什么🌚这也叫好事 这不就是亲子关系吗 https://t.co/OqsqKeBGIU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 966,
+        "media_key": "3_2046547660929163264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbMQSmW4AAE8x9.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2046577914838421715",
+        "created_at": "2026-04-21T13:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046577914838421715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ryqr116/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ryqr116/status/2046547678465609880",
+              "start": 24,
+              "url": "https://t.co/OqsqKeBGIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046577914838421715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046547678465609880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底在感叹什么🌚这也叫好事 这不就是亲子关系吗 https://t.co/OqsqKeBGIU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046547660929163264"
+          ]
+        },
+        "author_id": "1974825034100187136",
+        "conversation_id": "2046547678465609880",
+        "created_at": "2026-04-21T11:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046547678465609880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t0ozG0CPIn",
+              "end": 73,
+              "expanded_url": "https://x.com/ryqr116/status/2046547678465609880/photo/1",
+              "media_key": "3_2046547660929163264",
+              "start": 50,
+              "url": "https://t.co/t0ozG0CPIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046547678465609880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "b人真的是我见过最脑残的群体，点开主页发现又是男串女😂😂🙏集帅你坤续打造“00后疯抢80后”既视感 https://t.co/t0ozG0CPIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 188,
+          "like_count": 5481,
+          "listed_count": 4,
+          "media_count": 214,
+          "tweet_count": 1928
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T13:12:43.000Z",
+        "description": "我与我周旋久",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryqr116",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ryqr116",
+                "start": 0,
+                "url": "https://t.co/EvzkXg3Jki"
+              }
+            ]
+          }
+        },
+        "id": "1974825034100187136",
+        "location": "提问箱",
+        "name": "frost",
+        "pinned_tweet_id": "2046169605123567866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036426076239376384/1gh4u45L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 17,
+          "like_count": 2834,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/EvzkXg3Jki",
+        "username": "ryqr116",
+        "verified": false
+      }
+    ]
+  }
+}

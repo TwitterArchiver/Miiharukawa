@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2048646853961666609",
+    "created_at": "2026-04-27T06:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T07:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048646853961666609"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048646853961666609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不觉得为了喜欢的人减肥健身是对方应该感激的事情，因为受益者只有自己，你的付出只是你一厢情愿，没必要强加给对方，说啊我都为你减肥健身了你为啥拒绝我的追求我还不够努力吗。\n但实际上受益者只有你啊，拒绝你的追求是对方的权利，没必要道德绑架说自己付出了多少。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2048646853961666609",
+        "created_at": "2026-04-27T06:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048646853961666609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048646853961666609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不觉得为了喜欢的人减肥健身是对方应该感激的事情，因为受益者只有自己，你的付出只是你一厢情愿，没必要强加给对方，说啊我都为你减肥健身了你为啥拒绝我的追求我还不够努力吗。\n但实际上受益者只有你啊，拒绝你的追求是对方的权利，没必要道德绑架说自己付出了多少。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "碎碎念bot\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 193,
+          "like_count": 5931,
+          "listed_count": 6,
+          "media_count": 238,
+          "tweet_count": 2208
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

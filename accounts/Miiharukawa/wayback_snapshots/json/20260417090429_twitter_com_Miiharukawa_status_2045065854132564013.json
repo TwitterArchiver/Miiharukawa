@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045065848512266240"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2045060241092686230",
+    "created_at": "2026-04-17T09:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T10:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045065854132564013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688138166098939904",
+          "start": 0,
+          "username": "woshibendan911"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ktIxn2hWE7",
+          "end": 39,
+          "expanded_url": "https://x.com/Miiharukawa/status/2045065854132564013/photo/1",
+          "media_key": "3_2045065848512266240",
+          "start": 16,
+          "url": "https://t.co/ktIxn2hWE7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045065854132564013",
+    "in_reply_to_user_id": "1688138166098939904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045065462506311773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshibendan911 https://t.co/ktIxn2hWE7"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2045065462506311773].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2045065462506311773",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2045065462506311773"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2002,
+        "media_key": "3_2045065848512266240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGIjdLbQAAQIKa.jpg",
+        "width": 1001
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045065848512266240"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2045060241092686230",
+        "created_at": "2026-04-17T09:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T10:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045065854132564013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688138166098939904",
+              "start": 0,
+              "username": "woshibendan911"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ktIxn2hWE7",
+              "end": 39,
+              "expanded_url": "https://x.com/Miiharukawa/status/2045065854132564013/photo/1",
+              "media_key": "3_2045065848512266240",
+              "start": 16,
+              "url": "https://t.co/ktIxn2hWE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045065854132564013",
+        "in_reply_to_user_id": "1688138166098939904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045065462506311773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshibendan911 https://t.co/ktIxn2hWE7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 177,
+          "like_count": 5103,
+          "listed_count": 4,
+          "media_count": 203,
+          "tweet_count": 1771
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T10:41:23.000Z",
+        "description": "偶尔有窃窃私语的声音，然后又归于平静",
+        "id": "1688138166098939904",
+        "name": "天使不在的十二月",
+        "pinned_tweet_id": "2040572823186677946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032869670634844160/Kf1X98Vh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 75,
+          "like_count": 5387,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2934
+        },
+        "username": "woshibendan911",
+        "verified": false
+      }
+    ]
+  }
+}

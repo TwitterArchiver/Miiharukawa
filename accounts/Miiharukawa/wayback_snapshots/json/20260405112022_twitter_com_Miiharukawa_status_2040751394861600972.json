@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2040749282740113733",
+    "created_at": "2026-04-05T11:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T12:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040751394861600972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2003562997604823040",
+          "start": 0,
+          "username": "chengorange777"
+        }
+      ],
+      "urls": [
+        {
+          "description": "通过一组简单的问题了解您的性取向在象限图上的坐标位置，快来试试看吧！",
+          "display_url": "arealme.com/sexuality-orie…",
+          "end": 39,
+          "expanded_url": "https://www.arealme.com/sexuality-orientation-test/cn/",
+          "start": 16,
+          "status": 200,
+          "title": "性取向坐标测试",
+          "unwound_url": "https://www.arealme.com/sexuality-orientation-test/cn/",
+          "url": "https://t.co/soYgfy6MKO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040751394861600972",
+    "in_reply_to_user_id": "2003562997604823040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040750468994134274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengorange777 https://t.co/soYgfy6MKO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2040749282740113733",
+        "created_at": "2026-04-05T11:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040751394861600972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2003562997604823040",
+              "start": 0,
+              "username": "chengorange777"
+            }
+          ],
+          "urls": [
+            {
+              "description": "通过一组简单的问题了解您的性取向在象限图上的坐标位置，快来试试看吧！",
+              "display_url": "arealme.com/sexuality-orie…",
+              "end": 39,
+              "expanded_url": "https://www.arealme.com/sexuality-orientation-test/cn/",
+              "start": 16,
+              "status": 200,
+              "title": "性取向坐标测试",
+              "unwound_url": "https://www.arealme.com/sexuality-orientation-test/cn/",
+              "url": "https://t.co/soYgfy6MKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040751394861600972",
+        "in_reply_to_user_id": "2003562997604823040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040750468994134274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengorange777 https://t.co/soYgfy6MKO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003562997604823040",
+        "conversation_id": "2040749282740113733",
+        "created_at": "2026-04-05T11:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040750468994134274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040750468994134274",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040749282740113733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 宝宝这个怎么测试哇！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 167,
+          "like_count": 4315,
+          "listed_count": 3,
+          "media_count": 163,
+          "tweet_count": 1369
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T20:27:16.000Z",
+        "description": "CN/EN. 小桔Orange🍊\n🔮塔罗&水晶个人玩家\n🖤喜欢音声|可能产出\n🩶嘴很毒 会预防性拉黑\n🤍https://t.co/zMlI8nnTxW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chengorange",
+                "end": 75,
+                "expanded_url": "https://ngl.link/chengorange",
+                "start": 52,
+                "url": "https://t.co/zMlI8nnTxW"
+              }
+            ]
+          }
+        },
+        "id": "2003562997604823040",
+        "name": "小桔不是程子",
+        "pinned_tweet_id": "2038321485992140951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003567055929499648/4l09gn_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 162,
+          "like_count": 1043,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 572
+        },
+        "username": "chengorange777",
+        "verified": false
+      }
+    ]
+  }
+}

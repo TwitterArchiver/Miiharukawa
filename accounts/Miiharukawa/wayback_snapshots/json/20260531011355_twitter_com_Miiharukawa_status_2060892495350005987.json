@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060892434876534784"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2060892495350005987",
+    "created_at": "2026-05-31T01:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T02:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060892495350005987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PLqxpRkXFN",
+          "end": 23,
+          "expanded_url": "https://x.com/Miiharukawa/status/2060892495350005987/video/1",
+          "media_key": "13_2060892434876534784",
+          "start": 0,
+          "url": "https://t.co/PLqxpRkXFN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060892495350005987",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "https://t.co/PLqxpRkXFN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3350,
+        "height": 1280,
+        "media_key": "13_2060892434876534784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060892434876534784/img/VaNjny8cT6XBR2bL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060892434876534784/vid/avc1/320x602/PsZemS5D5g1ionll.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060892434876534784/vid/avc1/480x902/uJqV6o2ZSPuHkjlw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060892434876534784/vid/avc1/680x1280/uY8KcnNRpze2PKvW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060892434876534784/pl/STl9748fSo7r33qP.m3u8"
+          }
+        ],
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060892434876534784"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2060892495350005987",
+        "created_at": "2026-05-31T01:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060892495350005987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PLqxpRkXFN",
+              "end": 23,
+              "expanded_url": "https://x.com/Miiharukawa/status/2060892495350005987/video/1",
+              "media_key": "13_2060892434876534784",
+              "start": 0,
+              "url": "https://t.co/PLqxpRkXFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060892495350005987",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/PLqxpRkXFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 233,
+          "like_count": 8518,
+          "listed_count": 6,
+          "media_count": 350,
+          "tweet_count": 3233
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

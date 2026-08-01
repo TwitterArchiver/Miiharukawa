@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2069290678841151846",
+    "created_at": "2026-06-23T05:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069295704804413756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2842549538",
+          "start": 0,
+          "username": "Reflectier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069295704804413756",
+    "in_reply_to_user_id": "2842549538",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069290678841151846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reflectier 抱着猫猫呼噜呼噜很幸福嘟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2069290669009694720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeY5l9acAA0kHy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069290669013950464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeY5l-bYAA5UaH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2069290668955168768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeY5lwacAAvE-M.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069290668955222017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeY5lwbQAERwnH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2069290678841151846",
+        "created_at": "2026-06-23T05:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069295704804413756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2842549538",
+              "start": 0,
+              "username": "Reflectier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069295704804413756",
+        "in_reply_to_user_id": "2842549538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069290678841151846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reflectier 抱着猫猫呼噜呼噜很幸福嘟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069290669009694720",
+            "3_2069290669013950464",
+            "3_2069290668955168768",
+            "3_2069290668955222017"
+          ]
+        },
+        "author_id": "2842549538",
+        "conversation_id": "2069290678841151846",
+        "created_at": "2026-06-23T05:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069290678841151846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcFtXdz8DU",
+              "end": 111,
+              "expanded_url": "https://x.com/Reflectier/status/2069290678841151846/photo/1",
+              "media_key": "3_2069290669009694720",
+              "start": 88,
+              "url": "https://t.co/ZcFtXdz8DU"
+            },
+            {
+              "display_url": "pic.x.com/ZcFtXdz8DU",
+              "end": 111,
+              "expanded_url": "https://x.com/Reflectier/status/2069290678841151846/photo/1",
+              "media_key": "3_2069290669013950464",
+              "start": 88,
+              "url": "https://t.co/ZcFtXdz8DU"
+            },
+            {
+              "display_url": "pic.x.com/ZcFtXdz8DU",
+              "end": 111,
+              "expanded_url": "https://x.com/Reflectier/status/2069290678841151846/photo/1",
+              "media_key": "3_2069290668955168768",
+              "start": 88,
+              "url": "https://t.co/ZcFtXdz8DU"
+            },
+            {
+              "display_url": "pic.x.com/ZcFtXdz8DU",
+              "end": 111,
+              "expanded_url": "https://x.com/Reflectier/status/2069290678841151846/photo/1",
+              "media_key": "3_2069290668955222017",
+              "start": 88,
+              "url": "https://t.co/ZcFtXdz8DU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069290678841151846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的uu们因为岁月太静好了，所以以后可能不会很常上推了。因为我个人是一个很容易被感染情绪被左右情绪的人，我发现不刷推对自己更好，心态会更平和。如果有互关想加好友可以私信我。 https://t.co/ZcFtXdz8DU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一遥 遥一遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 242,
+          "like_count": 9652,
+          "listed_count": 6,
+          "media_count": 431,
+          "tweet_count": 3679
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-06T17:18:11.000Z",
+        "description": "夜撫でるネコたち\n无孩爱猫男。日常向，但混杂键政内容，但在努力不键政中，谨慎关注\n粉红和男拳师会直接拉黑，所以欢迎一击脱离",
+        "id": "2842549538",
+        "location": "Victoria, Australia",
+        "name": "森絵",
+        "pinned_tweet_id": "1932021028630471065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008429721395359750/rSe6FYnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 953,
+          "like_count": 46876,
+          "listed_count": 12,
+          "media_count": 1543,
+          "tweet_count": 25769
+        },
+        "url": "",
+        "username": "Reflectier",
+        "verified": false
+      }
+    ]
+  }
+}

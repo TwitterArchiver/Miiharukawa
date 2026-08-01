@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2055826738677264419",
+    "created_at": "2026-05-17T06:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055902799356211274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1560411093075316736",
+          "start": 0,
+          "username": "Mini_SaltedFish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055902799356211274",
+    "in_reply_to_user_id": "1560411093075316736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055898200968704384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mini_SaltedFish 我发现带参宿四的非常难杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2055826738677264419",
+        "created_at": "2026-05-17T06:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055902799356211274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1560411093075316736",
+              "start": 0,
+              "username": "Mini_SaltedFish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055902799356211274",
+        "in_reply_to_user_id": "1560411093075316736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055898200968704384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mini_SaltedFish 我发现带参宿四的非常难杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560411093075316736",
+        "conversation_id": "2055826738677264419",
+        "created_at": "2026-05-17T06:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055898200968704384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055898200968704384",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055826738677264419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 我之前试过，还是上班的时候，根本死不掉，当时就吐了几口带血的呕吐物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 218,
+          "like_count": 7529,
+          "listed_count": 6,
+          "media_count": 306,
+          "tweet_count": 2917
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T23:39:41.000Z",
+        "description": "淡淡的，没人爱\n喜欢短发妹妹、短发t姐、成熟大姐姐，但是没人喜欢我",
+        "id": "1560411093075316736",
+        "name": "小咸鱼#参宿四",
+        "pinned_tweet_id": "2017021222752821364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050635219196342272/rXjIEJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 772,
+          "like_count": 28759,
+          "listed_count": 4,
+          "media_count": 23,
+          "tweet_count": 976
+        },
+        "username": "Mini_SaltedFish",
+        "verified": false
+      }
+    ]
+  }
+}

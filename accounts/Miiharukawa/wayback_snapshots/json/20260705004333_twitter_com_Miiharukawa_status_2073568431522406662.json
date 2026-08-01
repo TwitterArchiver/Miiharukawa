@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2073259784854450417",
+    "created_at": "2026-07-05T00:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T01:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073568431522406662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987421067884048384",
+          "start": 0,
+          "username": "yznb1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073568431522406662",
+    "in_reply_to_user_id": "1987421067884048384",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073464738755846462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yznb1234 👅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2073259784854450417",
+        "created_at": "2026-07-05T00:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T01:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073568431522406662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987421067884048384",
+              "start": 0,
+              "username": "yznb1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073568431522406662",
+        "in_reply_to_user_id": "1987421067884048384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073464738755846462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yznb1234 👅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987421067884048384",
+        "conversation_id": "2073259784854450417",
+        "created_at": "2026-07-04T17:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073464738755846462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073464738755846462",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073259784854450417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 啊！好饿。想吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102,
+          "following_count": 248,
+          "like_count": 10111,
+          "listed_count": 10,
+          "media_count": 454,
+          "tweet_count": 3863
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T07:24:57.000Z",
+        "description": "万人为我写诗而幸福却是此时\n不必回fo，感谢相遇",
+        "id": "1987421067884048384",
+        "location": "707",
+        "name": "(＾ω＾)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040669525604212736/vauyoVIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 591,
+          "like_count": 8020,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1827
+        },
+        "url": "",
+        "username": "yznb1234",
+        "verified": false
+      }
+    ]
+  }
+}

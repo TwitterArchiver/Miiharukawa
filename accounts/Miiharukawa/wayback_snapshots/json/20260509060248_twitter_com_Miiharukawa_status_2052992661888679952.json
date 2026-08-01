@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2052988459384770851",
+    "created_at": "2026-05-09T06:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052992661888679952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987421067884048384",
+          "start": 0,
+          "username": "yznb1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052992661888679952",
+    "in_reply_to_user_id": "1987421067884048384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052991047140335890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yznb1234 吃几把"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2052988459384770851",
+        "created_at": "2026-05-09T06:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052992661888679952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987421067884048384",
+              "start": 0,
+              "username": "yznb1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052992661888679952",
+        "in_reply_to_user_id": "1987421067884048384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052991047140335890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yznb1234 吃几把"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987421067884048384",
+        "conversation_id": "2052988459384770851",
+        "created_at": "2026-05-09T05:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052991047140335890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052991047140335890",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052988459384770851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 你偷吃了啥好吃的发炎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 215,
+          "like_count": 7109,
+          "listed_count": 4,
+          "media_count": 278,
+          "tweet_count": 2758
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T07:24:57.000Z",
+        "description": "无敌爱鸟大王",
+        "id": "1987421067884048384",
+        "location": "707",
+        "name": "(＾ω＾)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040669525604212736/vauyoVIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 527,
+          "like_count": 6225,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1419
+        },
+        "username": "yznb1234",
+        "verified": false
+      }
+    ]
+  }
+}

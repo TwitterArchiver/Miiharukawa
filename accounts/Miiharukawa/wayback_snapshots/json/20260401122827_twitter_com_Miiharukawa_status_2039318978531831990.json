@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2039318978531831990",
+    "created_at": "2026-04-01T12:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T13:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039318978531831990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2003562997604823040",
+          "start": 3,
+          "username": "chengorange777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039318978531831990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038321485992140951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chengorange777: hi～我是小桔🍊欢迎来找我玩～\n🖤读大学中\n🩶167 enfp\n🤍喜欢搞点塔罗🔮和水晶\n\n👉你可能会在这里看到：\n少量照片＋大量碎碎念\n我很爱讲话很爱吐槽🤗🤗\n不要烦我哦！\n\n补充一张投喂码🥰每一笔钱都会进入小桔的肚子里！😋 https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2038321483341271040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmSlvCakAA3dMd.jpg",
+        "width": 1038
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2039318978531831990",
+        "created_at": "2026-04-01T12:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039318978531831990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2003562997604823040",
+              "start": 3,
+              "username": "chengorange777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039318978531831990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038321485992140951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chengorange777: hi～我是小桔🍊欢迎来找我玩～\n🖤读大学中\n🩶167 enfp\n🤍喜欢搞点塔罗🔮和水晶\n\n👉你可能会在这里看到：\n少量照片＋大量碎碎念\n我很爱讲话很爱吐槽🤗🤗\n不要烦我哦！\n\n补充一张投喂码🥰每一笔钱都会进入小桔的肚子里！😋 https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038321483341271040"
+          ]
+        },
+        "author_id": "2003562997604823040",
+        "conversation_id": "2038321485992140951",
+        "created_at": "2026-03-29T18:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038321485992140951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xwQ0W8paf6",
+              "end": 136,
+              "expanded_url": "https://x.com/chengorange777/status/2038321485992140951/photo/1",
+              "media_key": "3_2038321483341271040",
+              "start": 113,
+              "url": "https://t.co/xwQ0W8paf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038321485992140951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 395,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "hi～我是小桔🍊欢迎来找我玩～\n🖤读大学中\n🩶167 enfp\n🤍喜欢搞点塔罗🔮和水晶\n\n👉你可能会在这里看到：\n少量照片＋大量碎碎念\n我很爱讲话很爱吐槽🤗🤗\n不要烦我哦！\n\n补充一张投喂码🥰每一笔钱都会进入小桔的肚子里！😋 https://t.co/xwQ0W8paf6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 160,
+          "like_count": 4029,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 1271
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T20:27:16.000Z",
+        "description": "小桔🍊\n🔮塔罗&水晶个人玩家\n🖤喜欢音声|可能产出\n🩶嘴很毒 会预防性拉黑\n🤍https://t.co/zMlI8nnTxW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chengorange",
+                "end": 62,
+                "expanded_url": "https://ngl.link/chengorange",
+                "start": 39,
+                "url": "https://t.co/zMlI8nnTxW"
+              }
+            ]
+          }
+        },
+        "id": "2003562997604823040",
+        "name": "小桔不是程子",
+        "pinned_tweet_id": "2038321485992140951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003567055929499648/4l09gn_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 133,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 382
+        },
+        "username": "chengorange777",
+        "verified": false
+      }
+    ]
+  }
+}

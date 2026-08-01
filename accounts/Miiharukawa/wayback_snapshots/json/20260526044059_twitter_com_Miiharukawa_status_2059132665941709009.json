@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059132653748768768"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2059132665941709009",
+    "created_at": "2026-05-26T04:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059132665941709009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XfQSKh7FrA",
+          "end": 87,
+          "expanded_url": "https://x.com/Miiharukawa/status/2059132665941709009/photo/1",
+          "media_key": "3_2059132653748768768",
+          "start": 64,
+          "url": "https://t.co/XfQSKh7FrA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059132665941709009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "沪上阿姨的西瓜冰茶点三分糖很美味……\n（因为里面的茉莉茶冻很甜，果茶本身也会很甜，三分糖刚刚好）\n相信我\n不好喝我就自罚一杯。 https://t.co/XfQSKh7FrA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059132653748768768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOCPSQaUAAb1Rk.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059132653748768768"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2059132665941709009",
+        "created_at": "2026-05-26T04:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059132665941709009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XfQSKh7FrA",
+              "end": 87,
+              "expanded_url": "https://x.com/Miiharukawa/status/2059132665941709009/photo/1",
+              "media_key": "3_2059132653748768768",
+              "start": 64,
+              "url": "https://t.co/XfQSKh7FrA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059132665941709009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "沪上阿姨的西瓜冰茶点三分糖很美味……\n（因为里面的茉莉茶冻很甜，果茶本身也会很甜，三分糖刚刚好）\n相信我\n不好喝我就自罚一杯。 https://t.co/XfQSKh7FrA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1720,
+          "following_count": 224,
+          "like_count": 8166,
+          "listed_count": 6,
+          "media_count": 337,
+          "tweet_count": 3129
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

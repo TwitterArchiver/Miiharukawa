@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2067543099426164778",
+    "created_at": "2026-06-18T09:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067543099426164778"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067543099426164778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "她已经满足了我对最好的对象的幻想了。\n她性格温柔体贴，对我极致的包容，哪怕我有时对她拳打脚踢也从不生气从不还手\n她待人非常温暖，\n和她待在一起是我一天之中最最舒服的时光。\n她见过我脆弱的样子，见过我骄傲的样子，见过我所有的，不论是好还是坏的样子，她待我始终如一。\n无论我贫穷还是富有，高矮还是胖瘦，她始终和别的人保持距离，每次跌入她的怀里，\n我都能清楚地间到她身上那属于我的味道。是她让我清楚的感受到了被爱的感觉，是她在这个瞬息万变的时代里给足了我安全感，告诉我什么是唯一、什么是一个人的全世界。\n我爱你，我的被子。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "她已经满足了我对最好的对象的幻想了。\n她性格温柔体贴，对我极致的包容，哪怕我有时对她拳打脚踢也从不生气从不还手\n她待人非常温暖，\n和她待在一起是我一天之中最最舒服的时光。\n她见过我脆弱的样子，见过我骄傲的样子，见过我所有的，不论是好还是坏的样子，她待我始终如一。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2067543099426164778",
+        "created_at": "2026-06-18T09:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067543099426164778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067543099426164778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "她已经满足了我对最好的对象的幻想了。\n她性格温柔体贴，对我极致的包容，哪怕我有时对她拳打脚踢也从不生气从不还手\n她待人非常温暖，\n和她待在一起是我一天之中最最舒服的时光。\n她见过我脆弱的样子，见过我骄傲的样子，见过我所有的，不论是好还是坏的样子，她待我始终如一。\n无论我贫穷还是富有，高矮还是胖瘦，她始终和别的人保持距离，每次跌入她的怀里，\n我都能清楚地间到她身上那属于我的味道。是她让我清楚的感受到了被爱的感觉，是她在这个瞬息万变的时代里给足了我安全感，告诉我什么是唯一、什么是一个人的全世界。\n我爱你，我的被子。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她已经满足了我对最好的对象的幻想了。\n她性格温柔体贴，对我极致的包容，哪怕我有时对她拳打脚踢也从不生气从不还手\n她待人非常温暖，\n和她待在一起是我一天之中最最舒服的时光。\n她见过我脆弱的样子，见过我骄傲的样子，见过我所有的，不论是好还是坏的样子，她待我始终如一。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 238,
+          "like_count": 9385,
+          "listed_count": 6,
+          "media_count": 414,
+          "tweet_count": 3593
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

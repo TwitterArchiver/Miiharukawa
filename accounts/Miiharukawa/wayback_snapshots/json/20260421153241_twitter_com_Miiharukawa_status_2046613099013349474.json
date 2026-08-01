@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2046611642352570462",
+    "created_at": "2026-04-21T15:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046613099013349474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046613099013349474",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046611642352570462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 太好了有片看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046611635033587712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcGcEtbwAA-MjI.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046611635356532736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcGcF6bgAAUPlg.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2046611642352570462",
+        "created_at": "2026-04-21T15:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046613099013349474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046613099013349474",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046611642352570462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 太好了有片看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046611635033587712",
+            "3_2046611635356532736"
+          ]
+        },
+        "author_id": "1765825463103139840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046611642352570462",
+        "created_at": "2026-04-21T15:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046611642352570462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9qPbAqHdP",
+              "end": 37,
+              "expanded_url": "https://x.com/Chloris923/status/2046611642352570462/photo/1",
+              "media_key": "3_2046611635033587712",
+              "start": 14,
+              "url": "https://t.co/A9qPbAqHdP"
+            },
+            {
+              "display_url": "pic.x.com/A9qPbAqHdP",
+              "end": 37,
+              "expanded_url": "https://x.com/Chloris923/status/2046611642352570462/photo/1",
+              "media_key": "3_2046611635356532736",
+              "start": 14,
+              "url": "https://t.co/A9qPbAqHdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046611642352570462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "既然翻到了你们就都看看吧。 https://t.co/A9qPbAqHdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 188,
+          "like_count": 5496,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 1936
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "经常性记忆缺失致歉",
+        "id": "1765825463103139840",
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ",
+        "name": "🌙",
+        "pinned_tweet_id": "2045098516025057777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042288116799848450/Ru431sCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 271,
+          "like_count": 32272,
+          "listed_count": 3,
+          "media_count": 617,
+          "tweet_count": 18184
+        },
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

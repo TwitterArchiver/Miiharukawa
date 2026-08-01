@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2057863232401056011",
+    "created_at": "2026-05-22T17:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057877280270250278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010312682042429440",
+          "start": 0,
+          "username": "yukiiiiii004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057877280270250278",
+    "in_reply_to_user_id": "2010312682042429440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057863232401056011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukiiiiii004 已严肃把自己埋进去了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057863226399010817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7_s43aMAEarrn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2057863232401056011",
+        "created_at": "2026-05-22T17:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057877280270250278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010312682042429440",
+              "start": 0,
+              "username": "yukiiiiii004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057877280270250278",
+        "in_reply_to_user_id": "2010312682042429440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057863232401056011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukiiiiii004 已严肃把自己埋进去了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057863226399010817"
+          ]
+        },
+        "author_id": "2010312682042429440",
+        "conversation_id": "2057863232401056011",
+        "created_at": "2026-05-22T16:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057863232401056011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BMTCiAK49",
+              "end": 29,
+              "expanded_url": "https://x.com/yukiiiiii004/status/2057863232401056011/photo/1",
+              "media_key": "3_2057863226399010817",
+              "start": 6,
+              "url": "https://t.co/1BMTCiAK49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057863232401056011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 345,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "再靠近一点 https://t.co/1BMTCiAK49"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 223,
+          "like_count": 8002,
+          "listed_count": 6,
+          "media_count": 326,
+          "tweet_count": 3091
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T11:27:57.000Z",
+        "description": "Yuki /小季 🇨🇳‖ intj ‖欢迎妹宝互fo 妹宝记得私信我回关\n不是🚪姐 不接任何金钱交易 赛博暴露癖 每个人的夸夸都会带给我幸福！‖\n匿名信箱：https://t.co/gnTyvifY64",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukiiiiii004",
+                "end": 101,
+                "expanded_url": "https://ngl.link/yukiiiiii004",
+                "start": 78,
+                "url": "https://t.co/gnTyvifY64"
+              }
+            ]
+          }
+        },
+        "id": "2010312682042429440",
+        "name": "Yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034629215069605888/AT-GTw_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2556,
+          "following_count": 46,
+          "like_count": 651,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 511
+        },
+        "username": "yukiiiiii004",
+        "verified": false
+      }
+    ]
+  }
+}

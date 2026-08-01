@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2047695338509942913",
+    "created_at": "2026-04-24T15:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047695338509942913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1595690315452542976",
+          "start": 3,
+          "username": "Bella72519965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047695338509942913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047606616661676319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bella72519965: 唉 x的性质太特殊了 性欲的释放本身是正常的 但是当一切都和性联系在一起就变味了 没人会在意你文字的内容 在意你又在痛苦什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2047695338509942913",
+        "created_at": "2026-04-24T15:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047695338509942913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1595690315452542976",
+              "start": 3,
+              "username": "Bella72519965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047695338509942913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047606616661676319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bella72519965: 唉 x的性质太特殊了 性欲的释放本身是正常的 但是当一切都和性联系在一起就变味了 没人会在意你文字的内容 在意你又在痛苦什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595690315452542976",
+        "conversation_id": "2047606616661676319",
+        "created_at": "2026-04-24T09:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047606616661676319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047606616661676319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2492,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "唉 x的性质太特殊了 性欲的释放本身是正常的 但是当一切都和性联系在一起就变味了 没人会在意你文字的内容 在意你又在痛苦什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "怨是用希\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 189,
+          "like_count": 5707,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 2075
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T08:06:41.000Z",
+        "description": "🥦 不聊黄不聊骚纯碎碎念 取关随意",
+        "id": "1595690315452542976",
+        "name": "犯困西兰花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923703219315769344/kAbqHPPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 387,
+          "like_count": 1624,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 915
+        },
+        "username": "Bella72519965",
+        "verified": false
+      }
+    ]
+  }
+}

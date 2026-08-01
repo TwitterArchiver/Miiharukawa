@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064551187614195712"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2064551195927302253",
+    "created_at": "2026-06-10T03:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064551195927302253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NvOXsx939I",
+          "end": 36,
+          "expanded_url": "https://x.com/Miiharukawa/status/2064551195927302253/photo/1",
+          "media_key": "3_2064551187614195712",
+          "start": 13,
+          "url": "https://t.co/NvOXsx939I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064551195927302253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这张图已经是我第二次发了 https://t.co/NvOXsx939I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_2064551187614195712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbCXd5a4AAP9xX.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064551187614195712"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2064551195927302253",
+        "created_at": "2026-06-10T03:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064551195927302253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NvOXsx939I",
+              "end": 36,
+              "expanded_url": "https://x.com/Miiharukawa/status/2064551195927302253/photo/1",
+              "media_key": "3_2064551187614195712",
+              "start": 13,
+              "url": "https://t.co/NvOXsx939I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064551195927302253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张图已经是我第二次发了 https://t.co/NvOXsx939I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064206097993629696/hG17hldS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 238,
+          "like_count": 9078,
+          "listed_count": 6,
+          "media_count": 392,
+          "tweet_count": 3466
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

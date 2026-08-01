@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2062367030486196334",
+    "created_at": "2026-06-04T03:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062383723174301935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1988636973117083648",
+          "start": 0,
+          "username": "butingrain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062383723174301935",
+    "in_reply_to_user_id": "1988636973117083648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062376313336586413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@butingrain 咬你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2062367030486196334",
+        "created_at": "2026-06-04T03:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062383723174301935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988636973117083648",
+              "start": 0,
+              "username": "butingrain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062383723174301935",
+        "in_reply_to_user_id": "1988636973117083648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062376313336586413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@butingrain 咬你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988636973117083648",
+        "conversation_id": "2062367030486196334",
+        "created_at": "2026-06-04T03:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062376313336586413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062376313336586413",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062367030486196334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 小猫吐舌头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 233,
+          "like_count": 8900,
+          "listed_count": 6,
+          "media_count": 363,
+          "tweet_count": 3363
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T15:57:26.000Z",
+        "description": "并非人类     kaf小姐是神   术力口/日摇/D＆B     重度arcaea玩家 喵喵喵喵喵喵",
+        "id": "1988636973117083648",
+        "name": "Y_T＆X_X＆T_Y",
+        "pinned_tweet_id": "1988721997908676724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988641401626599424/x5LwqQUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 39,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 242
+        },
+        "username": "butingrain",
+        "verified": false
+      }
+    ]
+  }
+}

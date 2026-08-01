@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2082420210313945528",
+    "created_at": "2026-07-29T11:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082431881895870693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934448761406935042",
+          "start": 0,
+          "username": "Ajs_aya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082431881895870693",
+    "in_reply_to_user_id": "1934448761406935042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082429228189090274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ajs_aya 多鸡鸡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2082420210313945528",
+        "created_at": "2026-07-29T11:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082431881895870693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934448761406935042",
+              "start": 0,
+              "username": "Ajs_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082431881895870693",
+        "in_reply_to_user_id": "1934448761406935042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082429228189090274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajs_aya 多鸡鸡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934448761406935042",
+        "conversation_id": "2082420210313945528",
+        "created_at": "2026-07-29T11:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082429228189090274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082429228189090274",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082423125942386830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 羡慕你有搞女同性恋的资格\n我没有😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一摇 遥一摇",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2136,
+          "following_count": 256,
+          "like_count": 10809,
+          "listed_count": 10,
+          "media_count": 506,
+          "tweet_count": 4122
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T03:11:47.000Z",
+        "description": "@Ajs_ririka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Ajs_ririka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ajisairirika",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ajisairirika",
+                "start": 0,
+                "url": "https://t.co/Y1JnnRLJtz"
+              }
+            ]
+          }
+        },
+        "id": "1934448761406935042",
+        "name": "Aya",
+        "pinned_tweet_id": "2079820684918730837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078014243144962048/Ch5fSIYH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 73,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/Y1JnnRLJtz",
+        "username": "Ajs_aya",
+        "verified": false
+      }
+    ]
+  }
+}

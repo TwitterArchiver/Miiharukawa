@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2040856152410571218",
+    "created_at": "2026-04-06T12:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041133029675106621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1959035687011065857",
+          "start": 0,
+          "username": "FangX79807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041133029675106621",
+    "in_reply_to_user_id": "1959035687011065857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040856152410571218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FangX79807 你到底是什么性取向。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2040856152410571218",
+        "created_at": "2026-04-06T12:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041133029675106621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1959035687011065857",
+              "start": 0,
+              "username": "FangX79807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041133029675106621",
+        "in_reply_to_user_id": "1959035687011065857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040856152410571218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FangX79807 你到底是什么性取向。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959035687011065857",
+        "conversation_id": "2040856152410571218",
+        "created_at": "2026-04-05T18:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040856152410571218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FangX79807/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/FangX79807/status/2040856087147303423",
+              "start": 8,
+              "url": "https://t.co/4ZdMr2MQRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040856152410571218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040856087147303423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个是我老公😋 https://t.co/4ZdMr2MQRh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 168,
+          "like_count": 4441,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1430
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T23:32:19.000Z",
+        "description": "4i 可以叫我乐乐  想要做一只小猫黏在对方身边https://t.co/h4B4lu9iWu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lele1207",
+                "end": 47,
+                "expanded_url": "https://ngl.link/lele1207",
+                "start": 24,
+                "url": "https://t.co/h4B4lu9iWu"
+              }
+            ]
+          }
+        },
+        "id": "1959035687011065857",
+        "name": "Xanny.",
+        "pinned_tweet_id": "1964760195453857998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016753831900852225/7AfwPheL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 188,
+          "like_count": 3803,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1746
+        },
+        "username": "FangX79807",
+        "verified": false
+      }
+    ]
+  }
+}

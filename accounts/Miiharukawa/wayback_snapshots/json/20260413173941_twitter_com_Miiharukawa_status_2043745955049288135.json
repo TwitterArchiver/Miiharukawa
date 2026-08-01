@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2043745955049288135",
+    "created_at": "2026-04-13T17:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T18:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043745955049288135"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043745955049288135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以我的观察那些能骗到很多钱很多爱的人其实什么都没做，就是嘴巴上示弱了而已，把自己放低楚楚可怜的样子，然后就备受宠爱了。但是说实话我感觉目的性很明显啊 感觉就像扒着你的钱包乞讨一样。不过即便如此也是有人愿挨的，这个世界就是这样充斥着各种各样的傻逼嘛。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2043745955049288135",
+        "created_at": "2026-04-13T17:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043745955049288135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043745955049288135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以我的观察那些能骗到很多钱很多爱的人其实什么都没做，就是嘴巴上示弱了而已，把自己放低楚楚可怜的样子，然后就备受宠爱了。但是说实话我感觉目的性很明显啊 感觉就像扒着你的钱包乞讨一样。不过即便如此也是有人愿挨的，这个世界就是这样充斥着各种各样的傻逼嘛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 171,
+          "like_count": 4871,
+          "listed_count": 3,
+          "media_count": 193,
+          "tweet_count": 1662
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

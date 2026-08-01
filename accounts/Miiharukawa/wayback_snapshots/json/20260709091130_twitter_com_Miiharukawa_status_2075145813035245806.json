@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2075102034026692992",
+    "created_at": "2026-07-09T09:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075145813035245806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009594484989026307",
+          "start": 0,
+          "username": "XiuJingDe953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075145813035245806",
+    "in_reply_to_user_id": "2009594484989026307",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075102034026692992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiuJingDe953 鹿爽了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18735,
+        "height": 1280,
+        "media_key": "13_2075101962530623488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075101962530623488/img/ftN0Ju_Tu9oziMJz.jpg",
+        "public_metrics": {
+          "view_count": 34
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075101962530623488/vid/avc1/320x568/_REpsNcyqxwY6mTO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075101962530623488/vid/avc1/480x852/hSFAi8jwPs3FcgRd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075101962530623488/vid/avc1/720x1280/hYSiaPBdgZcapPHJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075101962530623488/pl/4be5_QH8yw-_xqHp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2075102034026692992",
+        "created_at": "2026-07-09T09:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075145813035245806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009594484989026307",
+              "start": 0,
+              "username": "XiuJingDe953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075145813035245806",
+        "in_reply_to_user_id": "2009594484989026307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075102034026692992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiuJingDe953 鹿爽了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075101962530623488"
+          ]
+        },
+        "author_id": "2009594484989026307",
+        "conversation_id": "2075102034026692992",
+        "created_at": "2026-07-09T06:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075102034026692992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H9QBz7PiDc",
+              "end": 41,
+              "expanded_url": "https://x.com/XiuJingDe953/status/2075102034026692992/video/1",
+              "media_key": "13_2075101962530623488",
+              "start": 18,
+              "url": "https://t.co/H9QBz7PiDc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075102034026692992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给它摸爽了会不会给我一杯生椰拿铁喝 https://t.co/H9QBz7PiDc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一摇 遥一摇",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 251,
+          "like_count": 10263,
+          "listed_count": 10,
+          "media_count": 467,
+          "tweet_count": 3919
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T11:54:09.000Z",
+        "description": "记忆森林",
+        "id": "2009594484989026307",
+        "location": "🚪  78",
+        "name": "修靖德",
+        "pinned_tweet_id": "2009597299635446139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016005313074192384/9y9kfA1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 80,
+          "like_count": 839,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "XiuJingDe953",
+        "verified": false
+      }
+    ]
+  }
+}

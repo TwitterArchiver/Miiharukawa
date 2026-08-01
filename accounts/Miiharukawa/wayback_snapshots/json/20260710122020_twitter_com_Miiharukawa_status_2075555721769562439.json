@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075555713078943744"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2075555721769562439",
+    "created_at": "2026-07-10T12:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075555721769562439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fs033XHAch",
+          "end": 177,
+          "expanded_url": "https://x.com/Miiharukawa/status/2075555721769562439/photo/1",
+          "media_key": "3_2075555713078943744",
+          "start": 154,
+          "url": "https://t.co/Fs033XHAch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075555721769562439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "OMG求你们都去玩《兽娘红茶馆》好吗！？\n画风非常精美细节超多，我个人觉得这个游戏很像va-11和灵魂摆渡人结合体。玩法会类似va-11，剧情不错。总之是值得一玩的游戏👍（大概是视觉小说类）\n（我觉得猫娘妹妹已值回票价。。萌哭了\n夏促结束才想起来玩现在已经是原价48了_(:з」∠)_我入手的时候是30r喔 https://t.co/Fs033XHAch"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1185,
+        "media_key": "3_2075555713078943744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3a7J2aYAAjoyT.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075555713078943744"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2075555721769562439",
+        "created_at": "2026-07-10T12:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075555721769562439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fs033XHAch",
+              "end": 177,
+              "expanded_url": "https://x.com/Miiharukawa/status/2075555721769562439/photo/1",
+              "media_key": "3_2075555713078943744",
+              "start": 154,
+              "url": "https://t.co/Fs033XHAch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075555721769562439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OMG求你们都去玩《兽娘红茶馆》好吗！？\n画风非常精美细节超多，我个人觉得这个游戏很像va-11和灵魂摆渡人结合体。玩法会类似va-11，剧情不错。总之是值得一玩的游戏👍（大概是视觉小说类）\n（我觉得猫娘妹妹已值回票价。。萌哭了\n夏促结束才想起来玩现在已经是原价48了_(:з」∠)_我入手的时候是30r喔 https://t.co/Fs033XHAch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一摇 遥一摇",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2115,
+          "following_count": 251,
+          "like_count": 10318,
+          "listed_count": 10,
+          "media_count": 473,
+          "tweet_count": 3937
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2045192445722529829",
+    "created_at": "2026-04-18T00:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T01:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045298036516302992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1653712846943821824",
+          "start": 0,
+          "username": "Hkhcrownlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045298036516302992",
+    "in_reply_to_user_id": "1653712846943821824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045192445722529829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hkhcrownlove 紫色特别有韵味（？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_2045192438072147968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGH7r8CbAAAFEOW.jpg",
+        "width": 1022
+      },
+      {
+        "height": 667,
+        "media_key": "3_2045192438017576960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGH7r71aUAAVQLD.jpg",
+        "width": 1419
+      },
+      {
+        "height": 996,
+        "media_key": "3_2045192443025612800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGH7sOfa4AAjNCe.jpg",
+        "width": 1440
+      },
+      {
+        "height": 679,
+        "media_key": "3_2045192437992456192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGH7r7vbAAAf6Re.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2045192445722529829",
+        "created_at": "2026-04-18T00:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045298036516302992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1653712846943821824",
+              "start": 0,
+              "username": "Hkhcrownlove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045298036516302992",
+        "in_reply_to_user_id": "1653712846943821824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045192445722529829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hkhcrownlove 紫色特别有韵味（？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045192438072147968",
+            "3_2045192438017576960",
+            "3_2045192443025612800",
+            "3_2045192437992456192"
+          ]
+        },
+        "author_id": "1653712846943821824",
+        "conversation_id": "2045192445722529829",
+        "created_at": "2026-04-17T17:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045192445722529829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ppf3uqZ0On",
+              "end": 32,
+              "expanded_url": "https://x.com/Hkhcrownlove/status/2045192445722529829/photo/1",
+              "media_key": "3_2045192438072147968",
+              "start": 9,
+              "url": "https://t.co/Ppf3uqZ0On"
+            },
+            {
+              "display_url": "pic.x.com/Ppf3uqZ0On",
+              "end": 32,
+              "expanded_url": "https://x.com/Hkhcrownlove/status/2045192445722529829/photo/1",
+              "media_key": "3_2045192438017576960",
+              "start": 9,
+              "url": "https://t.co/Ppf3uqZ0On"
+            },
+            {
+              "display_url": "pic.x.com/Ppf3uqZ0On",
+              "end": 32,
+              "expanded_url": "https://x.com/Hkhcrownlove/status/2045192445722529829/photo/1",
+              "media_key": "3_2045192443025612800",
+              "start": 9,
+              "url": "https://t.co/Ppf3uqZ0On"
+            },
+            {
+              "display_url": "pic.x.com/Ppf3uqZ0On",
+              "end": 32,
+              "expanded_url": "https://x.com/Hkhcrownlove/status/2045192445722529829/photo/1",
+              "media_key": "3_2045192437992456192",
+              "start": 9,
+              "url": "https://t.co/Ppf3uqZ0On"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045192445722529829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 670,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你最喜欢哪个颜色 https://t.co/Ppf3uqZ0On"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 180,
+          "like_count": 5157,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 1794
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T10:47:38.000Z",
+        "description": "候鸟不等风，独行自有星海相逢\n     ❣️4大于1",
+        "id": "1653712846943821824",
+        "name": "南亭晚",
+        "pinned_tweet_id": "1982683272632258725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044325633111797763/ry2ugyMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 65,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 6176
+        },
+        "username": "Hkhcrownlove",
+        "verified": false
+      }
+    ]
+  }
+}

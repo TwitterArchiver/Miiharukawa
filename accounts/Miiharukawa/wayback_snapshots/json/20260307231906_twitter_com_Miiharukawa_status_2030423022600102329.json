@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2030423022600102329",
+    "created_at": "2026-03-07T23:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T00:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030423022600102329"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030423022600102329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想和你虚度时光 比如低头看鱼 比如把茶杯留在桌子上离开 浪费它们好看的阴影 我还想连落日一起浪费 比如散步一直消磨到星光满天 我还要浪费风起的时候坐在走廊发呆 直到你眼中的乌云全部被吹到窗外"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2030423022600102329",
+        "created_at": "2026-03-07T23:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T00:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030423022600102329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030423022600102329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想和你虚度时光 比如低头看鱼 比如把茶杯留在桌子上离开 浪费它们好看的阴影 我还想连落日一起浪费 比如散步一直消磨到星光满天 我还要浪费风起的时候坐在走廊发呆 直到你眼中的乌云全部被吹到窗外"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2028818677131559381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 59,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 133
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

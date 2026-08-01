@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2037030762906870036",
+    "created_at": "2026-03-26T05:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T06:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037039778433216532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1959230145623138304",
+          "start": 0,
+          "username": "oouki_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037039778433216532",
+    "in_reply_to_user_id": "1959230145623138304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037030762906870036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oouki_o 要面子不要脑子是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2037030762906870036",
+        "created_at": "2026-03-26T05:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037039778433216532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1959230145623138304",
+              "start": 0,
+              "username": "oouki_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037039778433216532",
+        "in_reply_to_user_id": "1959230145623138304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037030762906870036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oouki_o 要面子不要脑子是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959230145623138304",
+        "conversation_id": "2037030762906870036",
+        "created_at": "2026-03-26T04:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037030762906870036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037030762906870036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉反驳型人格脑子和没开化一样…你说什么它都要找个切入点反驳你，甚至你是对的毫无问题也要找个理由反驳你一下才行…^_^何意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 147,
+          "like_count": 3482,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 1045
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T12:24:14.000Z",
+        "description": "我是我唯一的隐德莱希 小号：@oukiioo\n100纯i 宅中宅 嘴强王者 分享美照记录xp 不约不线下不卖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "oukiioo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/oouki.hello",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/oouki.hello",
+                "start": 0,
+                "url": "https://t.co/6NpukbDkcW"
+              }
+            ]
+          }
+        },
+        "id": "1959230145623138304",
+        "location": "520/1314 ➕姓 只回口令",
+        "name": "ค 奈᳐奈᳐ ฅ ੭ﾞ",
+        "pinned_tweet_id": "2022983209760514506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001087386701475840/00JAfx-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9895,
+          "following_count": 43,
+          "like_count": 6934,
+          "listed_count": 17,
+          "media_count": 101,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/6NpukbDkcW",
+        "username": "oouki_o",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2039494165462126724",
+    "created_at": "2026-04-02T00:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T01:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039494165462126724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miiharukawa/st…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/miiharukawa/status/2039492803517145568",
+          "start": 95,
+          "url": "https://t.co/uEEz5SBBwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039494165462126724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039492803517145568",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "其实很希望自己刷视频可以经常刷到银渐层，去猫咖也期待那里有银渐层，但是有时候没有也没关系，总是看见的话会很想念的。\n我也不知道我对银渐层的喜欢到底是出于爱还是他，但我的确对银渐层情有独钟。 https://t.co/uEEz5SBBwy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2039494165462126724",
+        "created_at": "2026-04-02T00:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T01:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039494165462126724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miiharukawa/st…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/miiharukawa/status/2039492803517145568",
+              "start": 95,
+              "url": "https://t.co/uEEz5SBBwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039494165462126724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039492803517145568",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "其实很希望自己刷视频可以经常刷到银渐层，去猫咖也期待那里有银渐层，但是有时候没有也没关系，总是看见的话会很想念的。\n我也不知道我对银渐层的喜欢到底是出于爱还是他，但我的确对银渐层情有独钟。 https://t.co/uEEz5SBBwy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2039492803517145568",
+        "created_at": "2026-04-01T23:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T00:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039492803517145568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039492803517145568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "对前任没什么念想了，恨也没有爱也没有，但是我很想念他的猫。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 162,
+          "like_count": 4081,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 1287
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

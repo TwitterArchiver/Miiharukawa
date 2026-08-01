@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2080652227593781563",
+    "created_at": "2026-07-25T13:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081012956968726721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1986136179721240576",
+          "start": 0,
+          "username": "QwQIO3O"
+        },
+        {
+          "end": 22,
+          "id": "1775310503746916352",
+          "start": 9,
+          "username": "abyss_escape"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081012956968726721",
+    "in_reply_to_user_id": "1986136179721240576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080652227593781563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQIO3O @abyss_escape 一眼男"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080652214906105856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_2KmqbsAALTUo.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2080652227593781563",
+        "created_at": "2026-07-25T13:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081012956968726721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1986136179721240576",
+              "start": 0,
+              "username": "QwQIO3O"
+            },
+            {
+              "end": 22,
+              "id": "1775310503746916352",
+              "start": 9,
+              "username": "abyss_escape"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081012956968726721",
+        "in_reply_to_user_id": "1986136179721240576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080652227593781563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQIO3O @abyss_escape 一眼男"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080652214906105856"
+          ]
+        },
+        "author_id": "1986136179721240576",
+        "conversation_id": "2080652227593781563",
+        "created_at": "2026-07-24T13:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080652227593781563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1775310503746916352",
+              "start": 0,
+              "username": "abyss_escape"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCyBLPEGfV",
+              "end": 93,
+              "expanded_url": "https://x.com/QwQIO3O/status/2080652227593781563/photo/1",
+              "media_key": "3_2080652214906105856",
+              "start": 70,
+              "url": "https://t.co/fCyBLPEGfV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080652227593781563",
+        "in_reply_to_user_id": "1775310503746916352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 509,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@abyss_escape 孩子你赞赏码发来给你买支减肥针一起减肥好吗，动动小猪手翻遍我推文举报我是瘦不下来的\n\n🫰🏻今晚已被此人举报四次 https://t.co/fCyBLPEGfV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一摇 遥一摇",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 257,
+          "like_count": 10775,
+          "listed_count": 10,
+          "media_count": 502,
+          "tweet_count": 4099
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T18:20:18.000Z",
+        "description": "只是一位单亲拓麻妈妈\n@gjfgift 减肥打卡日记",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "gjfgift"
+              }
+            ]
+          }
+        },
+        "id": "1986136179721240576",
+        "location": "长春",
+        "name": "盖浇饭",
+        "pinned_tweet_id": "2077981096705495323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034605424658481152/uKDUuhoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 312,
+          "like_count": 12020,
+          "listed_count": 0,
+          "media_count": 594,
+          "tweet_count": 3323
+        },
+        "url": "",
+        "username": "QwQIO3O",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T23:53:12.000Z",
+        "description": "",
+        "id": "1775310503746916352",
+        "name": "屠宰场运输大卡车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080660571683528704/9maNb6M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "abyss_escape",
+        "verified": false
+      }
+    ]
+  }
+}

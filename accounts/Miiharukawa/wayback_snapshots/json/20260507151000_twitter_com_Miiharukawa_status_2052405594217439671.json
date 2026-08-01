@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2052404817700790415",
+    "created_at": "2026-05-07T15:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052405594217439671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049492820952748032",
+          "start": 0,
+          "username": "Huaituziovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052405594217439671",
+    "in_reply_to_user_id": "2049492820952748032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052405118059082013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huaituziovo 那个鸡蛋和肉还可以喵 不过好没性价比的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2052404817700790415",
+        "created_at": "2026-05-07T15:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052405594217439671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049492820952748032",
+              "start": 0,
+              "username": "Huaituziovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052405594217439671",
+        "in_reply_to_user_id": "2049492820952748032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052405118059082013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huaituziovo 那个鸡蛋和肉还可以喵 不过好没性价比的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049492820952748032",
+        "conversation_id": "2052404817700790415",
+        "created_at": "2026-05-07T15:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052405118059082013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052405118059082013",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052404817700790415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa os：我居然能看到小遥的os，看起来好好次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 215,
+          "like_count": 6952,
+          "listed_count": 4,
+          "media_count": 270,
+          "tweet_count": 2694
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T14:15:52.000Z",
+        "description": "小兔二世自娱自乐中",
+        "id": "2049492820952748032",
+        "location": "兔子窝",
+        "name": "坏兔子",
+        "pinned_tweet_id": "2051282992312852597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049493218551828480/g939VhQT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 29,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 34
+        },
+        "username": "Huaituziovo",
+        "verified": false
+      }
+    ]
+  }
+}

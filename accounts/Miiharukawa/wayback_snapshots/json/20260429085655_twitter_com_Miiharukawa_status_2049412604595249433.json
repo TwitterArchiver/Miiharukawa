@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2049412604595249433",
+    "created_at": "2026-04-29T08:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049412604595249433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001714721330991109",
+          "start": 3,
+          "username": "Ravenxux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049412604595249433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049371499673620661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ravenxux: 其实最恶心的不是性工作者穿什么衣服画什么妆 这都是一些风格打扮喜好而已 错的是有偏见的人 看到别人打扮成和性工作者类似的风格 就说人家是做鸡鸭的…现在是Lolita和jk被戴有色眼镜 迟早优衣库基础款也会被视为鸡鸭风"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2049412604595249433",
+        "created_at": "2026-04-29T08:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049412604595249433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001714721330991109",
+              "start": 3,
+              "username": "Ravenxux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049412604595249433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049371499673620661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ravenxux: 其实最恶心的不是性工作者穿什么衣服画什么妆 这都是一些风格打扮喜好而已 错的是有偏见的人 看到别人打扮成和性工作者类似的风格 就说人家是做鸡鸭的…现在是Lolita和jk被戴有色眼镜 迟早优衣库基础款也会被视为鸡鸭风"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001714721330991109",
+        "conversation_id": "2049371499673620661",
+        "created_at": "2026-04-29T06:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049371499673620661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049371499673620661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1950,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实最恶心的不是性工作者穿什么衣服画什么妆 这都是一些风格打扮喜好而已 错的是有偏见的人 看到别人打扮成和性工作者类似的风格 就说人家是做鸡鸭的…现在是Lolita和jk被戴有色眼镜 迟早优衣库基础款也会被视为鸡鸭风"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 199,
+          "like_count": 6123,
+          "listed_count": 5,
+          "media_count": 243,
+          "tweet_count": 2320
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T18:02:42.000Z",
+        "description": "我想发什么就发什么｜不卖福利不招嫖不约炮｜只有这一个账号｜不太擅长热情回应但心存感激",
+        "id": "2001714721330991109",
+        "location": "🚪288/666/888",
+        "name": "Raven",
+        "pinned_tweet_id": "2038675038480785723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001715199091548160/mGxVxuCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13414,
+          "following_count": 63,
+          "like_count": 5823,
+          "listed_count": 28,
+          "media_count": 101,
+          "tweet_count": 1162
+        },
+        "username": "Ravenxux",
+        "verified": false
+      }
+    ]
+  }
+}

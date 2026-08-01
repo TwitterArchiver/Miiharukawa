@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2076542582184923459",
+    "created_at": "2026-07-13T10:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T11:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076608232798462062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025870004793856000",
+          "start": 0,
+          "username": "Loop_yy0130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076608232798462062",
+    "in_reply_to_user_id": "2025870004793856000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076585208061870290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loop_yy0130 我觉得就是香骨鸡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2076542582184923459",
+        "created_at": "2026-07-13T10:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076608232798462062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025870004793856000",
+              "start": 0,
+              "username": "Loop_yy0130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076608232798462062",
+        "in_reply_to_user_id": "2025870004793856000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076585208061870290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loop_yy0130 我觉得就是香骨鸡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025870004793856000",
+        "conversation_id": "2076542582184923459",
+        "created_at": "2026-07-13T08:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076585208061870290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076585208061870290",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076542582184923459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 鸡贝贝是哪个地方呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一摇 遥一摇",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 253,
+          "like_count": 10408,
+          "listed_count": 10,
+          "media_count": 479,
+          "tweet_count": 3959
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T09:47:16.000Z",
+        "description": "我发誓自己是天使只是偶尔有点串。😂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/loop_yy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/loop_yy",
+                "start": 0,
+                "url": "https://t.co/ZuRTIwzvS4"
+              }
+            ]
+          }
+        },
+        "id": "2025870004793856000",
+        "location": "天国",
+        "name": "Loooooopyyy_",
+        "pinned_tweet_id": "2058959836193382473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056613547787067392/03fOhuyh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 95,
+          "like_count": 2358,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1793
+        },
+        "url": "https://t.co/ZuRTIwzvS4",
+        "username": "Loop_yy0130",
+        "verified": false
+      }
+    ]
+  }
+}

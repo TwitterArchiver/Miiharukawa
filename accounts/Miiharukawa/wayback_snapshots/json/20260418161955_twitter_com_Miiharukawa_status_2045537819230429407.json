@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2045477667697524784",
+    "created_at": "2026-04-18T16:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T17:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045537819230429407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2869071471",
+          "start": 0,
+          "username": "Merveanlanl123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045537819230429407",
+    "in_reply_to_user_id": "2869071471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045477667697524784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Merveanlanl123 太萌了吧宝宝……！！🥺🤲💖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1026,
+        "media_key": "3_2045477528316620800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGL--X9bMAAoOF5.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2045477667697524784",
+        "created_at": "2026-04-18T16:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045537819230429407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2869071471",
+              "start": 0,
+              "username": "Merveanlanl123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045537819230429407",
+        "in_reply_to_user_id": "2869071471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045477667697524784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Merveanlanl123 太萌了吧宝宝……！！🥺🤲💖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045477528316620800"
+          ]
+        },
+        "author_id": "2869071471",
+        "conversation_id": "2045477667697524784",
+        "created_at": "2026-04-18T12:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045477667697524784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDPRI0mD06",
+              "end": 50,
+              "expanded_url": "https://x.com/Merveanlanl123/status/2045477667697524784/photo/1",
+              "media_key": "3_2045477528316620800",
+              "start": 27,
+              "url": "https://t.co/jDPRI0mD06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045477667697524784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 685,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气4️⃣我了 自己剪刘海剪毁了 天杀的说我是洪金宝😃 https://t.co/jDPRI0mD06"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 183,
+          "like_count": 5242,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 1824
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-09T15:32:30.000Z",
+        "description": "之前的号没了 希望互关来找我玩\n当朋友⭕发",
+        "id": "2869071471",
+        "location": "🚪88/188纯绿",
+        "name": "苹果茉莉绿",
+        "pinned_tweet_id": "2041292783504474600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036084078588600320/xgsArSIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 96,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 124
+        },
+        "username": "Merveanlanl123",
+        "verified": false
+      }
+    ]
+  }
+}

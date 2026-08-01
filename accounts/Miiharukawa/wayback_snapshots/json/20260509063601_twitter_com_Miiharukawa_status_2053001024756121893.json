@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2052989778866712969",
+    "created_at": "2026-05-09T06:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053001024756121893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1562856910868492289",
+          "start": 0,
+          "username": "sngungto110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053001024756121893",
+    "in_reply_to_user_id": "1562856910868492289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052998713417543821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sngungto110 你觉得她会给啊🌚我都说了好几遍了，我刚上大一，断生活费半年了，一直以来都是我自己打工挣钱养活我自己，生活费车费学费都要我自己承担，上次根管3100都是我自己出的好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2052989778866712969",
+        "created_at": "2026-05-09T06:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053001024756121893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1562856910868492289",
+              "start": 0,
+              "username": "sngungto110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053001024756121893",
+        "in_reply_to_user_id": "1562856910868492289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052998713417543821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sngungto110 你觉得她会给啊🌚我都说了好几遍了，我刚上大一，断生活费半年了，一直以来都是我自己打工挣钱养活我自己，生活费车费学费都要我自己承担，上次根管3100都是我自己出的好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562856910868492289",
+        "conversation_id": "2052989778866712969",
+        "created_at": "2026-05-09T06:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052998713417543821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052998713417543821",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052989778866712969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 眼睛疼，看手机看的，牙疼，吃甜食吃的，我觉得父母不是不想给钱，是满足控制欲，他们可能觉得你这样会脱离他们的控制，如果要钱的话应该还是会给的吧，可能就是会说一说了，还有就是可能是我们和上一辈三观不合吧，，可能他们觉得他们能忍，你就可以忍，但是有可以不疼的办法我们为什么要忍啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 215,
+          "like_count": 7112,
+          "listed_count": 4,
+          "media_count": 278,
+          "tweet_count": 2763
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T17:38:41.000Z",
+        "description": "男的，纯爱党，瑟瑟只为纯爱服务，肌肤饥渴症，可以有人过来什么也不做抱一抱我吗",
+        "id": "1562856910868492289",
+        "name": "小青龙",
+        "pinned_tweet_id": "2024875985338806738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025622493000515584/_rt0noQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 125,
+          "like_count": 2586,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1289
+        },
+        "username": "sngungto110",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2070750666172342632",
+    "created_at": "2026-06-29T13:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071584693909438835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004483824122793984",
+          "start": 0,
+          "username": "momocha1599214e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071584693909438835",
+    "in_reply_to_user_id": "2004483824122793984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071298390076662189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momocha1599214e 婷婷桑的笑容在我心里是第一名！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2070750666172342632",
+        "created_at": "2026-06-29T13:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071584693909438835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004483824122793984",
+              "start": 0,
+              "username": "momocha1599214e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071584693909438835",
+        "in_reply_to_user_id": "2004483824122793984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071298390076662189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momocha1599214e 婷婷桑的笑容在我心里是第一名！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004483824122793984",
+        "conversation_id": "2070750666172342632",
+        "created_at": "2026-06-28T18:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T19:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071298390076662189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071298390076662189",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070750666172342632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 这条推特只能在我心中排第二，因为"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一遥 遥一遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 250,
+          "like_count": 10050,
+          "listed_count": 10,
+          "media_count": 446,
+          "tweet_count": 3808
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T09:26:10.000Z",
+        "description": "可以叫我小璃|一般黄色废料处理地|超业余女喘\n只回复礼貌私信|有🚪|随机视奸所有人|女生互fo大欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/momocha%E5%9D%…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/momocha%E5%9D%9A%E6%9E%9C",
+                "start": 0,
+                "url": "https://t.co/UyThplSPNO"
+              }
+            ]
+          }
+        },
+        "id": "2004483824122793984",
+        "location": "互联网幽灵",
+        "name": "momocha坚果",
+        "pinned_tweet_id": "2016917753995911185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026303218331131904/9WYJrmPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1889,
+          "following_count": 80,
+          "like_count": 6817,
+          "listed_count": 8,
+          "media_count": 67,
+          "tweet_count": 246
+        },
+        "url": "https://t.co/UyThplSPNO",
+        "username": "momocha1599214e",
+        "verified": false
+      }
+    ]
+  }
+}

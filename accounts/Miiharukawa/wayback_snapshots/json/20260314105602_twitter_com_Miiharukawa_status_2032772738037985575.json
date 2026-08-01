@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2032731051252953547",
+    "created_at": "2026-03-14T10:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032772738037985575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        },
+        {
+          "end": 25,
+          "id": "1819753476853014528",
+          "start": 12,
+          "username": "MiNaruto2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032772738037985575",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032737338854617375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 @MiNaruto2007 不如喝杯蜜雪冰城"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2032731051252953547",
+        "created_at": "2026-03-14T10:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032772738037985575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            },
+            {
+              "end": 25,
+              "id": "1819753476853014528",
+              "start": 12,
+              "username": "MiNaruto2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032772738037985575",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032737338854617375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 @MiNaruto2007 不如喝杯蜜雪冰城"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Investors and patents",
+              "id": "857878402157629440",
+              "name": "Investors and patents"
+            }
+          }
+        ],
+        "conversation_id": "2032731051252953547",
+        "created_at": "2026-03-14T08:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T09:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032737338854617375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1819753476853014528",
+              "start": 0,
+              "username": "MiNaruto2007"
+            },
+            {
+              "end": 28,
+              "id": "1765825463103139840",
+              "start": 17,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032737338854617375",
+        "in_reply_to_user_id": "1819753476853014528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032731051252953547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiNaruto2007 投資給@chloris923教育基金。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 108,
+          "like_count": 1672,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 452
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "雪花飘飘～北风萧萧～天地～一片～苍茫～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chloris923.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://chloris923.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/pyjXlDnHlj"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "blog网页：",
+        "name": "❄️",
+        "pinned_tweet_id": "2031330661903335873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028136498181316608/VLSPjO7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 259,
+          "like_count": 27944,
+          "listed_count": 4,
+          "media_count": 526,
+          "tweet_count": 15361
+        },
+        "url": "https://t.co/pyjXlDnHlj",
+        "username": "Chloris923",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T15:13:43.000Z",
+        "description": "未来的日子没有了你，可是梦乡中不时有你的身影。所以他们都以为我喜欢睡觉，其实我只是舍不得你。",
+        "id": "1819753476853014528",
+        "location": "木ノ葉村",
+        "name": "Valraven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006958637768732672/zp4WC3H9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 1240,
+          "like_count": 18220,
+          "listed_count": 1,
+          "media_count": 766,
+          "tweet_count": 5960
+        },
+        "username": "MiNaruto2007",
+        "verified": false
+      }
+    ]
+  }
+}

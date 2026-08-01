@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2043692278343184565",
+    "created_at": "2026-04-13T14:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043694464045351094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2017720424541696000",
+          "start": 0,
+          "username": "shuabyeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043694464045351094",
+    "in_reply_to_user_id": "2017720424541696000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043694194309665205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuabyeop 我上次喝酒还是周五室友给的3度果酒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2043692278343184565",
+        "created_at": "2026-04-13T14:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043694464045351094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2017720424541696000",
+              "start": 0,
+              "username": "shuabyeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043694464045351094",
+        "in_reply_to_user_id": "2017720424541696000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043694194309665205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuabyeop 我上次喝酒还是周五室友给的3度果酒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017720424541696000",
+        "conversation_id": "2043692278343184565",
+        "created_at": "2026-04-13T14:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043694194309665205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043694194309665205",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043692278343184565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 老大酒蒙子老大，等会接着睡呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 171,
+          "like_count": 4852,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 1652
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-31T22:03:42.000Z",
+        "description": "",
+        "id": "2017720424541696000",
+        "name": "小罗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017720924196507650/4EVY_gsa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 55,
+          "like_count": 3585,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 709
+        },
+        "username": "shuabyeop",
+        "verified": false
+      }
+    ]
+  }
+}

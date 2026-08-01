@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032449839532064768",
+        "3_2032449839402020865"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032449846272311475",
+    "created_at": "2026-03-13T13:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T14:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032449846272311475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KZOVaGQeqH",
+          "end": 48,
+          "expanded_url": "https://x.com/Miiharukawa/status/2032449846272311475/photo/1",
+          "media_key": "3_2032449839532064768",
+          "start": 25,
+          "url": "https://t.co/KZOVaGQeqH"
+        },
+        {
+          "display_url": "pic.x.com/KZOVaGQeqH",
+          "end": 48,
+          "expanded_url": "https://x.com/Miiharukawa/status/2032449846272311475/photo/1",
+          "media_key": "3_2032449839402020865",
+          "start": 25,
+          "url": "https://t.co/KZOVaGQeqH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032449846272311475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坐了五个小时的车在车上看到这条信息感觉心好累。😭 https://t.co/KZOVaGQeqH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2032449839532064768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDS2XFUbwAAmf1X.jpg",
+        "width": 880
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2032449839402020865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDS2XE1bcAENQdY.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032449839532064768",
+            "3_2032449839402020865"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032449846272311475",
+        "created_at": "2026-03-13T13:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032449846272311475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZOVaGQeqH",
+              "end": 48,
+              "expanded_url": "https://x.com/Miiharukawa/status/2032449846272311475/photo/1",
+              "media_key": "3_2032449839532064768",
+              "start": 25,
+              "url": "https://t.co/KZOVaGQeqH"
+            },
+            {
+              "display_url": "pic.x.com/KZOVaGQeqH",
+              "end": 48,
+              "expanded_url": "https://x.com/Miiharukawa/status/2032449846272311475/photo/1",
+              "media_key": "3_2032449839402020865",
+              "start": 25,
+              "url": "https://t.co/KZOVaGQeqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032449846272311475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坐了五个小时的车在车上看到这条信息感觉心好累。😭 https://t.co/KZOVaGQeqH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 105,
+          "like_count": 1435,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 402
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

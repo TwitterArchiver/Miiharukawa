@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2069936530244984920",
+    "created_at": "2026-06-25T00:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T01:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069936530244984920"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069936530244984920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "其实我们这种自学画画的人才是最心虚的，别人画画什么专业词汇全蹦出来了，一到别人问我你怎么画的，我只会说看顺眼就行。第一个发明液化的人真是天才，比例一不对我就液液液，比例实在不行就自己下场啦。每次对着镜子做出搔首弄姿的动作，床上的螨虫都要笑死了，什么亮灰暗面更是一脸懵。别人画画全靠眼力，而我画画只有审美，一不顺眼就液液液液液液液，什么视觉重心上色都不会。二分是自己想象的，下笔是赌的，颜色是蒙的，技巧全靠手P，突出了我的画技之低——其实我们自学画画的，才是赌神来的。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我们这种自学画画的人才是最心虚的，别人画画什么专业词汇全蹦出来了，一到别人问我你怎么画的，我只会说看顺眼就行。第一个发明液化的人真是天才，比例一不对我就液液液，比例实在不行就自己下场啦。每次对着镜子做出搔首弄姿的动作，床上的螨虫都要笑死了，什么亮灰暗面更是一脸懵。别人画画全靠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2069936530244984920",
+        "created_at": "2026-06-25T00:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T01:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069936530244984920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069936530244984920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实我们这种自学画画的人才是最心虚的，别人画画什么专业词汇全蹦出来了，一到别人问我你怎么画的，我只会说看顺眼就行。第一个发明液化的人真是天才，比例一不对我就液液液，比例实在不行就自己下场啦。每次对着镜子做出搔首弄姿的动作，床上的螨虫都要笑死了，什么亮灰暗面更是一脸懵。别人画画全靠眼力，而我画画只有审美，一不顺眼就液液液液液液液，什么视觉重心上色都不会。二分是自己想象的，下笔是赌的，颜色是蒙的，技巧全靠手P，突出了我的画技之低——其实我们自学画画的，才是赌神来的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我们这种自学画画的人才是最心虚的，别人画画什么专业词汇全蹦出来了，一到别人问我你怎么画的，我只会说看顺眼就行。第一个发明液化的人真是天才，比例一不对我就液液液，比例实在不行就自己下场啦。每次对着镜子做出搔首弄姿的动作，床上的螨虫都要笑死了，什么亮灰暗面更是一脸懵。别人画画全靠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一遥 遥一遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 243,
+          "like_count": 9808,
+          "listed_count": 6,
+          "media_count": 443,
+          "tweet_count": 3731
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

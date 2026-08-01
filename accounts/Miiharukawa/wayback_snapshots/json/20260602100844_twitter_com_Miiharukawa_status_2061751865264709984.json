@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2061664465469223142",
+    "created_at": "2026-06-02T10:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T11:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061751865264709984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1319943356563156993",
+          "start": 0,
+          "username": "marrow2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061751865264709984",
+    "in_reply_to_user_id": "1319943356563156993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061664465469223142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marrow2g 前者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2061664465469223142",
+        "created_at": "2026-06-02T10:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061751865264709984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1319943356563156993",
+              "start": 0,
+              "username": "marrow2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061751865264709984",
+        "in_reply_to_user_id": "1319943356563156993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061664465469223142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marrow2g 前者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319943356563156993",
+        "conversation_id": "2061664465469223142",
+        "created_at": "2026-06-02T04:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061664465469223142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061664465469223142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 645,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很好奇，咨询各位：m 到底是被惩罚会感到快乐（痛感带来快乐）还是惩罚后的奖赏带来快乐（安抚带来快乐）呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 234,
+          "like_count": 8781,
+          "listed_count": 6,
+          "media_count": 358,
+          "tweet_count": 3316
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-24T10:06:44.000Z",
+        "description": "她欢快的活力溢出房间四壁，像生机盎然的和风吹过秋海棠长廊。",
+        "id": "1319943356563156993",
+        "name": "TT",
+        "pinned_tweet_id": "2058445622739656893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036847078979379200/jDMypv6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 20,
+          "like_count": 5502,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 855
+        },
+        "username": "marrow2g",
+        "verified": false
+      }
+    ]
+  }
+}

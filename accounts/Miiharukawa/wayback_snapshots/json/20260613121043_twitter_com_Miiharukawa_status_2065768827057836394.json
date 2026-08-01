@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2065680180958691345",
+    "created_at": "2026-06-13T12:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065768827057836394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1742117453809725440",
+          "start": 0,
+          "username": "eclia121739922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065768827057836394",
+    "in_reply_to_user_id": "1742117453809725440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065680180958691345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eclia121739922 芥末萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 473,
+        "media_key": "3_2065680164521177088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrFKkna8AAfbGk.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2065680180958691345",
+        "created_at": "2026-06-13T12:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065768827057836394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1742117453809725440",
+              "start": 0,
+              "username": "eclia121739922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065768827057836394",
+        "in_reply_to_user_id": "1742117453809725440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065680180958691345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eclia121739922 芥末萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065680164521177088"
+          ]
+        },
+        "author_id": "1742117453809725440",
+        "conversation_id": "2065680180958691345",
+        "created_at": "2026-06-13T06:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065680180958691345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/20bvw1x6Rf",
+              "end": 31,
+              "expanded_url": "https://x.com/eclia121739922/status/2065680180958691345/photo/1",
+              "media_key": "3_2065680164521177088",
+              "start": 8,
+              "url": "https://t.co/20bvw1x6Rf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065680180958691345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我简直是区呃呃 https://t.co/20bvw1x6Rf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336260852609024/hwUXUhmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 235,
+          "like_count": 9300,
+          "listed_count": 6,
+          "media_count": 405,
+          "tweet_count": 3556
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T09:35:55.000Z",
+        "description": "玉玉/精分/08/我是冰西瓜/mtx🍥/伪娘全肯定（x/神圣放逐 黑柿子一生推/随机掉落cos/",
+        "id": "1742117453809725440",
+        "location": "世界渴望之城",
+        "name": "eeeee",
+        "pinned_tweet_id": "1935795793702891698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048731687841067008/0W1jpoWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 318,
+          "like_count": 1876,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 939
+        },
+        "username": "eclia121739922",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2060938242674090233",
+    "created_at": "2026-05-31T08:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061006129141092661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1593267144803901445",
+          "start": 0,
+          "username": "bb60040873"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061006129141092661",
+    "in_reply_to_user_id": "1593267144803901445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060938242674090233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bb60040873 看起来好美味……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2060938239083708416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnsaLyagAA0k6t.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1378,
+        "media_key": "3_2060938232154804224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnsZx-b0AAK4fI.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2060938242674090233",
+        "created_at": "2026-05-31T08:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061006129141092661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1593267144803901445",
+              "start": 0,
+              "username": "bb60040873"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061006129141092661",
+        "in_reply_to_user_id": "1593267144803901445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060938242674090233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bb60040873 看起来好美味……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060938239083708416",
+            "3_2060938232154804224"
+          ]
+        },
+        "author_id": "1593267144803901445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060938242674090233",
+        "created_at": "2026-05-31T04:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060938242674090233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NTy8iiKhfk",
+              "end": 78,
+              "expanded_url": "https://x.com/bb60040873/status/2060938242674090233/photo/1",
+              "media_key": "3_2060938239083708416",
+              "start": 55,
+              "url": "https://t.co/NTy8iiKhfk"
+            },
+            {
+              "display_url": "pic.x.com/NTy8iiKhfk",
+              "end": 78,
+              "expanded_url": "https://x.com/bb60040873/status/2060938242674090233/photo/1",
+              "media_key": "3_2060938232154804224",
+              "start": 55,
+              "url": "https://t.co/NTy8iiKhfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060938242674090233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们说我吃哪个，这两个都是实拍图看起来好好吃的样子，第一个是福建肉燕，第二个是鲜虾蟹籽鲜肉蛋黄双拼云吞🤤🤤🤤 https://t.co/NTy8iiKhfk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 233,
+          "like_count": 8536,
+          "listed_count": 6,
+          "media_count": 350,
+          "tweet_count": 3244
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T15:39:09.000Z",
+        "description": "爱碎碎念胡言乱语，间歇性发疯，bl，混的圈子杂啥都能吃一口，绝望的直女，不喜欢别看",
+        "id": "1593267144803901445",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013094892193382400/6-yy9Ldp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 469,
+          "like_count": 10482,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 4030
+        },
+        "username": "bb60040873",
+        "verified": false
+      }
+    ]
+  }
+}

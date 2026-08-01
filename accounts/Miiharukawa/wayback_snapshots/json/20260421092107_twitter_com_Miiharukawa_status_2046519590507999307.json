@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2046519590507999307",
+    "created_at": "2026-04-21T09:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046519590507999307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1993224784336048128",
+          "start": 3,
+          "username": "XixiYyybuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046519590507999307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046431712712802737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XixiYyybuu: 我刷推特经常在想这些傻逼怎么还会翻墙上网"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2046519590507999307",
+        "created_at": "2026-04-21T09:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046519590507999307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1993224784336048128",
+              "start": 3,
+              "username": "XixiYyybuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046519590507999307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046431712712802737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XixiYyybuu: 我刷推特经常在想这些傻逼怎么还会翻墙上网"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993224784336048128",
+        "conversation_id": "2046431712712802737",
+        "created_at": "2026-04-21T03:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046431712712802737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046431712712802737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10331,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我刷推特经常在想这些傻逼怎么还会翻墙上网"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 188,
+          "like_count": 5463,
+          "listed_count": 4,
+          "media_count": 214,
+          "tweet_count": 1922
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T07:49:05.000Z",
+        "description": "废话大王 |不网恋 不约炮 不线下 不聊骚 | 接瓦陪玩60/h|加v请过门|喜欢我可以给我钱|  提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.40850188",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.40850188",
+                "start": 0,
+                "url": "https://t.co/ccdws9VLHo"
+              }
+            ]
+          }
+        },
+        "id": "1993224784336048128",
+        "location": "🚪388/520/1314➕姓 纯绿",
+        "name": "‎₊˚꩜ Xixi✮˚₊",
+        "pinned_tweet_id": "2045805835360624968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043748692977475584/eqY6IMjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22385,
+          "following_count": 124,
+          "like_count": 1576,
+          "listed_count": 38,
+          "media_count": 79,
+          "tweet_count": 1586
+        },
+        "url": "https://t.co/ccdws9VLHo",
+        "username": "XixiYyybuu",
+        "verified": true
+      }
+    ]
+  }
+}

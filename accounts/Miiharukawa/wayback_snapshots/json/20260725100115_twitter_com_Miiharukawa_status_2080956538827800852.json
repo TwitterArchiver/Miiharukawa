@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2080809185193906656",
+    "created_at": "2026-07-25T10:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080956538827800852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1662293480486621184",
+          "start": 0,
+          "username": "dofees166639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080956538827800852",
+    "in_reply_to_user_id": "1662293480486621184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080809185193906656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dofees166639 可能是看见你关注了它不喜欢的人（？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2080809172745224192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOCE6wLagAATELP.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2080809185193906656",
+        "created_at": "2026-07-25T10:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080956538827800852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1662293480486621184",
+              "start": 0,
+              "username": "dofees166639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080956538827800852",
+        "in_reply_to_user_id": "1662293480486621184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080809185193906656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dofees166639 可能是看见你关注了它不喜欢的人（？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080809172745224192"
+          ]
+        },
+        "author_id": "1662293480486621184",
+        "conversation_id": "2080809185193906656",
+        "created_at": "2026-07-25T00:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T01:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080809185193906656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/giTULfeZzc",
+              "end": 35,
+              "expanded_url": "https://x.com/dofees166639/status/2080809185193906656/photo/1",
+              "media_key": "3_2080809172745224192",
+              "start": 12,
+              "url": "https://t.co/giTULfeZzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080809185193906656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "莫名被互关block了 https://t.co/giTULfeZzc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一摇 遥一摇",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2142,
+          "following_count": 255,
+          "like_count": 10748,
+          "listed_count": 10,
+          "media_count": 501,
+          "tweet_count": 4089
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:04:14.000Z",
+        "description": "是一个像薄荷叶一样的人\n忙碌。。。\n可以叫我薄荷叶\n代表されるのはごたえがないですね。\n話をはっきりさせることが大切にされています。\nJ'apprends le français et j'espère atteindre le niveau B2.",
+        "id": "1662293480486621184",
+        "location": "Ginowan-shi, Okinawa",
+        "name": "暮棠月",
+        "pinned_tweet_id": "2033841500724072659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004538362838089729/fwbMWls0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 3612,
+          "like_count": 117042,
+          "listed_count": 3,
+          "media_count": 408,
+          "tweet_count": 7949
+        },
+        "url": "",
+        "username": "dofees166639",
+        "verified": false
+      }
+    ]
+  }
+}
