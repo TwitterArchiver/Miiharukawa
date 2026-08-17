@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2084974024938136025",
+    "created_at": "2026-08-06T12:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085341872923480480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1678651719272611841",
+          "start": 0,
+          "username": "miokawa0701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085341872923480480",
+    "in_reply_to_user_id": "1678651719272611841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084974024938136025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miokawa0701 每个看起来都好美味🤤这是国宴吗！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2084973985163530240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9QyveaUAAnuuT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2084974024938136025",
+        "created_at": "2026-08-06T12:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085341872923480480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1678651719272611841",
+              "start": 0,
+              "username": "miokawa0701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085341872923480480",
+        "in_reply_to_user_id": "1678651719272611841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084974024938136025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miokawa0701 每个看起来都好美味🤤这是国宴吗！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084973985163530240"
+          ]
+        },
+        "author_id": "1678651719272611841",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084974024938136025",
+        "created_at": "2026-08-05T12:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084974024938136025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/huzroFRvIW",
+              "end": 41,
+              "expanded_url": "https://x.com/miokawa0701/status/2084974024938136025/photo/1",
+              "media_key": "3_2084973985163530240",
+              "start": 18,
+              "url": "https://t.co/huzroFRvIW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084974024938136025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8355,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了一桌子菜我完全是贤惠人妻级别的 https://t.co/huzroFRvIW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 249,
+          "like_count": 11022,
+          "listed_count": 10,
+          "media_count": 519,
+          "tweet_count": 4236
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T06:26:00.000Z",
+        "description": "全平台仅此账号‖全球随机掉落‖E杯赛博魅魔👿‖不接线下‖    💜 向霓虹闪烁的神明献出拥有美貌的代价 💜‖ 可爱老婆@sanwwww04‖BEST🔥@kendricklamar‖提问箱↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "sanwwww04"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "kendricklamar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_miokawa_1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/_miokawa_1",
+                "start": 0,
+                "url": "https://t.co/ToIRj7632f"
+              }
+            ]
+          }
+        },
+        "id": "1678651719272611841",
+        "location": "距离你 5 m",
+        "name": "neko今天🐱什么",
+        "pinned_tweet_id": "1901950528382497105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039385871192100864/MoL_KDsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90252,
+          "following_count": 559,
+          "like_count": 16676,
+          "listed_count": 121,
+          "media_count": 878,
+          "tweet_count": 4637
+        },
+        "url": "https://t.co/ToIRj7632f",
+        "username": "miokawa0701",
+        "verified": false
+      }
+    ]
+  }
+}
