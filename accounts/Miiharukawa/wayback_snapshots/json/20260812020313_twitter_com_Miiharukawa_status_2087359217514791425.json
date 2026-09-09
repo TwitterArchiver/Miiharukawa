@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2087359217514791425",
+    "created_at": "2026-08-12T02:03:13.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T03:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087359217514791425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miiharukawa/st…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/miiharukawa/status/2084227394194526663",
+          "start": 58,
+          "url": "https://t.co/YBAa4zt5aa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087359217514791425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084227394194526663",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃呃想到我妈最近一系列迷惑行为我真的很不舒服！！好想和家里人决裂但是我也不是很舍得家人 虽然没什么好值得我留恋的😔 https://t.co/YBAa4zt5aa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2087359217514791425",
+        "created_at": "2026-08-12T02:03:13.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087359217514791425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miiharukawa/st…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/miiharukawa/status/2084227394194526663",
+              "start": 58,
+              "url": "https://t.co/YBAa4zt5aa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087359217514791425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084227394194526663",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃呃想到我妈最近一系列迷惑行为我真的很不舒服！！好想和家里人决裂但是我也不是很舍得家人 虽然没什么好值得我留恋的😔 https://t.co/YBAa4zt5aa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2084227394194526663",
+        "created_at": "2026-08-03T10:38:28.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084227394194526663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084227394194526663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1700,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃我真的服了。给我爸妈还有我妹各点了一杯奶茶，我点的也没很差啊点的沪上阿姨的冰奶，我就点了三杯没点我自己的，我妈说我故意点这么难喝的给她们喝。\n是否有些太直言不讳了…\n我在家只要点外卖就会给全家点一份，也没见他们出一份钱给我也没给我生活费全是我自己的工资，凭什么说我故意点难喝的给她"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087359217514791425",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028814965965312001/1779934009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 249,
+          "like_count": 11142,
+          "listed_count": 10,
+          "media_count": 530,
+          "tweet_count": 4316
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

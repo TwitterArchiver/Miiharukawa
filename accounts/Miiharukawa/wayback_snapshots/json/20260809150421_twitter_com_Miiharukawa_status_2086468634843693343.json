@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2086460982013137145",
+    "created_at": "2026-08-09T15:04:21.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T16:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086468634843693343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936351595018747904",
+          "start": 0,
+          "username": "Sqqlcyy6037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086468634843693343",
+    "in_reply_to_user_id": "1936351595018747904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086467119341048211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sqqlcyy6037 ✅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2086460982013137145",
+        "created_at": "2026-08-09T15:04:21.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086468634843693343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936351595018747904",
+              "start": 0,
+              "username": "Sqqlcyy6037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086468634843693343",
+        "in_reply_to_user_id": "1936351595018747904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086467119341048211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sqqlcyy6037 ✅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936351595018747904",
+        "conversation_id": "2086460982013137145",
+        "created_at": "2026-08-09T14:58:20.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086467119341048211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086467119341048211",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086465552512589893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 这还能坏 是充不进去电之类的吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086468634843693343",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028814965965312001/1779934009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 249,
+          "like_count": 11053,
+          "listed_count": 10,
+          "media_count": 522,
+          "tweet_count": 4274
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-21T09:57:06.000Z",
+        "description": "",
+        "id": "1936351595018747904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086467119341048211",
+        "name": "某不知名的草蒹www",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936369727829315584/xrME-azk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 4,
+          "like_count": 8957,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1998
+        },
+        "url": "",
+        "username": "Sqqlcyy6037",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

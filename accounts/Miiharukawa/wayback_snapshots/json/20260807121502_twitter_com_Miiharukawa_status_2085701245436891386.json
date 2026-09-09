@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2085490736225722371",
+    "created_at": "2026-08-07T12:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085701245436891386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823405068034744320",
+          "start": 0,
+          "username": "hown530150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085701245436891386",
+    "in_reply_to_user_id": "1823405068034744320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085682688976187539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hown530150 我冰冷的钱钱已经变成温暖的大肠承载物了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2085490736225722371",
+        "created_at": "2026-08-07T12:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085701245436891386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823405068034744320",
+              "start": 0,
+              "username": "hown530150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085701245436891386",
+        "in_reply_to_user_id": "1823405068034744320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085682688976187539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hown530150 我冰冷的钱钱已经变成温暖的大肠承载物了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823405068034744320",
+        "conversation_id": "2085490736225722371",
+        "created_at": "2026-08-07T11:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085682688976187539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085682688976187539",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085490736225722371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 我的钱全买吃的了。好难过钱像尿一样流走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2123,
+          "following_count": 249,
+          "like_count": 11051,
+          "listed_count": 10,
+          "media_count": 522,
+          "tweet_count": 4252
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T17:03:48.000Z",
+        "description": "我也不太了解她",
+        "id": "1823405068034744320",
+        "location": "188cm",
+        "name": "喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004825093667782656/l4DFY3mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 964,
+          "like_count": 15279,
+          "listed_count": 0,
+          "media_count": 435,
+          "tweet_count": 11462
+        },
+        "url": "",
+        "username": "hown530150",
+        "verified": false
+      }
+    ]
+  }
+}

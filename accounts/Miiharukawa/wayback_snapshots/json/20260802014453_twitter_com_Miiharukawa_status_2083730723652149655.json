@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2083707802502222244",
+    "created_at": "2026-08-02T01:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083730723652149655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934448761406935042",
+          "start": 0,
+          "username": "Ajs_aya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083730723652149655",
+    "in_reply_to_user_id": "1934448761406935042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083722023415730376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ajs_aya 色欲会击溃人类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2083707802502222244",
+        "created_at": "2026-08-02T01:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083730723652149655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934448761406935042",
+              "start": 0,
+              "username": "Ajs_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083730723652149655",
+        "in_reply_to_user_id": "1934448761406935042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083722023415730376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajs_aya 色欲会击溃人类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934448761406935042",
+        "conversation_id": "2083707802502222244",
+        "created_at": "2026-08-02T01:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083722023415730376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083722023415730376",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083707802502222244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 说点我不想的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 249,
+          "like_count": 10907,
+          "listed_count": 10,
+          "media_count": 514,
+          "tweet_count": 4175
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T03:11:47.000Z",
+        "description": "@Ajs_ririka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Ajs_ririka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ajisairirika",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ajisairirika",
+                "start": 0,
+                "url": "https://t.co/Y1JnnRLJtz"
+              }
+            ]
+          }
+        },
+        "id": "1934448761406935042",
+        "name": "Aya",
+        "pinned_tweet_id": "2079820684918730837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078014243144962048/Ch5fSIYH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 115,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 331
+        },
+        "url": "https://t.co/Y1JnnRLJtz",
+        "username": "Ajs_aya",
+        "verified": false
+      }
+    ]
+  }
+}

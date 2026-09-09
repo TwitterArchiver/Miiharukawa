@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2084906973339042301",
+    "created_at": "2026-08-05T07:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084910936067023190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1425706149060308994",
+          "start": 0,
+          "username": "Hitman_T800"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084910936067023190",
+    "in_reply_to_user_id": "1425706149060308994",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084909627733614705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hitman_T800 🆘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2084906973339042301",
+        "created_at": "2026-08-05T07:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084910936067023190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1425706149060308994",
+              "start": 0,
+              "username": "Hitman_T800"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084910936067023190",
+        "in_reply_to_user_id": "1425706149060308994",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084909627733614705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hitman_T800 🆘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425706149060308994",
+        "conversation_id": "2084906973339042301",
+        "created_at": "2026-08-05T07:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084909627733614705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084909627733614705",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084906973339042301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 我的fo也一直在动……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 246,
+          "like_count": 10987,
+          "listed_count": 10,
+          "media_count": 518,
+          "tweet_count": 4218
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T06:30:25.000Z",
+        "description": "碎碎念/男的",
+        "id": "1425706149060308994",
+        "name": "仿生人T800",
+        "pinned_tweet_id": "1905188226819854730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993362668347170816/31pbj8ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 776,
+          "like_count": 69198,
+          "listed_count": 3,
+          "media_count": 748,
+          "tweet_count": 10667
+        },
+        "url": "",
+        "username": "Hitman_T800",
+        "verified": false
+      }
+    ]
+  }
+}

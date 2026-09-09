@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2084575781246906503",
+    "created_at": "2026-08-04T19:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T20:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084721515019600253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1893419388297969665",
+          "start": 0,
+          "username": "roliyuyu187810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084721515019600253",
+    "in_reply_to_user_id": "1893419388297969665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084575781246906503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roliyuyu187810 你的美丽已经超出普通范围了！！明明就很漂亮呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15045,
+        "height": 1280,
+        "media_key": "13_2084575730953076736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084575730953076736/img/g9C4yQRoqmMyDt7g.jpg",
+        "public_metrics": {
+          "view_count": 332
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084575730953076736/vid/avc1/320x568/yZQmpPbqzgrE2msM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084575730953076736/vid/avc1/480x852/vHTGexUHTnjbxS7G.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084575730953076736/vid/avc1/720x1280/qd-gsg48zOHkmdQj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084575730953076736/pl/BK0q7fWcM_mWX0eb.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2084575781246906503",
+        "created_at": "2026-08-04T19:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084721515019600253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1893419388297969665",
+              "start": 0,
+              "username": "roliyuyu187810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084721515019600253",
+        "in_reply_to_user_id": "1893419388297969665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084575781246906503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roliyuyu187810 你的美丽已经超出普通范围了！！明明就很漂亮呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084575730953076736"
+          ]
+        },
+        "author_id": "1893419388297969665",
+        "conversation_id": "2084575781246906503",
+        "created_at": "2026-08-04T09:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084575781246906503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3Jr8LtzaE",
+              "end": 42,
+              "expanded_url": "https://x.com/roliyuyu187810/status/2084575781246906503/video/1",
+              "media_key": "13_2084575730953076736",
+              "start": 19,
+              "url": "https://t.co/s3Jr8LtzaE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084575781246906503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1138,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可是我不化妆只是一个很普通的人呀。。 https://t.co/s3Jr8LtzaE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 249,
+          "like_count": 10976,
+          "listed_count": 10,
+          "media_count": 518,
+          "tweet_count": 4211
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T21:55:56.000Z",
+        "description": "泛性恋 不约不聊骚。纯发泄怨念和分享生活（重度精神病）😆喜欢的会互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "get.sushi3.cloud/#/home?code=jg…",
+                "end": 23,
+                "expanded_url": "https://get.sushi3.cloud/#/home?code=jgxS3SPQ",
+                "start": 0,
+                "url": "https://t.co/AJDIijEIl7"
+              }
+            ]
+          }
+        },
+        "id": "1893419388297969665",
+        "location": "Hong Kong",
+        "name": "魚魚",
+        "pinned_tweet_id": "1925426417333944354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048424454749917184/hnpuFSC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 42,
+          "like_count": 1108,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1181
+        },
+        "url": "https://t.co/AJDIijEIl7",
+        "username": "roliyuyu187810",
+        "verified": false
+      }
+    ]
+  }
+}

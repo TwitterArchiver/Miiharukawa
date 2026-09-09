@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2086558528668627109",
+    "created_at": "2026-08-09T21:01:34.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T22:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086558528668627109"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086558528668627109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在都不敢跟顺直聊天了，聊着聊着他又肚子饿了，没有话费了，皮肤没钱充了，房租快到期了，想喝酒了，前任又找他要钱了，又想要看我朋友圈没有的照片了，又想看素颜照了，又想看腿照了，又想约我出来见面了，又吃不起饭了，我喝杯奶茶又成富婆了，搞的好像我有罪一样，把他聊得家徒四壁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2086558528668627109",
+        "created_at": "2026-08-09T21:01:34.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T22:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086558528668627109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086558528668627109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在都不敢跟顺直聊天了，聊着聊着他又肚子饿了，没有话费了，皮肤没钱充了，房租快到期了，想喝酒了，前任又找他要钱了，又想要看我朋友圈没有的照片了，又想看素颜照了，又想看腿照了，又想约我出来见面了，又吃不起饭了，我喝杯奶茶又成富婆了，搞的好像我有罪一样，把他聊得家徒四壁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086558528668627109",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028814965965312001/1779934009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 249,
+          "like_count": 11054,
+          "listed_count": 10,
+          "media_count": 522,
+          "tweet_count": 4276
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

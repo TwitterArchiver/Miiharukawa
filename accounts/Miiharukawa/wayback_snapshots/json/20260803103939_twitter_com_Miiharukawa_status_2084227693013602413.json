@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2084227394194526663",
+    "created_at": "2026-08-03T10:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084227693013602413"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084227693013602413",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084227394194526663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "气死我了气死我了气死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2084227394194526663",
+        "created_at": "2026-08-03T10:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084227693013602413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084227693013602413",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084227394194526663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "气死我了气死我了气死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2084227394194526663",
+        "created_at": "2026-08-03T10:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084227394194526663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084227394194526663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃我真的服了。给我爸妈还有我妹各点了一杯奶茶，我点的也没很差啊点的沪上阿姨的冰奶，我就点了三杯没点我自己的，我妈说我故意点这么难喝的给她们喝。\n是否有些太直言不讳了…\n我在家只要点外卖就会给全家点一份，也没见他们出一份钱给我也没给我生活费全是我自己的工资，凭什么说我故意点难喝的给她"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2128,
+          "following_count": 248,
+          "like_count": 10945,
+          "listed_count": 10,
+          "media_count": 517,
+          "tweet_count": 4194
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

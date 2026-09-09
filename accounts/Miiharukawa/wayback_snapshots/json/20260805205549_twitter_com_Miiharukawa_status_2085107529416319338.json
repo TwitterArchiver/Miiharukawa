@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085107522705428480"
+      ]
+    },
+    "author_id": "2028814965965312001",
+    "conversation_id": "2085107529416319338",
+    "created_at": "2026-08-05T20:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T21:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085107529416319338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D0SLdriHtS",
+          "end": 49,
+          "expanded_url": "https://x.com/Miiharukawa/status/2085107529416319338/photo/1",
+          "media_key": "3_2085107522705428480",
+          "start": 26,
+          "url": "https://t.co/D0SLdriHtS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085107529416319338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的妈呀大哥大姐你们在临界创作者申请里整啥玩意啊。 https://t.co/D0SLdriHtS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2085107522705428480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_KPplaEAAa-Dx.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085107522705428480"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2085107529416319338",
+        "created_at": "2026-08-05T20:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085107529416319338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D0SLdriHtS",
+              "end": 49,
+              "expanded_url": "https://x.com/Miiharukawa/status/2085107529416319338/photo/1",
+              "media_key": "3_2085107522705428480",
+              "start": 26,
+              "url": "https://t.co/D0SLdriHtS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085107529416319338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的妈呀大哥大姐你们在临界创作者申请里整啥玩意啊。 https://t.co/D0SLdriHtS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2124,
+          "following_count": 248,
+          "like_count": 10995,
+          "listed_count": 10,
+          "media_count": 519,
+          "tweet_count": 4226
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

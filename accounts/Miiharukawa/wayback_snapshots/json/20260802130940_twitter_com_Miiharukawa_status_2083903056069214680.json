@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2083888413053440461",
+    "created_at": "2026-08-02T13:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083903056069214680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1556631006378987520",
+          "start": 0,
+          "username": "kohi_koho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083903056069214680",
+    "in_reply_to_user_id": "1556631006378987520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083888413053440461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kohi_koho 侧睡喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2083888413053440461",
+        "created_at": "2026-08-02T13:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083903056069214680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1556631006378987520",
+              "start": 0,
+              "username": "kohi_koho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083903056069214680",
+        "in_reply_to_user_id": "1556631006378987520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083888413053440461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohi_koho 侧睡喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556631006378987520",
+        "conversation_id": "2083888413053440461",
+        "created_at": "2026-08-02T12:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083888413053440461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083888413053440461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感冒了两个鼻孔都不通气，感觉像溺水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 249,
+          "like_count": 10917,
+          "listed_count": 10,
+          "media_count": 514,
+          "tweet_count": 4182
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T13:19:01.000Z",
+        "description": "这是一颗羊肚菌 ceci est une morille\n\n可以找我聊天",
+        "id": "1556631006378987520",
+        "location": "深セン",
+        "name": "もりぃ Morille",
+        "pinned_tweet_id": "2017699214172823729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014378800101130240/R_otUQI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 531,
+          "like_count": 10891,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 1027
+        },
+        "url": "",
+        "username": "kohi_koho",
+        "verified": false
+      }
+    ]
+  }
+}

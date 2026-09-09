@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028814965965312001",
+    "conversation_id": "2087052616429899969",
+    "created_at": "2026-08-11T05:44:53.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T06:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087052616429899969"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087052616429899969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小时候被灌输着各种各样的职业歧视\n我现在不太能理解职业歧视，如果同学家长是开餐饮的我只会觉得好厉害我也想尝尝，送外卖的我也会很佩服，肯定比我认识不少路。只要是正经谋生无论什么工作都不会太轻松吧，好好工作靠自己努力生活这件事本身就很厉害，不是成为职场精英才值得被小孩子仰慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2087052616429899969",
+        "created_at": "2026-08-11T05:44:53.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087052616429899969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087052616429899969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候被灌输着各种各样的职业歧视\n我现在不太能理解职业歧视，如果同学家长是开餐饮的我只会觉得好厉害我也想尝尝，送外卖的我也会很佩服，肯定比我认识不少路。只要是正经谋生无论什么工作都不会太轻松吧，好好工作靠自己努力生活这件事本身就很厉害，不是成为职场精英才值得被小孩子仰慕"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087052616429899969",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028814965965312001/1779934009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2117,
+          "following_count": 250,
+          "like_count": 11086,
+          "listed_count": 10,
+          "media_count": 524,
+          "tweet_count": 4288
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
